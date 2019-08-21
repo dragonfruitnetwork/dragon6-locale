@@ -2,6 +2,7 @@ language: csharp
 mono: latest
 dist: xenial
 script:
+  - nuget restore DragonFruit.Six.Locale.sln
   - msbuild DragonFruit.Six.Locale.sln /p:Configuration=Release
   - mon=`date +%m`
   - day=`date +%d`
