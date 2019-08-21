@@ -7,4 +7,4 @@ script:
   - mon=`date +%m`
   - day=`date +%d`
   - nuget pack "DragonFruit.Six.Locale/DragonFruit.Six.Locale.csproj" -Version 2019.$mon.$day -OutputDirectory .. -Properties Configuration=Release 
-  - nuget push *.nupkg -ApiKey $nugetkey -Source https://api.nuget.org/v3/index.json
+  - nuget push ./DragonFruit.Six.Locale.2019.$mon.$day.nupkg -ApiKey $nugetkey -Source https://api.nuget.org/v3/index.json
