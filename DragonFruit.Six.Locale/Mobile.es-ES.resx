@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Abandon" xml:space="preserve">
+    <value>Abandonos</value>
+  </data>
+  <data name="AboutAppResourcesText" xml:space="preserve">
+    <value>Recursos adicionales</value>
+  </data>
+  <data name="AboutAppText" xml:space="preserve">
+    <value>Acerca de Dragon6</value>
+  </data>
+  <data name="Added" xml:space="preserve">
+    <value>{0} añadido</value>
+  </data>
+  <data name="AddToLeaderboard" xml:space="preserve">
+    <value>A un tablero de clasificación</value>
+  </data>
+  <data name="AddToSaved" xml:space="preserve">
+    <value>A Jugadores Guardados</value>
+  </data>
+  <data name="Admin" xml:space="preserve">
+    <value>Administrador de Dragon6</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Regresar</value>
+  </data>
+  <data name="BetaTester" xml:space="preserve">
+    <value>Beta Tester</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="CantSaveProfile" xml:space="preserve">
+    <value>No podemos guardar este jugador...</value>
+  </data>
+  <data name="CasualKD" xml:space="preserve">
+    <value>Casual A/M</value>
+  </data>
+  <data name="ClearSavedProfiles" xml:space="preserve">
+    <value>Borrar las jugadores guardadas</value>
+  </data>
+  <data name="ClearSavedProfilesButton" xml:space="preserve">
+    <value>Borrar</value>
+  </data>
+  <data name="ConfirmDelete" xml:space="preserve">
+    <value>Confirmar Borrar</value>
+  </data>
+  <data name="ConfirmSave" xml:space="preserve">
+    <value>Confirmar Guardar</value>
+  </data>
+  <data name="Deaths" xml:space="preserve">
+    <value>Muertes</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="HeadshotsText" xml:space="preserve">
+    <value>Disparos en la Cabeza</value>
+  </data>
+  <data name="HomeLoading" xml:space="preserve">
+    <value>Cargando jugadores</value>
+  </data>
+  <data name="KD" xml:space="preserve">
+    <value>A/M</value>
+  </data>
+  <data name="Kills" xml:space="preserve">
+    <value>Asesinatos</value>
+  </data>
+  <data name="Knifes" xml:space="preserve">
+    <value>Cuerpo a cuerpo</value>
+  </data>
+  <data name="LeaderboardCategoryBestHeadshotRate" xml:space="preserve">
+    <value>Meyor porcentaje de disparos en la cabeza</value>
+  </data>
+  <data name="LeaderboardCategoryBestKD" xml:space="preserve">
+    <value>Meyor A/M medio</value>
+  </data>
+  <data name="LeaderboardCategoryBestRank" xml:space="preserve">
+    <value>Mejor Rango</value>
+  </data>
+  <data name="LeaderboardCategoryBestWL" xml:space="preserve">
+    <value>Meyor V/D</value>
+  </data>
+  <data name="LeaderboardCategoryLongestTimePlayed" xml:space="preserve">
+    <value>Tiempo Jugado</value>
+  </data>
+  <data name="LeaderboardCategorySmallestRankDrop" xml:space="preserve">
+    <value>Soltar Rango Menor</value>
+  </data>
+  <data name="LeaderboardCreate" xml:space="preserve">
+    <value>Crear un tablero de clasificación</value>
+  </data>
+  <data name="LeaderboardErrorBody" xml:space="preserve">
+    <value>Necesitas dos o más personas para cargar un tablero de clasificación.</value>
+  </data>
+  <data name="LeaderboardErrorBodyShort" xml:space="preserve">
+    <value>No hay suficiente jugadores</value>
+  </data>
+  <data name="LeaderboardLoading" xml:space="preserve">
+    <value>Cargando tabla de clasificación...</value>
+  </data>
+  <data name="LeaderboardName" xml:space="preserve">
+    <value>Nombre del tabla de clasificación</value>
+  </data>
+  <data name="LeaderboardPlacement" xml:space="preserve">
+    <value>Mejor en {0} Categorías</value>
+  </data>
+  <data name="LeaderboardRemove" xml:space="preserve">
+    <value>Eliminar Tabla</value>
+  </data>
+  <data name="LeaderboardRemoveConfirm" xml:space="preserve">
+    <value>¿Quiere eliminar esta tablero de clasificación?</value>
+  </data>
+  <data name="LeaderboardRemovePlayers" xml:space="preserve">
+    <value>Toca para eliminar jugadores</value>
+  </data>
+  <data name="LeaderboardUpdatedNotification" xml:space="preserve">
+    <value>Nombre del tabla de clasificación está actualizado</value>
+  </data>
+  <data name="Losses" xml:space="preserve">
+    <value>Pérdidas</value>
+  </data>
+  <data name="MainPageHomeText" xml:space="preserve">
+    <value>Inicio</value>
+  </data>
+  <data name="MainPageNewsText" xml:space="preserve">
+    <value>Noticias</value>
+  </data>
+  <data name="MainPageSaveHint" xml:space="preserve">
+    <value>Consejo: Para guardar jugadores, doble toque su foto...</value>
+  </data>
+  <data name="MaxRank" xml:space="preserve">
+    <value>Mejor Rango</value>
+  </data>
+  <data name="MenuAbout" xml:space="preserve">
+    <value>Acerca de Dragon6</value>
+  </data>
+  <data name="MenuRecents" xml:space="preserve">
+    <value>Ver Jugadores Recientes</value>
+  </data>
+  <data name="MenuSettings" xml:space="preserve">
+    <value>Preferencias</value>
+  </data>
+  <data name="MenuTitle" xml:space="preserve">
+    <value>Menú Dragon6</value>
+  </data>
+  <data name="NewsPageSteamAttribute" xml:space="preserve">
+    <value>Impulsado por Steam</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="NoInternetErrorText" xml:space="preserve">
+    <value>Necesitas una conexión a Internet para continuar</value>
+  </data>
+  <data name="NoInternetRetryText" xml:space="preserve">
+    <value>Reintentar Conexión</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>Aceptar</value>
+  </data>
+  <data name="OperationPrefix" xml:space="preserve">
+    <value>Operación</value>
+  </data>
+  <data name="Operator" xml:space="preserve">
+    <value>Agente {0}</value>
+  </data>
+  <data name="OperatorStatsError" xml:space="preserve">
+    <value>Hubo un problema obteniendo las estadísticas del Agentes. Por favor, inténtalo de recargar el jugador o inténtalo de nuevo más tarde.</value>
+  </data>
+  <data name="OperatorStatsErrorShort" xml:space="preserve">
+    <value>Error de descarga de estadísticas del Agente</value>
+  </data>
+  <data name="Overall" xml:space="preserve">
+    <value>General {0}</value>
+  </data>
+  <data name="PlatformSelectorText" xml:space="preserve">
+    <value>Plataforma defecto</value>
+  </data>
+  <data name="PlayerLinkErrorShort" xml:space="preserve">
+    <value>Error de lectura/escritura</value>
+  </data>
+  <data name="PlayerNotFound" xml:space="preserve">
+    <value>Comprueba el nombre y la plataforma del jugador</value>
+  </data>
+  <data name="PlayerNotFoundShort" xml:space="preserve">
+    <value>Jugador no encontrado</value>
+  </data>
+  <data name="PlayerRemoveError" xml:space="preserve">
+    <value>Algo ha ocurrido y no podemos eliminar este jugador. Por favor, compruebe el espacio en disco y/o reinicie la aplicación</value>
+  </data>
+  <data name="Players" xml:space="preserve">
+    <value>Jugadores</value>
+  </data>
+  <data name="PlayersRemoved" xml:space="preserve">
+    <value>Jugadores eliminados</value>
+  </data>
+  <data name="R6OperatorText" xml:space="preserve">
+    <value>Agente de Rainbow Six</value>
+  </data>
+  <data name="RankDifference" xml:space="preserve">
+    <value>Diferencia de rango de</value>
+  </data>
+  <data name="Ranked" xml:space="preserve">
+    <value>Igualada {0}</value>
+  </data>
+  <data name="RankedRegionSelectorText" xml:space="preserve">
+    <value>Región clasificada por defecto</value>
+  </data>
+  <data name="RankedTip" xml:space="preserve">
+    <value>Toca la carta superior para cambiar las temporadas</value>
+  </data>
+  <data name="RecentsClearedConfirmation" xml:space="preserve">
+    <value>Jugadores limpiados</value>
+  </data>
+  <data name="RegionChanged" xml:space="preserve">
+    <value>Cambiar región a</value>
+  </data>
+  <data name="RemovePlayer" xml:space="preserve">
+    <value>Eliminar {0}</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Guarda</value>
+  </data>
+  <data name="SavedPlayersLimit" xml:space="preserve">
+    <value>Has alcanzado el máximo de jugadores guardados. Por favor, elimina algunos e inténtalo de nuevo...</value>
+  </data>
+  <data name="SavedPlayersLimitShort" xml:space="preserve">
+    <value>Límite alcanzado</value>
+  </data>
+  <data name="SavePlayerError" xml:space="preserve">
+    <value>Algo ha ocurrido y no podemos ahorrar este jugador. Por favor, compruebe el espacio en disco y/o reinicie la aplicación</value>
+  </data>
+  <data name="SearchPlayerBarText" xml:space="preserve">
+    <value>Buscar Jugador</value>
+  </data>
+  <data name="SearchRecents" xml:space="preserve">
+    <value>Buscar Recientes</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Temporada</value>
+  </data>
+  <data name="SeasonSelector" xml:space="preserve">
+    <value>Seleccionar Temporada</value>
+  </data>
+  <data name="ServerInMaintenance" xml:space="preserve">
+    <value>En Maintenance</value>
+  </data>
+  <data name="ServersOnline" xml:space="preserve">
+    <value>Todos los servidores en línea</value>
+  </data>
+  <data name="ServerStatus" xml:space="preserve">
+    <value>Estado del Servidor</value>
+  </data>
+  <data name="StatsGeneral" xml:space="preserve">
+    <value>General</value>
+  </data>
+  <data name="StatsHeader" xml:space="preserve">
+    <value>Estadísticas del jugador</value>
+  </data>
+  <data name="StatsLoadingBar" xml:space="preserve">
+    <value>Cargando Estadísticas... ({0})</value>
+  </data>
+  <data name="StatsOperator" xml:space="preserve">
+    <value>Agente</value>
+  </data>
+  <data name="StatsRanked" xml:space="preserve">
+    <value>Igualada</value>
+  </data>
+  <data name="Suicides" xml:space="preserve">
+    <value>Suicidios</value>
+  </data>
+  <data name="Supporter" xml:space="preserve">
+    <value>Seguidor Dragon6</value>
+  </data>
+  <data name="THunt" xml:space="preserve">
+    <value>Caza del Terrorista</value>
+  </data>
+  <data name="Translator" xml:space="preserve">
+    <value>Traductor Dragon6</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Un error inesperado ha pasado a ser.\nEl equipo Dragon6 ha sido despertado y trabajará para arreglarlo lo más rápido posible\n</value>
+  </data>
+  <data name="UpdateAssets" xml:space="preserve">
+    <value>Actualizar información</value>
+  </data>
+  <data name="UpdateAssetsButton" xml:space="preserve">
+    <value>Actualizar</value>
+  </data>
+  <data name="VerifiedUser" xml:space="preserve">
+    <value>Usuario Verificado</value>
+  </data>
+  <data name="Wins" xml:space="preserve">
+    <value>Gana</value>
+  </data>
+  <data name="WL" xml:space="preserve">
+    <value>V/D</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="AddMenuHead" xml:space="preserve">
+    <value>Añadir...</value>
+  </data>
+  <data name="CasualWL" xml:space="preserve">
+    <value>Casual V/D</value>
+  </data>
+  <data name="CurrentSeason" xml:space="preserve">
+    <value>Temporada Actual</value>
+  </data>
+  <data name="Downs" xml:space="preserve">
+    <value>Derribos</value>
+  </data>
+  <data name="DownsRevives" xml:space="preserve">
+    <value>Derribos versus Reanimaciones</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>Nivel</value>
+  </data>
+  <data name="OfTotal" xml:space="preserve">
+    <value>del total de</value>
+  </data>
+  <data name="OperatorHS" xml:space="preserve">
+    <value>Agente Disparos a la Cabeza %</value>
+  </data>
+  <data name="OperatorKD" xml:space="preserve">
+    <value>Agente A/M</value>
+  </data>
+  <data name="OperatorKPR" xml:space="preserve">
+    <value>Agente Mata por Ronda</value>
+  </data>
+  <data name="OperatorSearch" xml:space="preserve">
+    <value>Buscar Agente...</value>
+  </data>
+  <data name="OperatorStats" xml:space="preserve">
+    <value>Estadísticas del Agente</value>
+  </data>
+  <data name="OperatorWL" xml:space="preserve">
+    <value>Agente V/D</value>
+  </data>
+  <data name="OverallKD" xml:space="preserve">
+    <value>General A/M</value>
+  </data>
+  <data name="OverallWL" xml:space="preserve">
+    <value>General V/D</value>
+  </data>
+  <data name="RankedKD" xml:space="preserve">
+    <value>Igualada A/M</value>
+  </data>
+  <data name="RankedWL" xml:space="preserve">
+    <value>Igualada V/D</value>
+  </data>
+  <data name="Removed" xml:space="preserve">
+    <value>Eliminado</value>
+  </data>
+  <data name="Revives" xml:space="preserve">
+    <value>Reanimaciones</value>
+  </data>
+  <data name="SeasonAbandon" xml:space="preserve">
+    <value>Temporada Abandona %</value>
+  </data>
+  <data name="SeasonChangeTip" xml:space="preserve">
+    <value>Toca la carta superior para cambiar las temporadas</value>
+  </data>
+  <data name="SeasonWL" xml:space="preserve">
+    <value>Temporada V/D</value>
+  </data>
+  <data name="THuntKD" xml:space="preserve">
+    <value>Caza del Terrorista A/M</value>
+  </data>
+  <data name="THuntWL" xml:space="preserve">
+    <value>Caza del Terrorista V/D</value>
+  </data>
+  <data name="Understood" xml:space="preserve">
+    <value>Entendido</value>
+  </data>
+  <data name="ShareApp" xml:space="preserve">
+    <value>Compartir Dragon6</value>
+  </data>
+  <data name="ShareProfile" xml:space="preserve">
+    <value>Compartir jugador</value>
+  </data>
+  <data name="TranslateApp" xml:space="preserve">
+    <value>Traducir Dragon6</value>
+  </data>
+  <data name="ShareProfileContent" xml:space="preserve">
+    <value>Echa un vistazo a {0} en Dragon6 - Un rastreador gratis estadísticas de Rainbow Six</value>
+  </data>
+  <data name="BestSocre" xml:space="preserve">
+    <value>Mejores puntuaciones</value>
+  </data>
+  <data name="BombMode" xml:space="preserve">
+    <value>Bombas</value>
+  </data>
+  <data name="HostageMode" xml:space="preserve">
+    <value>Rehén</value>
+  </data>
+  <data name="PenetrationKills" xml:space="preserve">
+    <value>Asesinatos a través de la pared</value>
+  </data>
+  <data name="Points" xml:space="preserve">
+    <value>Puntos</value>
+  </data>
+  <data name="SecureAreaMode" xml:space="preserve">
+    <value>Asegurar la zona</value>
+  </data>
+  <data name="ShareAppText" xml:space="preserve">
+    <value>Echa un vistazo a Dragon6, un rastreador de estadísticas gratuito de Rainbow Six Siege</value>
+  </data>
+  <data name="Rounds" xml:space="preserve">
+    <value>Rondas</value>
+  </data>
+  <data name="MeleeKills" xml:space="preserve">
+    <value>Asesinatos de CaC</value>
+  </data>
+  <data name="Rank" xml:space="preserve">
+    <value>Rango</value>
+  </data>
+  <data name="Ranks" xml:space="preserve">
+    <value>Rango(s)</value>
+  </data>
+</root>

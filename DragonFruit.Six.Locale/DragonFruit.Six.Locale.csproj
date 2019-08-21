@@ -1,7 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Dragon6.Locale</PackageId>
+    <Version>2019.8</Version>
+    <Authors>DragonFruit Network</Authors>
+    <Product>Dragon6 Locale</Product>
+    <Description>Localised Strings Used by the Dragon6 Apps</Description>
+    <Copyright>Copyright 2019 (C) DragonFruit Network</Copyright>
+    <PackageProjectUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale</PackageProjectUrl>
+    <PackageIconUrl>https://assets.dragon6.dragonfruit.network/Dragon6-256.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,12 +28,21 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Core.resx</DependentUpon>
     </Compile>
+    <Compile Update="Mobile.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Mobile.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Update="Core.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Core.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Mobile.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Mobile.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
 
