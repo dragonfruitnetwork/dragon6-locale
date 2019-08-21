@@ -2,9 +2,8 @@ language: csharp
 mono: latest
 dist: xenial
 script:
-  - nuget restore DragonFruit.Six.Locale.sln
-  - msbuild DragonFruit.Six.Locale.sln /p:Configuration=Release
+  - dotnet build -c Release
   - mon=`date +%m`
   - day=`date +%d`
-  - nuget pack "DragonFruit.Six.Locale/DragonFruit.Six.Locale.csproj" -Version 2019.$mon.$day -OutputDirectory .. -Properties Configuration=Release 
-  - nuget push ./DragonFruit.Six.Locale.2019.$mon.$day.nupkg -ApiKey $nugetkey -Source https://api.nuget.org/v3/index.json
+  - dotnet pack "DragonFruit.Six.Locale/DragonFruit.Six.Locale.csproj" /p:PackageVersion=2019.$mon.$day -o .. -c Release 
+  - dotnet nuget push *.nupkg -k "$nugetkey" --source "https://api.nuget.org/v3/index.json"
