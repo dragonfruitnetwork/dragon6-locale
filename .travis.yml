@@ -6,5 +6,5 @@ script:
   - msbuild DragonFruit.Six.Locale.sln /p:Configuration=Release
   - mon=`date +%m`
   - day=`date +%d`
-  - nuget pack "DragonFruit.Six.Locale/DragonFruit.Six.Locale.csproj" /p:PackageVersion=2019.$mon.$day -OutputDirectory .. -Properties Configuration=Release 
+  - nuget pack "DragonFruit.Six.Locale/DragonFruit.Six.Locale.csproj" -OutputDirectory .. -Properties Configuration=Release -Properties PackageVersion=2019.$mon.$day
   - nuget push *.nupkg -ApiKey $nugetkey -Source "https://api.nuget.org/v3/index.json"
