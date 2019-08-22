@@ -7,4 +7,4 @@ script:
   - mon=`date +%m`
   - day=`date +%d`
   - dotnet pack "DragonFruit.Six.Locale/DragonFruit.Six.Locale.csproj" /p:PackageVersion=2019.$mon.$day -o .. -c Release 
-  - dotnet nuget push DragonFruit.Six.Locale.2019.$mon.$day.nupkg -k $nugetkey -s "https://api.nuget.org/v3/index.json"
+  - dotnet nuget push "DragonFruit.Six.Locale.2019.$mon.$day.nupkg" -k $nugetkey -s "https://api.nuget.org/v3/index.json"
