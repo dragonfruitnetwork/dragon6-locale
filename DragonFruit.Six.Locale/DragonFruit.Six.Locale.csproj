@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>Dragon6.Locale</PackageId>
+    <PackageId>DragonFruit.Six.Locale</PackageId>
     <Version>2019.8</Version>
     <Author>DragonFruit Network</Author>
     <Product>Dragon6 Locale</Product>
