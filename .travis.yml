@@ -4,9 +4,9 @@ language: bash
 before_script:
   - choco install dotnetcore
 script:
-  - powershell
   - |
-    $VERSION = (Get-Date -UFormat "%Y.%m.%d")
+    powershell
+    $VERSION = Get-Date -UFormat "%Y.%m.%d"
     dotnet restore ".\DragonFruit.Six.Locale.sln"
     dotnet pack ".\DragonFruit.Six.Locale\DragonFruit.Six.Locale.csproj" -o "..\" -c Release -p:PackageVersion=%VERSION%.%TRAVIS_BUILD_NUMBER%
     dotnet push *.nupkg -k %NUGET_KEY% -s "https://api.nuget.org/v3/index.json" --skip-duplicate -n
