@@ -1,10 +1,10 @@
-language: csharp
-dist: xenial
-mono: latest
+os: windows
+language: bash
+
+before_script:
+  - choco install dotnetcore
+  - set version=%DATE:~10,4%.%DATE:~4,2%.%DATE:~7,2%
 script:
-  - nuget restore DragonFruit.Six.Locale.sln
-  - msbuild DragonFruit.Six.Locale.sln /p:Configuration=Release
-  - mon=`date +%m`
-  - day=`date +%d`
-  - nuget pack "DragonFruit.Six.Locale/DragonFruit.Six.Locale.csproj" -OutputDirectory .. -Properties Configuration=Release -Properties PackageVersion=2019.$mon.$day
-  - nuget push *.nupkg -ApiKey $nugetkey -Source "https://api.nuget.org/v3/index.json"
+  - dotnet restore ".\DragonFruit.Six.Locale.sln"
+  - dotnet pack ".\DragonFruit.Six.Locale\DragonFruit.Six.Locale.csproj" -o "..\" -c Release -p:PackageVersion=%%version%%.%%TRAVIS_BUILD_NUMBER%%
+  - dotnet push *.nupkg -k $nugetkey -s "https://api.nuget.org/v3/index.json" --skip-duplicate -n
