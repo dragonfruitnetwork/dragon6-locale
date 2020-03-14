@@ -1,12 +1,10 @@
 os: windows
-language: bash
+language: shell
 
 before_script:
   - choco install dotnetcore
+  - $VERSION = FOR /F "tokens=*" %F IN (`powershell Get-Date -UFormat "%Y.%m.%d"`) DO SET VERSION=%F
 script:
-  - |
-    powershell
-    $VERSION = Get-Date -UFormat "%Y.%m.%d"
-    dotnet restore ".\DragonFruit.Six.Locale.sln"
-    dotnet pack ".\DragonFruit.Six.Locale\DragonFruit.Six.Locale.csproj" -o "..\" -c Release -p:PackageVersion=%VERSION%.%TRAVIS_BUILD_NUMBER%
-    dotnet push *.nupkg -k %NUGET_KEY% -s "https://api.nuget.org/v3/index.json" --skip-duplicate -n
+  - dotnet restore ".\DragonFruit.Six.Locale.sln"
+  - dotnet pack ".\DragonFruit.Six.Locale\DragonFruit.Six.Locale.csproj" -o "..\" -c Release -p:PackageVersion=%VERSION%.%TRAVIS_BUILD_NUMBER%
+  - dotnet push *.nupkg -k %NUGET_KEY% -s "https://api.nuget.org/v3/index.json" --skip-duplicate -n
