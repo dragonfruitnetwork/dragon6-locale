@@ -3,6 +3,7 @@ language: shell
 
 before_script:
   - choco install dotnetcore
+  - choco install visualstudio2019-workload-netcorebuildtools
 script:
   - powershell Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
   - powershell -File Deploy.ps1
