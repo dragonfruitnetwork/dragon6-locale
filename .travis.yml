@@ -1,6 +1,10 @@
 os: windows
 language: shell
 
+branches:
+  only:
+  - master
+
 before_script:
   - choco install visualstudio2019-workload-netcorebuildtools
 script:
