@@ -4,4 +4,5 @@ language: shell
 before_script:
   - choco install dotnetcore
 script:
+  - powershell Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
   - powershell -File Deploy.ps1
