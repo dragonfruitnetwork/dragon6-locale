@@ -6,5 +6,5 @@ dotnet restore ".\DragonFruit.Six.Locale.sln"
 dotnet pack ".\DragonFruit.Six.Locale\DragonFruit.Six.Locale.csproj" -o .\ -c Release -p:PackageVersion="$VERSION.$TRAVIS_NO"
 
 Get-ChildItem -Path .\ -Filter *.nupkg -Recurse -File -Name | ForEach-Object {
-    dotnet nuget push $_ -k $NUGET -s https://api.nuget.org/v3/index.json --skip-duplicate -n --force-english-output
+    dotnet nuget push $_ -k $NUGET --skip-duplicate -n --force-english-output
 }
