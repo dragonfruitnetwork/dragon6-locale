@@ -3,7 +3,7 @@ language: bash
 
 before_script:
   - choco install dotnetcore
-  - set version=%DATE:~10,4%.%DATE:~4,2%.%DATE:~7,2%
+  - set version=(powershell Get-Date -UFormat "%Y.%m.%d.%h")
 script:
   - dotnet restore ".\DragonFruit.Six.Locale.sln"
   - dotnet pack ".\DragonFruit.Six.Locale\DragonFruit.Six.Locale.csproj" -o "..\" -c Release -p:PackageVersion=%version%.%TRAVIS_BUILD_NUMBER%
