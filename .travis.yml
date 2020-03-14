@@ -4,4 +4,4 @@ language: shell
 before_script:
   - choco install dotnetcore
 script:
-  - powershell -File .\Deploy.ps1
+  - powershell -File Deploy.ps1
