@@ -1,5 +1,5 @@
 $VERSION = Get-Date -UFormat "%Y.%m.%d"
-$NUGET_KEY = $env:NUGET_KEY
+$NUGET_KEY = $env:nuget_key
 $WORKINGDIR = Get-Location
 
 dotnet restore ".\DragonFruit.Six.Locale.sln"
