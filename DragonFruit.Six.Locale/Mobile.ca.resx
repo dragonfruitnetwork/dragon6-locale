@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -118,552 +118,552 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Abandon" xml:space="preserve">
-    <value>Abandons</value>
+    <value>Abandonat</value>
   </data>
   <data name="AboutAppResourcesText" xml:space="preserve">
-    <value>Extra Resources</value>
+    <value>Recursos Extra</value>
   </data>
   <data name="AboutAppText" xml:space="preserve">
-    <value>About Dragon6</value>
+    <value>Sobre Dragon6</value>
   </data>
   <data name="Added" xml:space="preserve">
-    <value>{0} Added</value>
+    <value>{0} Afegit</value>
   </data>
   <data name="AddToLeaderboard" xml:space="preserve">
-    <value>To Leaderboard</value>
+    <value>Taula de classificació</value>
   </data>
   <data name="AddToSaved" xml:space="preserve">
-    <value>To Saved Players</value>
+    <value>Jugadors Salvats</value>
   </data>
   <data name="Admin" xml:space="preserve">
-    <value>Dragon6 Admin</value>
+    <value>Administrador Dragon6</value>
   </data>
   <data name="Back" xml:space="preserve">
-    <value>Go Back</value>
+    <value>Torna enrere</value>
   </data>
   <data name="BetaTester" xml:space="preserve">
-    <value>Beta Tester</value>
+    <value>Provador Beta</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancel · lar</value>
   </data>
   <data name="CantSaveProfile" xml:space="preserve">
-    <value>We can't save this profile...</value>
+    <value>No podem salvar aquest perfil...</value>
   </data>
   <data name="CasualKD" xml:space="preserve">
-    <value>Casual K/D</value>
+    <value>Mata/Mort Casuals</value>
   </data>
   <data name="ClearSavedProfiles" xml:space="preserve">
-    <value>Clear Saved Profiles</value>
+    <value>Netejar Perfils Guardats</value>
   </data>
   <data name="ClearSavedProfilesButton" xml:space="preserve">
-    <value>Clear</value>
+    <value>Esborra</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
-    <value>Confirm Delete</value>
+    <value>Confirma Eliminació</value>
   </data>
   <data name="ConfirmSave" xml:space="preserve">
-    <value>Confirm Save</value>
+    <value>Confirmar Guardar</value>
   </data>
   <data name="Deaths" xml:space="preserve">
-    <value>Deaths</value>
+    <value>Morts</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
   </data>
   <data name="HeadshotsText" xml:space="preserve">
-    <value>Headshots</value>
+    <value>Trets al cap</value>
   </data>
   <data name="HomeLoading" xml:space="preserve">
-    <value>Loading Saved Profiles</value>
+    <value>Carregant Perfils Salvats</value>
   </data>
   <data name="KD" xml:space="preserve">
-    <value>K/D</value>
+    <value>Mata/Mort</value>
   </data>
   <data name="Kills" xml:space="preserve">
-    <value>Kills</value>
+    <value>Morts</value>
   </data>
   <data name="Knifes" xml:space="preserve">
-    <value>Melee</value>
+    <value>Cos a Cos</value>
   </data>
   <data name="Losses" xml:space="preserve">
-    <value>Losses</value>
+    <value>Pèrdues</value>
   </data>
   <data name="MainPageHomeText" xml:space="preserve">
-    <value>Home</value>
+    <value>Inici</value>
   </data>
   <data name="MainPageNewsText" xml:space="preserve">
-    <value>News</value>
+    <value>Notícies</value>
   </data>
   <data name="MainPageSaveHint" xml:space="preserve">
-    <value>Tip: To save players, double tap their photo...</value>
+    <value>Consell: Per a guardar jugadors, clica dues vegades la seva foto...</value>
   </data>
   <data name="MaxRank" xml:space="preserve">
-    <value>Highest Rank</value>
+    <value>Puntuacions més elevades</value>
   </data>
   <data name="MenuAbout" xml:space="preserve">
-    <value>About Dragon6</value>
+    <value>Sobre Dragon6</value>
   </data>
   <data name="MenuRecents" xml:space="preserve">
-    <value>View Recent Players</value>
+    <value>Veure Jugadors Recents</value>
   </data>
   <data name="MenuSettings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Configuració</value>
   </data>
   <data name="MenuTitle" xml:space="preserve">
     <value>Dragon6 Menu</value>
   </data>
   <data name="NewsPageSteamAttribute" xml:space="preserve">
-    <value>Powered By Steam</value>
+    <value>Impulsat per Steam</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>No</value>
   </data>
   <data name="NoInternetErrorText" xml:space="preserve">
-    <value>An Internet connection is required to use Dragon6</value>
+    <value>És necessari connexió a Internet per utilitzar Dragon6</value>
   </data>
   <data name="NoInternetRetryText" xml:space="preserve">
-    <value>Retry Connection</value>
+    <value>Torneu a intentar la connexió</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>OK</value>
+    <value>D'acord</value>
   </data>
   <data name="OperationPrefix" xml:space="preserve">
-    <value>Operation</value>
+    <value>Operació</value>
   </data>
   <data name="Operator" xml:space="preserve">
-    <value>Operator {0}</value>
+    <value>Operador {0}</value>
   </data>
   <data name="OperatorStatsError" xml:space="preserve">
-    <value>There was an issue getting the operator stats. Please try reloading the stats or try again later.</value>
+    <value>Hi ha hagut problemes per aconseguir les estadístiques de l'operador. Si us plau proveu en recarregar les estadístiques o intenti-ho més tard.</value>
   </data>
   <data name="OperatorStatsErrorShort" xml:space="preserve">
-    <value>Operator Stats Download Error</value>
+    <value>Error Descàrrega Estadístiques Operador</value>
   </data>
   <data name="Overall" xml:space="preserve">
-    <value>Overall {0}</value>
+    <value>En general {0}</value>
   </data>
   <data name="PlatformSelectorText" xml:space="preserve">
-    <value>Default Platform</value>
+    <value>Plataforma Defectuosa</value>
   </data>
   <data name="PlayerLinkErrorShort" xml:space="preserve">
-    <value>Read/Write Error</value>
+    <value>Error Llegir/Escriure</value>
   </data>
   <data name="PlayerNotFound" xml:space="preserve">
-    <value>Check the player's name and platform</value>
+    <value>Comprovar el nom del jugador i plataforma</value>
   </data>
   <data name="PlayerNotFoundShort" xml:space="preserve">
-    <value>Player Not found</value>
+    <value>Jugador No Trobat</value>
   </data>
   <data name="PlayerRemoveError" xml:space="preserve">
-    <value>Something happened and we cannot remove this profile. Please check disk space and/or reset the application</value>
+    <value>Alguna cosa ha passat i no podem eliminar aquest pefil. Si us plau comprovi l'espai en disc i/o restableixi l'aplicació</value>
   </data>
   <data name="Players" xml:space="preserve">
-    <value>Players</value>
+    <value>Jugadors</value>
   </data>
   <data name="PlayersRemoved" xml:space="preserve">
-    <value>Players Removed</value>
+    <value>Jugadors Eliminats</value>
   </data>
   <data name="R6OperatorText" xml:space="preserve">
-    <value>Rainbow Six Operator</value>
+    <value>Operador Rainbow Six</value>
   </data>
   <data name="RankDifference" xml:space="preserve">
-    <value>Rank Difference From</value>
+    <value>Diferencia Estadístiques Des De</value>
   </data>
   <data name="Ranked" xml:space="preserve">
-    <value>Ranked {0}</value>
+    <value>Classificació {0}</value>
   </data>
   <data name="RankedRegionSelectorText" xml:space="preserve">
-    <value>Default Ranked Region</value>
+    <value>Classificació Defecte Regió</value>
   </data>
   <data name="RankedTip" xml:space="preserve">
-    <value>Tap the top card to change seasons</value>
+    <value>Toca la targeta superior per canviar temporades</value>
   </data>
   <data name="RecentsClearedConfirmation" xml:space="preserve">
-    <value>Players Cleared</value>
+    <value>Jugadors Esborrats</value>
   </data>
   <data name="RegionChanged" xml:space="preserve">
-    <value>Changed Region to</value>
+    <value>Canviar Regió a</value>
   </data>
   <data name="RemovePlayer" xml:space="preserve">
-    <value>Remove {0}</value>
+    <value>Eliminar {0}</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Guardar</value>
   </data>
   <data name="SavedPlayersLimit" xml:space="preserve">
-    <value>You have reached the maximum saved players. Please remove some and try again...</value>
+    <value>Ha assolit el màxim de jugadors guardats. Si us plau elimini alguns i torni a provar...</value>
   </data>
   <data name="SavedPlayersLimitShort" xml:space="preserve">
-    <value>Limit Reached</value>
+    <value>Límit Assolit</value>
   </data>
   <data name="SavePlayerError" xml:space="preserve">
-    <value>Something happened and we cannot save this profile. Please check disk space and/or reset the application</value>
+    <value>Alguna cosa ha passat i no podem guardar aquest perfil. Si us plau comprovi l'espai en el disc i/o restableixi l'aplicació</value>
   </data>
   <data name="SearchPlayerBarText" xml:space="preserve">
-    <value>Search Player</value>
+    <value>Cerca Jugadors</value>
   </data>
   <data name="SearchRecents" xml:space="preserve">
-    <value>Search Recents</value>
+    <value>Cerca Recents</value>
   </data>
   <data name="Season" xml:space="preserve">
-    <value>Season</value>
+    <value>Temporada</value>
   </data>
   <data name="SeasonSelector" xml:space="preserve">
-    <value>Select Season</value>
+    <value>Selecciona Temporada</value>
   </data>
   <data name="ServerInMaintenance" xml:space="preserve">
-    <value>In Maintenance</value>
+    <value>En Manteniment</value>
   </data>
   <data name="ServersOnline" xml:space="preserve">
-    <value>All Servers Online</value>
+    <value>Tots Servidors Online</value>
   </data>
   <data name="ServerStatus" xml:space="preserve">
-    <value>Server Status</value>
+    <value>Estat Servidor</value>
   </data>
   <data name="StatsGeneral" xml:space="preserve">
     <value>General</value>
   </data>
   <data name="StatsHeader" xml:space="preserve">
-    <value>Player Stats</value>
+    <value>Estadístiques Jugador</value>
   </data>
   <data name="StatsLoadingBar" xml:space="preserve">
-    <value>Loading Stats... ({0})</value>
+    <value>Carregant Estadístiques... ({0})</value>
   </data>
   <data name="StatsOperator" xml:space="preserve">
-    <value>Operator</value>
+    <value>Operador</value>
   </data>
   <data name="StatsRanked" xml:space="preserve">
-    <value>Ranked</value>
+    <value>Classificació</value>
   </data>
   <data name="Suicides" xml:space="preserve">
-    <value>Suicides</value>
+    <value>Suïcidis</value>
   </data>
   <data name="Supporter" xml:space="preserve">
-    <value>Dragon6 Supporter</value>
+    <value>Partidari Dragon6</value>
   </data>
   <data name="THunt" xml:space="preserve">
-    <value>Terrorist Hunt</value>
+    <value>Caça Terrorista</value>
   </data>
   <data name="Translator" xml:space="preserve">
-    <value>Dragon6 Translator</value>
+    <value>Dragon6 Traductor</value>
   </data>
   <data name="UnexpectedError" xml:space="preserve">
-    <value>An unexpected error has occoured\nThe Dragon6 Team have been woken up and will work to fix this as fast as possible</value>
+    <value>Un error inesperat ha occoregut\nL' equip Dragon6 s'han despertat i treballaran per arreglar aixó el més pronte possible</value>
   </data>
   <data name="UpdateAssets" xml:space="preserve">
-    <value>Update Season-Based Info</value>
+    <value>Temporada Actualitzada-Informació Basada</value>
   </data>
   <data name="UpdateAssetsButton" xml:space="preserve">
-    <value>Update</value>
+    <value>Actualització</value>
   </data>
   <data name="VerifiedUser" xml:space="preserve">
-    <value>Verified User</value>
+    <value>Usuari Verificat</value>
   </data>
   <data name="Wins" xml:space="preserve">
-    <value>Wins</value>
+    <value>Victòries</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>W/L</value>
+    <value>V/P</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sí</value>
   </data>
   <data name="AddMenuHead" xml:space="preserve">
-    <value>Add...</value>
+    <value>Afegir...</value>
   </data>
   <data name="CasualWL" xml:space="preserve">
-    <value>Casual W/L</value>
+    <value>V/P Casuals</value>
   </data>
   <data name="CurrentSeason" xml:space="preserve">
-    <value>Current Season</value>
+    <value>Temporada Actual</value>
   </data>
   <data name="Downs" xml:space="preserve">
-    <value>Downs</value>
+    <value>Baixes</value>
   </data>
   <data name="DownsRevives" xml:space="preserve">
-    <value>DBNOs vs Revives</value>
+    <value>DBNOs vs Reviure</value>
   </data>
   <data name="Level" xml:space="preserve">
-    <value>Level</value>
+    <value>Nivell</value>
   </data>
   <data name="OfTotal" xml:space="preserve">
-    <value>of total</value>
+    <value>de total</value>
   </data>
   <data name="OperatorHS" xml:space="preserve">
-    <value>Operator Headshot %</value>
+    <value>Operador Trets al cap %</value>
   </data>
   <data name="OperatorKD" xml:space="preserve">
-    <value>Operator K/D</value>
+    <value>Operador Mata/Mort</value>
   </data>
   <data name="OperatorKPR" xml:space="preserve">
-    <value>Operator Kills Per Round</value>
+    <value>Morts Operador Per Ronda</value>
   </data>
   <data name="OperatorSearch" xml:space="preserve">
-    <value>Search Operator...</value>
+    <value>Cerca Operador...</value>
   </data>
   <data name="OperatorStats" xml:space="preserve">
-    <value>Operator Stats</value>
+    <value>Estadístiques Operador</value>
   </data>
   <data name="OperatorWL" xml:space="preserve">
-    <value>Operator W/L</value>
+    <value>Operador V/P</value>
   </data>
   <data name="OverallKD" xml:space="preserve">
-    <value>Overall K/D</value>
+    <value>Mata/Mort Generals</value>
   </data>
   <data name="OverallWL" xml:space="preserve">
-    <value>Overall W/L</value>
+    <value>Victòries/Pèrdues General</value>
   </data>
   <data name="RankedKD" xml:space="preserve">
-    <value>Ranked K/D</value>
+    <value>Classificació Mata/Mort</value>
   </data>
   <data name="RankedWL" xml:space="preserve">
-    <value>Ranked W/L</value>
+    <value>Classificació V/P</value>
   </data>
   <data name="Removed" xml:space="preserve">
-    <value>Removed</value>
+    <value>Eliminat</value>
   </data>
   <data name="Revives" xml:space="preserve">
-    <value>Revives</value>
+    <value>Revius</value>
   </data>
   <data name="SeasonAbandon" xml:space="preserve">
-    <value>Season Abandon %</value>
+    <value>Abandonar Temporada %</value>
   </data>
   <data name="SeasonChangeTip" xml:space="preserve">
-    <value>Tap the top card to change seasons</value>
+    <value>Toca la targeta superior per canviar temporades</value>
   </data>
   <data name="SeasonWL" xml:space="preserve">
-    <value>Season W/L</value>
+    <value>Temporada V/P</value>
   </data>
   <data name="THuntKD" xml:space="preserve">
-    <value>Terrorist Hunt K/D</value>
+    <value>Caça Terrorista Mata/Mort</value>
   </data>
   <data name="THuntWL" xml:space="preserve">
-    <value>Terrorist Hunt W/L</value>
+    <value>Caça Terrorista V/P</value>
   </data>
   <data name="Understood" xml:space="preserve">
-    <value>Got It</value>
+    <value>Entesos</value>
   </data>
   <data name="ShareApp" xml:space="preserve">
-    <value>Share Dragon6</value>
+    <value>Comparteix Dragon6</value>
   </data>
   <data name="ShareProfile" xml:space="preserve">
-    <value>Share Profile</value>
+    <value>Comparteix Perfil</value>
   </data>
   <data name="TranslateApp" xml:space="preserve">
-    <value>Translate Dragon6</value>
+    <value>Tradueix Dragon6</value>
   </data>
   <data name="ShareProfileContent" xml:space="preserve">
-    <value>Check out {0} on Dragon6 - A Free Rainbow Six Stat Tracker</value>
+    <value>Comprova-ho {0} a Dragon6 - Un Rastrejador Gratuit d'Estadístiques Rainbow Six</value>
   </data>
   <data name="BestScore" xml:space="preserve">
-    <value>Best Score</value>
+    <value>Millor Puntuació</value>
   </data>
   <data name="BombMode" xml:space="preserve">
-    <value>Bomb</value>
+    <value>Bomba</value>
   </data>
   <data name="HostageMode" xml:space="preserve">
-    <value>Hostage</value>
+    <value>Ostatge</value>
   </data>
   <data name="PenetrationKills" xml:space="preserve">
-    <value>Penetration Kills</value>
+    <value>Morts Penetració</value>
   </data>
   <data name="Points" xml:space="preserve">
-    <value>Points</value>
+    <value>Punts</value>
   </data>
   <data name="SecureAreaMode" xml:space="preserve">
-    <value>Secure Area</value>
+    <value>Àrea Segura</value>
   </data>
   <data name="ShareAppText" xml:space="preserve">
-    <value>Check out Dragon6, a free Rainbow Six Siege Stat Tracker</value>
+    <value>Fes un cop d'ull a Dragon6, un Rastrejador d'Estadístiques Rainbow Six Siege</value>
   </data>
   <data name="Rounds" xml:space="preserve">
-    <value>Rounds</value>
+    <value>Rondes</value>
   </data>
   <data name="MeleeKills" xml:space="preserve">
-    <value>Melee Kills</value>
+    <value>Morts Cara a Cara</value>
   </data>
   <data name="Rank" xml:space="preserve">
-    <value>Rank</value>
+    <value>Classificació</value>
   </data>
   <data name="Ranks" xml:space="preserve">
-    <value>Rank(s)</value>
+    <value>Classificació(ns)</value>
   </data>
   <data name="Casual" xml:space="preserve">
     <value>Casual</value>
   </data>
   <data name="ComingSoon" xml:space="preserve">
-    <value>Coming Soon</value>
+    <value>Properament</value>
   </data>
   <data name="ComingSoonMessage" xml:space="preserve">
-    <value>This Feature is Coming Soon...</value>
+    <value>Aquesta Funció vindra aviat...</value>
   </data>
   <data name="GunStats" xml:space="preserve">
-    <value>Weapon Stats</value>
+    <value>Estadístiques Armes</value>
   </data>
   <data name="Hours" xml:space="preserve">
-    <value>Hours</value>
+    <value>Hores</value>
   </data>
   <data name="Other" xml:space="preserve">
-    <value>Other</value>
+    <value>Altres</value>
   </data>
   <data name="TimePlayed" xml:space="preserve">
-    <value>Time Played</value>
+    <value>Temps Jugat</value>
   </data>
   <data name="BestScores" xml:space="preserve">
-    <value>Best Scores</value>
+    <value>Millors Puntuacions</value>
   </data>
   <data name="IconsAttribution" xml:space="preserve">
-    <value>Icons From Various Creators downloaded from the Noun Project</value>
+    <value>Icones de Diversos Creadors Descarregades per el Substantiu Projecte</value>
   </data>
   <data name="WeaponAssault" xml:space="preserve">
-    <value>Assault Rifle</value>
+    <value>Rifle d'Assalt</value>
   </data>
   <data name="WeaponDMR" xml:space="preserve">
-    <value>Marksman Rifle</value>
+    <value>Rifle tirador</value>
   </data>
   <data name="WeaponLMG" xml:space="preserve">
-    <value>LMG</value>
+    <value>Metralleta lleugera</value>
   </data>
   <data name="WeaponMachinePistol" xml:space="preserve">
-    <value>Machine Pistol</value>
+    <value>Pistola automàtica</value>
   </data>
   <data name="WeaponPistol" xml:space="preserve">
-    <value>Handgun</value>
+    <value>Pistola</value>
   </data>
   <data name="WeaponShotgun" xml:space="preserve">
-    <value>Shotgun</value>
+    <value>Escopeta</value>
   </data>
   <data name="WeaponSMG" xml:space="preserve">
-    <value>SMG</value>
+    <value>Metralleta Curta</value>
   </data>
   <data name="Accuracy" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>Precisió</value>
   </data>
   <data name="Fired" xml:space="preserve">
-    <value>Shots Fired</value>
+    <value>Trets Disparats</value>
   </data>
   <data name="Hit" xml:space="preserve">
-    <value>Shots Hit</value>
+    <value>Trets Pegats</value>
   </data>
   <data name="WeaponClass" xml:space="preserve">
-    <value>Rainbow Six Weapon Class</value>
+    <value>Rainbow Six Classe Armes</value>
   </data>
   <data name="WeaponNotFound" xml:space="preserve">
-    <value>Weapon Not Found</value>
+    <value>Arma no trobada</value>
   </data>
   <data name="WeaponNotFoundMessage" xml:space="preserve">
-    <value>Something has happened and we cannot find this class. Try another one or give it some time and check later.</value>
+    <value>Alguna cosa ha passat i no podem trobar aquesta classe. Intenti trobar un altre o doni algun temps i comprovi més tard.</value>
   </data>
   <data name="AccessBlocked" xml:space="preserve">
-    <value>Access Blocked</value>
+    <value>Accés Bloquejat</value>
   </data>
   <data name="AccessBlockedMessage" xml:space="preserve">
-    <value>Sorry, but we can't show this account due to GDPR rules.</value>
+    <value>Disculpi, però no podem mostrar aquest compte a causa de les regles de GDPR.</value>
   </data>
   <data name="AssetsUpdated" xml:space="preserve">
-    <value>All Assets Updated</value>
+    <value>Tots els Recursos Actualitzats</value>
   </data>
   <data name="ClearOperators" xml:space="preserve">
-    <value>Clear Operators</value>
+    <value>Borra Operadors</value>
   </data>
   <data name="ClearOperatorsPrompt" xml:space="preserve">
-    <value>Do you want to clear all saved operators?</value>
+    <value>Vol borrar tots els operadors guardats?</value>
   </data>
   <data name="Completed" xml:space="preserve">
-    <value>Completed</value>
+    <value>Completat</value>
   </data>
   <data name="DarkThemeOff" xml:space="preserve">
-    <value>Dark Theme Disabled. Please restart for changes to become visible.</value>
+    <value>Tema Fosc Deshabilitat. Si us plau reinicia per a que els canvis es facin visibles.</value>
   </data>
   <data name="DarkThemeOn" xml:space="preserve">
-    <value>Dark Theme Enabled. Please restart for changes to become visible.</value>
+    <value>Tema Fosc Habilitat. Si us plau reinicia per a que els canvis es facin visibles.</value>
   </data>
   <data name="Dragon6ResetSuccess" xml:space="preserve">
-    <value>Dragon6 has been reset. Please restart for changes to take effect.</value>
+    <value>Dragon6 s'ha restablert. Si us plau reinicia per a que els canvis tinguin efecte.</value>
   </data>
   <data name="OperatorDeleted" xml:space="preserve">
-    <value>Operator Removed</value>
+    <value>Operador Eliminat</value>
   </data>
   <data name="OperatorSaved" xml:space="preserve">
-    <value>Operator Saved Successfully</value>
+    <value>Operador Guardat amb èxit</value>
   </data>
   <data name="OperatorsCleared" xml:space="preserve">
-    <value>Operators Cleared</value>
+    <value>Operadors Borrats</value>
   </data>
   <data name="PlatformChanged" xml:space="preserve">
-    <value>Platform Changed to</value>
+    <value>Plataforma Canviada a</value>
   </data>
   <data name="ResetAll" xml:space="preserve">
-    <value>Reset Dragon6</value>
+    <value>Restablir Dragon6</value>
   </data>
   <data name="SaveOperator" xml:space="preserve">
-    <value>Save Operator</value>
+    <value>Guardar Operador</value>
   </data>
   <data name="DatabaseUpgrade" xml:space="preserve">
-    <value>Dragon6 Database</value>
+    <value>Dragon6 Base de Dades</value>
   </data>
   <data name="DatabaseUpgradeBody" xml:space="preserve">
-    <value>The Dragon6 App has been reset due to a database upgrade. We apologise for any inconvenience</value>
+    <value>L' aplicació Dragon6 ha sigut reestablert degut a una actualització. Ens disculpem per qualsevol inconvenient</value>
   </data>
   <data name="ThemeEnforced" xml:space="preserve">
-    <value>Server-Set Theme</value>
+    <value>Tema Conjunt-Servidor</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>None</value>
+    <value>Cap</value>
   </data>
   <data name="UbiServersOffline" xml:space="preserve">
-    <value>Servers in Mainatainance</value>
+    <value>Servidors en Manteniment</value>
   </data>
   <data name="Attacker" xml:space="preserve">
-    <value>Attacker</value>
+    <value>Atacant</value>
   </data>
   <data name="Defender" xml:space="preserve">
-    <value>Defender</value>
+    <value>Defensor</value>
   </data>
   <data name="OperatorAction" xml:space="preserve">
-    <value>Operator Ability</value>
+    <value>Habilitat Operador</value>
   </data>
   <data name="AnHourAgo" xml:space="preserve">
-    <value>an hour ago</value>
+    <value>una hora abans</value>
   </data>
   <data name="Days" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>{0} dies abans</value>
   </data>
   <data name="HoursAgo" xml:space="preserve">
-    <value>{0} hours ago</value>
+    <value>{0} hores abans</value>
   </data>
   <data name="LastSeen" xml:space="preserve">
-    <value>Last Seen</value>
+    <value>Vist per últim cop</value>
   </data>
   <data name="MinutesAgo" xml:space="preserve">
-    <value>{0} minutes ago</value>
+    <value>{0} minuts abans</value>
   </data>
   <data name="MonthsAgo" xml:space="preserve">
-    <value>{0} months ago</value>
+    <value>{0} Mesos abans</value>
   </data>
   <data name="OneMinuteAgo" xml:space="preserve">
-    <value>one minute ago</value>
+    <value>un minut abans</value>
   </data>
   <data name="OneMonthAgo" xml:space="preserve">
-    <value>one month ago</value>
+    <value>un mes abans</value>
   </data>
   <data name="OneSecondAgo" xml:space="preserve">
-    <value>one second ago</value>
+    <value>un segon abans</value>
   </data>
   <data name="OneYearAgo" xml:space="preserve">
-    <value>one year ago</value>
+    <value>un any abans</value>
   </data>
   <data name="SecondsAgo" xml:space="preserve">
-    <value>{0} seconds ago</value>
+    <value>{0} segons abans</value>
   </data>
   <data name="YearsAgo" xml:space="preserve">
-    <value>{0} years ago</value>
+    <value>{0} anys abans</value>
   </data>
   <data name="Yesterday" xml:space="preserve">
-    <value>yesterday</value>
+    <value>ahir</value>
   </data>
   <data name="NotPlayed" xml:space="preserve">
-    <value>Not Played Yet</value>
+    <value>No Jugat encara</value>
   </data>
 </root>

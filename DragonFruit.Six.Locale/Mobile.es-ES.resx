@@ -124,7 +124,7 @@
     <value>Recursos adicionales</value>
   </data>
   <data name="AboutAppText" xml:space="preserve">
-    <value>Acerca de Dragon6</value>
+    <value>Acerca</value>
   </data>
   <data name="Added" xml:space="preserve">
     <value>{0} añadido</value>
@@ -136,7 +136,7 @@
     <value>A Jugadores Guardados</value>
   </data>
   <data name="Admin" xml:space="preserve">
-    <value>Administrador de Dragon6</value>
+    <value>Administrador</value>
   </data>
   <data name="Back" xml:space="preserve">
     <value>Regresar</value>
@@ -186,54 +186,6 @@
   <data name="Knifes" xml:space="preserve">
     <value>Cuerpo a cuerpo</value>
   </data>
-  <data name="LeaderboardCategoryBestHeadshotRate" xml:space="preserve">
-    <value>Meyor porcentaje de disparos en la cabeza</value>
-  </data>
-  <data name="LeaderboardCategoryBestKD" xml:space="preserve">
-    <value>Meyor A/M medio</value>
-  </data>
-  <data name="LeaderboardCategoryBestRank" xml:space="preserve">
-    <value>Mejor Rango</value>
-  </data>
-  <data name="LeaderboardCategoryBestWL" xml:space="preserve">
-    <value>Meyor V/D</value>
-  </data>
-  <data name="LeaderboardCategoryLongestTimePlayed" xml:space="preserve">
-    <value>Tiempo Jugado</value>
-  </data>
-  <data name="LeaderboardCategorySmallestRankDrop" xml:space="preserve">
-    <value>Soltar Rango Menor</value>
-  </data>
-  <data name="LeaderboardCreate" xml:space="preserve">
-    <value>Crear un tablero de clasificación</value>
-  </data>
-  <data name="LeaderboardErrorBody" xml:space="preserve">
-    <value>Necesitas dos o más personas para cargar un tablero de clasificación.</value>
-  </data>
-  <data name="LeaderboardErrorBodyShort" xml:space="preserve">
-    <value>No hay suficiente jugadores</value>
-  </data>
-  <data name="LeaderboardLoading" xml:space="preserve">
-    <value>Cargando tabla de clasificación...</value>
-  </data>
-  <data name="LeaderboardName" xml:space="preserve">
-    <value>Nombre del tabla de clasificación</value>
-  </data>
-  <data name="LeaderboardPlacement" xml:space="preserve">
-    <value>Mejor en {0} Categorías</value>
-  </data>
-  <data name="LeaderboardRemove" xml:space="preserve">
-    <value>Eliminar Tabla</value>
-  </data>
-  <data name="LeaderboardRemoveConfirm" xml:space="preserve">
-    <value>¿Quiere eliminar esta tablero de clasificación?</value>
-  </data>
-  <data name="LeaderboardRemovePlayers" xml:space="preserve">
-    <value>Toca para eliminar jugadores</value>
-  </data>
-  <data name="LeaderboardUpdatedNotification" xml:space="preserve">
-    <value>Nombre del tabla de clasificación está actualizado</value>
-  </data>
   <data name="Losses" xml:space="preserve">
     <value>Pérdidas</value>
   </data>
@@ -250,7 +202,7 @@
     <value>Mejor Rango</value>
   </data>
   <data name="MenuAbout" xml:space="preserve">
-    <value>Acerca de Dragon6</value>
+    <value>Acerca</value>
   </data>
   <data name="MenuRecents" xml:space="preserve">
     <value>Ver Jugadores Recientes</value>
@@ -259,7 +211,7 @@
     <value>Preferencias</value>
   </data>
   <data name="MenuTitle" xml:space="preserve">
-    <value>Menú Dragon6</value>
+    <value>Menú</value>
   </data>
   <data name="NewsPageSteamAttribute" xml:space="preserve">
     <value>Impulsado por Steam</value>
@@ -274,7 +226,7 @@
     <value>Reintentar Conexión</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Aceptar</value>
+    <value>Vale</value>
   </data>
   <data name="OperationPrefix" xml:space="preserve">
     <value>Operación</value>
@@ -361,7 +313,7 @@
     <value>Seleccionar Temporada</value>
   </data>
   <data name="ServerInMaintenance" xml:space="preserve">
-    <value>En Maintenance</value>
+    <value>En Mantenimiento</value>
   </data>
   <data name="ServersOnline" xml:space="preserve">
     <value>Todos los servidores en línea</value>
@@ -504,8 +456,8 @@
   <data name="ShareProfileContent" xml:space="preserve">
     <value>Echa un vistazo a {0} en Dragon6 - Un rastreador gratis estadísticas de Rainbow Six</value>
   </data>
-  <data name="BestSocre" xml:space="preserve">
-    <value>Mejores puntuaciones</value>
+  <data name="BestScore" xml:space="preserve">
+    <value>Mayoría de los puntos</value>
   </data>
   <data name="BombMode" xml:space="preserve">
     <value>Bombas</value>
@@ -536,5 +488,182 @@
   </data>
   <data name="Ranks" xml:space="preserve">
     <value>Rango(s)</value>
+  </data>
+  <data name="Casual" xml:space="preserve">
+    <value>Casual</value>
+  </data>
+  <data name="ComingSoon" xml:space="preserve">
+    <value>Disponible próximamente</value>
+  </data>
+  <data name="ComingSoonMessage" xml:space="preserve">
+    <value>Esta funcionalidad estará disponible pronto...</value>
+  </data>
+  <data name="GunStats" xml:space="preserve">
+    <value>Estadísticas de Arma</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>Horas</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Otro</value>
+  </data>
+  <data name="TimePlayed" xml:space="preserve">
+    <value>Tiempo Jugado</value>
+  </data>
+  <data name="BestScores" xml:space="preserve">
+    <value>Mejores puntuaciones</value>
+  </data>
+  <data name="IconsAttribution" xml:space="preserve">
+    <value>Iconos de varios creadores y descargados del proyecto Noun</value>
+  </data>
+  <data name="WeaponAssault" xml:space="preserve">
+    <value>Fusiles de Asalto</value>
+  </data>
+  <data name="WeaponDMR" xml:space="preserve">
+    <value>Rifles de Precisión</value>
+  </data>
+  <data name="WeaponLMG" xml:space="preserve">
+    <value>Ametralladoras Ligeras</value>
+  </data>
+  <data name="WeaponMachinePistol" xml:space="preserve">
+    <value>Pistolas Ametralladoras</value>
+  </data>
+  <data name="WeaponPistol" xml:space="preserve">
+    <value>Armas de Cinto</value>
+  </data>
+  <data name="WeaponShotgun" xml:space="preserve">
+    <value>Escopeta</value>
+  </data>
+  <data name="WeaponSMG" xml:space="preserve">
+    <value>Subfusiles</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>Precisión</value>
+  </data>
+  <data name="Fired" xml:space="preserve">
+    <value>Disparos realizados</value>
+  </data>
+  <data name="Hit" xml:space="preserve">
+    <value>Disparos acertados</value>
+  </data>
+  <data name="WeaponClass" xml:space="preserve">
+    <value>Clase de Armas en Rainbow Six</value>
+  </data>
+  <data name="WeaponNotFound" xml:space="preserve">
+    <value>Arma no encontrada</value>
+  </data>
+  <data name="WeaponNotFoundMessage" xml:space="preserve">
+    <value>Algo ha ocurrido y no podemos encontrar esta clase. Pruebe otra o dé algún tiempo y compruebe más tarde.</value>
+  </data>
+  <data name="AccessBlocked" xml:space="preserve">
+    <value>Acceso bloqueado</value>
+  </data>
+  <data name="AccessBlockedMessage" xml:space="preserve">
+    <value>Lo siento, pero no podemos mostrar esta cuenta debido a las reglas de GDPR.</value>
+  </data>
+  <data name="AssetsUpdated" xml:space="preserve">
+    <value>Todos los Activos Actualizados</value>
+  </data>
+  <data name="ClearOperators" xml:space="preserve">
+    <value>Borrar Agentes</value>
+  </data>
+  <data name="ClearOperatorsPrompt" xml:space="preserve">
+    <value>¿Desea eliminar todo el Agentes?</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>Terminado</value>
+  </data>
+  <data name="DarkThemeOff" xml:space="preserve">
+    <value>Tema oscuro desactivado. Por favor reinicie para que los cambios se vuelvan visibles.</value>
+  </data>
+  <data name="DarkThemeOn" xml:space="preserve">
+    <value>Tema Oscuro activado. Por favor reinicie para que los cambios se vuelvan visibles.</value>
+  </data>
+  <data name="Dragon6ResetSuccess" xml:space="preserve">
+    <value>Dragon6 ha sido reiniciado. Por favor reinicie para que los cambios surtan efecto.</value>
+  </data>
+  <data name="OperatorDeleted" xml:space="preserve">
+    <value>Agente eliminado</value>
+  </data>
+  <data name="OperatorSaved" xml:space="preserve">
+    <value>Agente guardado con éxito</value>
+  </data>
+  <data name="OperatorsCleared" xml:space="preserve">
+    <value>Agentes limpiados</value>
+  </data>
+  <data name="PlatformChanged" xml:space="preserve">
+    <value>Plataforma cambiada a</value>
+  </data>
+  <data name="ResetAll" xml:space="preserve">
+    <value>Reiniciar Dragon6</value>
+  </data>
+  <data name="SaveOperator" xml:space="preserve">
+    <value>Guardar operador</value>
+  </data>
+  <data name="DatabaseUpgrade" xml:space="preserve">
+    <value>Base de datos Dragon6</value>
+  </data>
+  <data name="DatabaseUpgradeBody" xml:space="preserve">
+    <value>La aplicación Dragon6 ha sido reiniciada debido a una actualización de la base de datos. Lamentamos cualquier inconveniente</value>
+  </data>
+  <data name="ThemeEnforced" xml:space="preserve">
+    <value>Tema Servidor</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Ninguno</value>
+  </data>
+  <data name="UbiServersOffline" xml:space="preserve">
+    <value>Servidores en Mainatainance</value>
+  </data>
+  <data name="Attacker" xml:space="preserve">
+    <value>Atacante</value>
+  </data>
+  <data name="Defender" xml:space="preserve">
+    <value>Defensor</value>
+  </data>
+  <data name="OperatorAction" xml:space="preserve">
+    <value>Habilidad</value>
+  </data>
+  <data name="AnHourAgo" xml:space="preserve">
+    <value>hace una hora</value>
+  </data>
+  <data name="Days" xml:space="preserve">
+    <value>hace {0} días</value>
+  </data>
+  <data name="HoursAgo" xml:space="preserve">
+    <value>hace {0} horas</value>
+  </data>
+  <data name="LastSeen" xml:space="preserve">
+    <value>Último Visto</value>
+  </data>
+  <data name="MinutesAgo" xml:space="preserve">
+    <value>hace {0} minutos</value>
+  </data>
+  <data name="MonthsAgo" xml:space="preserve">
+    <value>hace {0} meses</value>
+  </data>
+  <data name="OneMinuteAgo" xml:space="preserve">
+    <value>hace un minuto</value>
+  </data>
+  <data name="OneMonthAgo" xml:space="preserve">
+    <value>hace un mes</value>
+  </data>
+  <data name="OneSecondAgo" xml:space="preserve">
+    <value>hace un segundo</value>
+  </data>
+  <data name="OneYearAgo" xml:space="preserve">
+    <value>hace un año</value>
+  </data>
+  <data name="SecondsAgo" xml:space="preserve">
+    <value>hace {0} segundos</value>
+  </data>
+  <data name="YearsAgo" xml:space="preserve">
+    <value>hace {0} años</value>
+  </data>
+  <data name="Yesterday" xml:space="preserve">
+    <value>ayer</value>
+  </data>
+  <data name="NotPlayed" xml:space="preserve">
+    <value>No Jugado</value>
   </data>
 </root>
