@@ -2,6 +2,7 @@ $VERSION = Get-Date -UFormat "%Y.%m.%d"
 $NUGET_KEY = $env:nuget_key
 $WORKINGDIR = Get-Location
 
+dotnet restore ".\DragonFruit.Six.Locale.sln"
 dotnet pack ".\DragonFruit.Six.Locale\DragonFruit.Six.Locale.csproj" -o $WORKINGDIR -c Release -p:PackageVersion="$VERSION.$env:TRAVIS_BUILD_NUMBER"
 
 Get-ChildItem -Path $WORKINGDIR -Filter *.nupkg -Recurse -File -Name | ForEach-Object {
