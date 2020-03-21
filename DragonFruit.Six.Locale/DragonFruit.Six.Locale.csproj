@@ -2,14 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>DragonFruit.Six.Locale</AssemblyName>
+    <AssemblyTitle>Dragon6 Locale</AssemblyTitle>
     <PackageId>DragonFruit.Six.Locale</PackageId>
-    <Version>2019.8</Version>
     <Author>DragonFruit Network</Author>
     <Product>Dragon6 Locale</Product>
     <Description>Localised Strings Used by the Dragon6 Apps</Description>
-    <Copyright>Copyright 2019 (C) DragonFruit Network</Copyright>
+    <Copyright>Copyright 2020 (C) DragonFruit Network</Copyright>
     <PackageProjectUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale</PackageProjectUrl>
-    <PackageIconUrl>https://assets.dragon6.dragonfruit.network/Dragon6-256.png</PackageIconUrl>
+    <PackageIconUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale/raw/master/res/Dragon6-Locale.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
   </PropertyGroup>

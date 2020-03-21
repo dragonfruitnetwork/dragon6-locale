@@ -1,5 +1,5 @@
 # Dragon6 Locale (.NET)
-## Overview
+
 Dragon6 Locale is a collection of RESX files that are used in the PC app, the Mobile app has its own set, as they are more UI based and individualised. The Purpose of publishing these is so more developers creating stats apps can reach a larger target audience. It is easy to set up and will support a large collection of languages.
 
 ## What can this be used for?
@@ -15,4 +15,4 @@ You can help us out on our Crowdin Server, and every so often, we will update th
 
 ## Licence
 
-All you need to do is add `DragonFruit.Locale Copyright (C) 2019 DragonFruit Network` to your about page and we will be happy :)
+All you need to do is add `DragonFruit.Locale Copyright (C) 2020 DragonFruit Network` to your about page and we will be happy :)
