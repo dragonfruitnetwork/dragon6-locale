@@ -88,6 +88,33 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Access Blocked.
+        /// </summary>
+        public static string AccessBlocked {
+            get {
+                return ResourceManager.GetString("AccessBlocked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sorry, but we can&apos;t show this account due to GDPR rules..
+        /// </summary>
+        public static string AccessBlockedMessage {
+            get {
+                return ResourceManager.GetString("AccessBlockedMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Accuracy.
+        /// </summary>
+        public static string Accuracy {
+            get {
+                return ResourceManager.GetString("Accuracy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} Added.
         /// </summary>
         public static string Added {
@@ -133,6 +160,33 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to an hour ago.
+        /// </summary>
+        public static string AnHourAgo {
+            get {
+                return ResourceManager.GetString("AnHourAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All Assets Updated.
+        /// </summary>
+        public static string AssetsUpdated {
+            get {
+                return ResourceManager.GetString("AssetsUpdated", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Attacker.
+        /// </summary>
+        public static string Attacker {
+            get {
+                return ResourceManager.GetString("Attacker", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Go Back.
         /// </summary>
         public static string Back {
@@ -144,9 +198,18 @@ namespace DragonFruit.Six.Locale {
         /// <summary>
         ///   Looks up a localized string similar to Best Score.
         /// </summary>
-        public static string BestSocre {
+        public static string BestScore {
             get {
-                return ResourceManager.GetString("BestSocre", resourceCulture);
+                return ResourceManager.GetString("BestScore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Best Scores.
+        /// </summary>
+        public static string BestScores {
+            get {
+                return ResourceManager.GetString("BestScores", resourceCulture);
             }
         }
         
@@ -187,6 +250,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Casual.
+        /// </summary>
+        public static string Casual {
+            get {
+                return ResourceManager.GetString("Casual", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Casual K/D.
         /// </summary>
         public static string CasualKD {
@@ -205,6 +277,24 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Clear Operators.
+        /// </summary>
+        public static string ClearOperators {
+            get {
+                return ResourceManager.GetString("ClearOperators", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to clear all saved operators?.
+        /// </summary>
+        public static string ClearOperatorsPrompt {
+            get {
+                return ResourceManager.GetString("ClearOperatorsPrompt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Clear Saved Profiles.
         /// </summary>
         public static string ClearSavedProfiles {
@@ -219,6 +309,33 @@ namespace DragonFruit.Six.Locale {
         public static string ClearSavedProfilesButton {
             get {
                 return ResourceManager.GetString("ClearSavedProfilesButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Coming Soon.
+        /// </summary>
+        public static string ComingSoon {
+            get {
+                return ResourceManager.GetString("ComingSoon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This Feature is Coming Soon....
+        /// </summary>
+        public static string ComingSoonMessage {
+            get {
+                return ResourceManager.GetString("ComingSoonMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Completed.
+        /// </summary>
+        public static string Completed {
+            get {
+                return ResourceManager.GetString("Completed", resourceCulture);
             }
         }
         
@@ -250,11 +367,65 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dark Theme Disabled. Please restart for changes to become visible..
+        /// </summary>
+        public static string DarkThemeOff {
+            get {
+                return ResourceManager.GetString("DarkThemeOff", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dark Theme Enabled. Please restart for changes to become visible..
+        /// </summary>
+        public static string DarkThemeOn {
+            get {
+                return ResourceManager.GetString("DarkThemeOn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dragon6 Database.
+        /// </summary>
+        public static string DatabaseUpgrade {
+            get {
+                return ResourceManager.GetString("DatabaseUpgrade", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The Dragon6 App has been reset due to a database upgrade. We apologise for any inconvenience.
+        /// </summary>
+        public static string DatabaseUpgradeBody {
+            get {
+                return ResourceManager.GetString("DatabaseUpgradeBody", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} days ago.
+        /// </summary>
+        public static string Days {
+            get {
+                return ResourceManager.GetString("Days", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Deaths.
         /// </summary>
         public static string Deaths {
             get {
                 return ResourceManager.GetString("Deaths", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Defender.
+        /// </summary>
+        public static string Defender {
+            get {
+                return ResourceManager.GetString("Defender", resourceCulture);
             }
         }
         
@@ -277,6 +448,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dragon6 has been reset. Please restart for changes to take effect..
+        /// </summary>
+        public static string Dragon6ResetSuccess {
+            get {
+                return ResourceManager.GetString("Dragon6ResetSuccess", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Error.
         /// </summary>
         public static string Error {
@@ -286,11 +466,38 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Shots Fired.
+        /// </summary>
+        public static string Fired {
+            get {
+                return ResourceManager.GetString("Fired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Weapon Stats.
+        /// </summary>
+        public static string GunStats {
+            get {
+                return ResourceManager.GetString("GunStats", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Headshots.
         /// </summary>
         public static string HeadshotsText {
             get {
                 return ResourceManager.GetString("HeadshotsText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Shots Hit.
+        /// </summary>
+        public static string Hit {
+            get {
+                return ResourceManager.GetString("Hit", resourceCulture);
             }
         }
         
@@ -309,6 +516,33 @@ namespace DragonFruit.Six.Locale {
         public static string HostageMode {
             get {
                 return ResourceManager.GetString("HostageMode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hours.
+        /// </summary>
+        public static string Hours {
+            get {
+                return ResourceManager.GetString("Hours", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} hours ago.
+        /// </summary>
+        public static string HoursAgo {
+            get {
+                return ResourceManager.GetString("HoursAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Icons From Various Creators downloaded from the Noun Project.
+        /// </summary>
+        public static string IconsAttribution {
+            get {
+                return ResourceManager.GetString("IconsAttribution", resourceCulture);
             }
         }
         
@@ -340,146 +574,11 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Highest Headshot %.
+        ///   Looks up a localized string similar to Last Seen.
         /// </summary>
-        public static string LeaderboardCategoryBestHeadshotRate {
+        public static string LastSeen {
             get {
-                return ResourceManager.GetString("LeaderboardCategoryBestHeadshotRate", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Highest Avg. K/D.
-        /// </summary>
-        public static string LeaderboardCategoryBestKD {
-            get {
-                return ResourceManager.GetString("LeaderboardCategoryBestKD", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Highest Rank.
-        /// </summary>
-        public static string LeaderboardCategoryBestRank {
-            get {
-                return ResourceManager.GetString("LeaderboardCategoryBestRank", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Highest W/L.
-        /// </summary>
-        public static string LeaderboardCategoryBestWL {
-            get {
-                return ResourceManager.GetString("LeaderboardCategoryBestWL", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Time Played.
-        /// </summary>
-        public static string LeaderboardCategoryLongestTimePlayed {
-            get {
-                return ResourceManager.GetString("LeaderboardCategoryLongestTimePlayed", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Smallest Rank Drop.
-        /// </summary>
-        public static string LeaderboardCategorySmallestRankDrop {
-            get {
-                return ResourceManager.GetString("LeaderboardCategorySmallestRankDrop", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Create Leaderboard.
-        /// </summary>
-        public static string LeaderboardCreate {
-            get {
-                return ResourceManager.GetString("LeaderboardCreate", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to You need two or more people to load a leaderboard..
-        /// </summary>
-        public static string LeaderboardErrorBody {
-            get {
-                return ResourceManager.GetString("LeaderboardErrorBody", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Not enough players.
-        /// </summary>
-        public static string LeaderboardErrorBodyShort {
-            get {
-                return ResourceManager.GetString("LeaderboardErrorBodyShort", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Loading Leaderboard....
-        /// </summary>
-        public static string LeaderboardLoading {
-            get {
-                return ResourceManager.GetString("LeaderboardLoading", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Leaderboard Name.
-        /// </summary>
-        public static string LeaderboardName {
-            get {
-                return ResourceManager.GetString("LeaderboardName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Top In {0} Categories.
-        /// </summary>
-        public static string LeaderboardPlacement {
-            get {
-                return ResourceManager.GetString("LeaderboardPlacement", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Remove Leaderboard.
-        /// </summary>
-        public static string LeaderboardRemove {
-            get {
-                return ResourceManager.GetString("LeaderboardRemove", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Do you want to delete this leaderboard?.
-        /// </summary>
-        public static string LeaderboardRemoveConfirm {
-            get {
-                return ResourceManager.GetString("LeaderboardRemoveConfirm", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Tap to remove players.
-        /// </summary>
-        public static string LeaderboardRemovePlayers {
-            get {
-                return ResourceManager.GetString("LeaderboardRemovePlayers", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Leaderboard Name Updated.
-        /// </summary>
-        public static string LeaderboardUpdatedNotification {
-            get {
-                return ResourceManager.GetString("LeaderboardUpdatedNotification", resourceCulture);
+                return ResourceManager.GetString("LastSeen", resourceCulture);
             }
         }
         
@@ -583,6 +682,24 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} minutes ago.
+        /// </summary>
+        public static string MinutesAgo {
+            get {
+                return ResourceManager.GetString("MinutesAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} months ago.
+        /// </summary>
+        public static string MonthsAgo {
+            get {
+                return ResourceManager.GetString("MonthsAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Powered By Steam.
         /// </summary>
         public static string NewsPageSteamAttribute {
@@ -619,6 +736,24 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to None.
+        /// </summary>
+        public static string None {
+            get {
+                return ResourceManager.GetString("None", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not Played Yet.
+        /// </summary>
+        public static string NotPlayed {
+            get {
+                return ResourceManager.GetString("NotPlayed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to of total.
         /// </summary>
         public static string OfTotal {
@@ -637,6 +772,42 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to one minute ago.
+        /// </summary>
+        public static string OneMinuteAgo {
+            get {
+                return ResourceManager.GetString("OneMinuteAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to one month ago.
+        /// </summary>
+        public static string OneMonthAgo {
+            get {
+                return ResourceManager.GetString("OneMonthAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to one second ago.
+        /// </summary>
+        public static string OneSecondAgo {
+            get {
+                return ResourceManager.GetString("OneSecondAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to one year ago.
+        /// </summary>
+        public static string OneYearAgo {
+            get {
+                return ResourceManager.GetString("OneYearAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Operation.
         /// </summary>
         public static string OperationPrefix {
@@ -651,6 +822,24 @@ namespace DragonFruit.Six.Locale {
         public static string Operator {
             get {
                 return ResourceManager.GetString("Operator", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Operator Ability.
+        /// </summary>
+        public static string OperatorAction {
+            get {
+                return ResourceManager.GetString("OperatorAction", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Operator Removed.
+        /// </summary>
+        public static string OperatorDeleted {
+            get {
+                return ResourceManager.GetString("OperatorDeleted", resourceCulture);
             }
         }
         
@@ -678,6 +867,24 @@ namespace DragonFruit.Six.Locale {
         public static string OperatorKPR {
             get {
                 return ResourceManager.GetString("OperatorKPR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Operator Saved Successfully.
+        /// </summary>
+        public static string OperatorSaved {
+            get {
+                return ResourceManager.GetString("OperatorSaved", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Operators Cleared.
+        /// </summary>
+        public static string OperatorsCleared {
+            get {
+                return ResourceManager.GetString("OperatorsCleared", resourceCulture);
             }
         }
         
@@ -727,6 +934,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Other.
+        /// </summary>
+        public static string Other {
+            get {
+                return ResourceManager.GetString("Other", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Overall {0}.
         /// </summary>
         public static string Overall {
@@ -759,6 +975,15 @@ namespace DragonFruit.Six.Locale {
         public static string PenetrationKills {
             get {
                 return ResourceManager.GetString("PenetrationKills", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Platform Changed to.
+        /// </summary>
+        public static string PlatformChanged {
+            get {
+                return ResourceManager.GetString("PlatformChanged", resourceCulture);
             }
         }
         
@@ -952,6 +1177,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Reset Dragon6.
+        /// </summary>
+        public static string ResetAll {
+            get {
+                return ResourceManager.GetString("ResetAll", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Revives.
         /// </summary>
         public static string Revives {
@@ -993,6 +1227,15 @@ namespace DragonFruit.Six.Locale {
         public static string SavedPlayersLimitShort {
             get {
                 return ResourceManager.GetString("SavedPlayersLimitShort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save Operator.
+        /// </summary>
+        public static string SaveOperator {
+            get {
+                return ResourceManager.GetString("SaveOperator", resourceCulture);
             }
         }
         
@@ -1065,6 +1308,15 @@ namespace DragonFruit.Six.Locale {
         public static string SeasonWL {
             get {
                 return ResourceManager.GetString("SeasonWL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} seconds ago.
+        /// </summary>
+        public static string SecondsAgo {
+            get {
+                return ResourceManager.GetString("SecondsAgo", resourceCulture);
             }
         }
         
@@ -1204,6 +1456,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Server-Set Theme.
+        /// </summary>
+        public static string ThemeEnforced {
+            get {
+                return ResourceManager.GetString("ThemeEnforced", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Terrorist Hunt.
         /// </summary>
         public static string THunt {
@@ -1231,6 +1492,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Time Played.
+        /// </summary>
+        public static string TimePlayed {
+            get {
+                return ResourceManager.GetString("TimePlayed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Translate Dragon6.
         /// </summary>
         public static string TranslateApp {
@@ -1245,6 +1515,15 @@ namespace DragonFruit.Six.Locale {
         public static string Translator {
             get {
                 return ResourceManager.GetString("Translator", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Servers in Mainatainance.
+        /// </summary>
+        public static string UbiServersOffline {
+            get {
+                return ResourceManager.GetString("UbiServersOffline", resourceCulture);
             }
         }
         
@@ -1294,6 +1573,96 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Assault Rifle.
+        /// </summary>
+        public static string WeaponAssault {
+            get {
+                return ResourceManager.GetString("WeaponAssault", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rainbow Six Weapon Class.
+        /// </summary>
+        public static string WeaponClass {
+            get {
+                return ResourceManager.GetString("WeaponClass", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Marksman Rifle.
+        /// </summary>
+        public static string WeaponDMR {
+            get {
+                return ResourceManager.GetString("WeaponDMR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LMG.
+        /// </summary>
+        public static string WeaponLMG {
+            get {
+                return ResourceManager.GetString("WeaponLMG", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Machine Pistol.
+        /// </summary>
+        public static string WeaponMachinePistol {
+            get {
+                return ResourceManager.GetString("WeaponMachinePistol", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Weapon Not Found.
+        /// </summary>
+        public static string WeaponNotFound {
+            get {
+                return ResourceManager.GetString("WeaponNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Something has happened and we cannot find this class. Try another one or give it some time and check later..
+        /// </summary>
+        public static string WeaponNotFoundMessage {
+            get {
+                return ResourceManager.GetString("WeaponNotFoundMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Handgun.
+        /// </summary>
+        public static string WeaponPistol {
+            get {
+                return ResourceManager.GetString("WeaponPistol", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Shotgun.
+        /// </summary>
+        public static string WeaponShotgun {
+            get {
+                return ResourceManager.GetString("WeaponShotgun", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SMG.
+        /// </summary>
+        public static string WeaponSMG {
+            get {
+                return ResourceManager.GetString("WeaponSMG", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Wins.
         /// </summary>
         public static string Wins {
@@ -1312,11 +1681,29 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} years ago.
+        /// </summary>
+        public static string YearsAgo {
+            get {
+                return ResourceManager.GetString("YearsAgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Yes.
         /// </summary>
         public static string Yes {
             get {
                 return ResourceManager.GetString("Yes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to yesterday.
+        /// </summary>
+        public static string Yesterday {
+            get {
+                return ResourceManager.GetString("Yesterday", resourceCulture);
             }
         }
     }
