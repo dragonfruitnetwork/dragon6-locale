@@ -666,4 +666,37 @@
   <data name="NotPlayed" xml:space="preserve">
     <value>No Jugat encara</value>
   </data>
+  <data name="Abandoned" xml:space="preserve">
+    <value>va ser abandonat</value>
+  </data>
+  <data name="LastMatch" xml:space="preserve">
+    <value>última partida</value>
+  </data>
+  <data name="Lost" xml:space="preserve">
+    <value>va ser una pèrdua</value>
+  </data>
+  <data name="MMRChange" xml:space="preserve">
+    <value>canvi de MMR</value>
+  </data>
+  <data name="NoKD" xml:space="preserve">
+    <value>no hi ha ni matas ni morts</value>
+  </data>
+  <data name="Seasonal" xml:space="preserve">
+    <value>Temporada</value>
+  </data>
+  <data name="SeasonKD" xml:space="preserve">
+    <value>Temporada Mata/Mort</value>
+  </data>
+  <data name="Specific" xml:space="preserve">
+    <value>Específics</value>
+  </data>
+  <data name="Uncertainty" xml:space="preserve">
+    <value>Incertesa</value>
+  </data>
+  <data name="Unknown" xml:space="preserve">
+    <value>Desconegut</value>
+  </data>
+  <data name="Won" xml:space="preserve">
+    <value>Guanyat</value>
+  </data>
 </root>

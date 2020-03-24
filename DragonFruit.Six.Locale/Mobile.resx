@@ -666,4 +666,37 @@
   <data name="NotPlayed" xml:space="preserve">
     <value>Not Played Yet</value>
   </data>
+  <data name="Abandoned" xml:space="preserve">
+    <value>Abandoned</value>
+  </data>
+  <data name="LastMatch" xml:space="preserve">
+    <value>Last Match</value>
+  </data>
+  <data name="Lost" xml:space="preserve">
+    <value>Lost</value>
+  </data>
+  <data name="MMRChange" xml:space="preserve">
+    <value>MMR Change</value>
+  </data>
+  <data name="NoKD" xml:space="preserve">
+    <value>No Kills or Deaths</value>
+  </data>
+  <data name="Seasonal" xml:space="preserve">
+    <value>Seasonal</value>
+  </data>
+  <data name="SeasonKD" xml:space="preserve">
+    <value>Season K/D</value>
+  </data>
+  <data name="Specific" xml:space="preserve">
+    <value>Specific</value>
+  </data>
+  <data name="Uncertainty" xml:space="preserve">
+    <value>Uncertainty</value>
+  </data>
+  <data name="Unknown" xml:space="preserve">
+    <value>Unknown</value>
+  </data>
+  <data name="Won" xml:space="preserve">
+    <value>Won</value>
+  </data>
 </root>
