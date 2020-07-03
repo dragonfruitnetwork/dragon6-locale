@@ -10,11 +10,18 @@
     <Description>Localised Strings Used by the Dragon6 Apps</Description>
     <Copyright>Copyright 2020 (C) DragonFruit Network</Copyright>
     <PackageProjectUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale/raw/master/res/Dragon6-Locale.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
+    <PackageIcon>Dragon6-Locale.png</PackageIcon>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="..\res\Dragon6-Locale.png">
+      <Pack>true</Pack>
+      <PackagePath>.</PackagePath>
+    </None>
+  </ItemGroup>
+  
   <ItemGroup>
     <Compile Update="Core.Designer.cs">
       <DesignTime>True</DesignTime>
