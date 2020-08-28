@@ -172,7 +172,7 @@
     <value>Default Platform</value>
   </data>
   <data name="FilterBy" xml:space="preserve">
-    <value>Filter By {0}</value>
+    <value>Filter by: {0}</value>
     <comment>{0} filter mode (attacker, defender, none)</comment>
   </data>
   <data name="None" xml:space="preserve">
@@ -204,7 +204,7 @@
     <value>Server set theme</value>
   </data>
   <data name="SortBy" xml:space="preserve">
-    <value>Sort By: {0}</value>
+    <value>Sort by: {0}</value>
     <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
   </data>
   <data name="Unset" xml:space="preserve">
@@ -260,9 +260,6 @@
   </data>
   <data name="SteamNews" xml:space="preserve">
     <value>Powered by Steam</value>
-  </data>
-  <data name="String1" xml:space="preserve">
-    <value />
   </data>
   <data name="UserRemoved" xml:space="preserve">
     <value>{0} Removed</value>

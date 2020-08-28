@@ -142,7 +142,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Filter By {0}.
+        ///   Looks up a localized string similar to Filter by: {0}.
         /// </summary>
         public static string FilterBy {
             get {
@@ -403,7 +403,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sort By: {0}.
+        ///   Looks up a localized string similar to Sort by: {0}.
         /// </summary>
         public static string SortBy {
             get {
@@ -417,15 +417,6 @@ namespace DragonFruit.Six.Locale {
         public static string SteamNews {
             get {
                 return ResourceManager.GetString("SteamNews", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        public static string String1 {
-            get {
-                return ResourceManager.GetString("String1", resourceCulture);
             }
         }
         
