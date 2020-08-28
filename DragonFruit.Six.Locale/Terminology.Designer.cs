@@ -88,7 +88,16 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Attackers.
+        ///   Looks up a localized string similar to Assists.
+        /// </summary>
+        public static string Assists {
+            get {
+                return ResourceManager.GetString("Assists", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Attacker.
         /// </summary>
         public static string Attacker {
             get {

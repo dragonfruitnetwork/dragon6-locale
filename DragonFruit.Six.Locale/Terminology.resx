@@ -196,7 +196,7 @@
     <value>Assault Rifle</value>
   </data>
   <data name="Attacker" xml:space="preserve">
-    <value>Attackers</value>
+    <value>Attacker</value>
   </data>
   <data name="Attackers" xml:space="preserve">
     <value>Attackers</value>
@@ -245,5 +245,8 @@
   </data>
   <data name="Secure" xml:space="preserve">
     <value>Secure</value>
+  </data>
+  <data name="Assists" xml:space="preserve">
+    <value>Assists</value>
   </data>
 </root>
