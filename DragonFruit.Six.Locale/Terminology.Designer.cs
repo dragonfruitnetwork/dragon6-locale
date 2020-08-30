@@ -403,6 +403,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Suicides.
+        /// </summary>
+        public static string Suicides {
+            get {
+                return ResourceManager.GetString("Suicides", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Terrorist Hunt.
         /// </summary>
         public static string Training {

@@ -252,4 +252,7 @@
   <data name="Headshots" xml:space="preserve">
     <value>Headshots</value>
   </data>
+  <data name="Suicides" xml:space="preserve">
+    <value>Suicides</value>
+  </data>
 </root>
