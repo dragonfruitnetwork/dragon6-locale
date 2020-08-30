@@ -183,4 +183,13 @@
   <data name="Wl" xml:space="preserve">
     <value>{0:0.00} W/L ({1:n0} Wins / {2:n0} Losses)</value>
   </data>
+  <data name="OperatorNotPlayed" xml:space="preserve">
+    <value>not played yet</value>
+  </data>
+  <data name="HeadshotsCount" xml:space="preserve">
+    <value>{0:n0} Headshots</value>
+  </data>
+  <data name="KillCount" xml:space="preserve">
+    <value>{0:n0} Kills</value>
+  </data>
 </root>

@@ -19,7 +19,7 @@ namespace DragonFruit.Six.Locale.Cards {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Descriptions {
@@ -88,6 +88,15 @@ namespace DragonFruit.Six.Locale.Cards {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Headshots.
+        /// </summary>
+        public static string HeadshotsCount {
+            get {
+                return ResourceManager.GetString("HeadshotsCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0}: {1:n0} points.
         /// </summary>
         public static string Highscore {
@@ -102,6 +111,15 @@ namespace DragonFruit.Six.Locale.Cards {
         public static string Kd {
             get {
                 return ResourceManager.GetString("Kd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Kills.
+        /// </summary>
+        public static string KillCount {
+            get {
+                return ResourceManager.GetString("KillCount", resourceCulture);
             }
         }
         
@@ -156,6 +174,15 @@ namespace DragonFruit.Six.Locale.Cards {
         public static string Operation {
             get {
                 return ResourceManager.GetString("Operation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to not played yet.
+        /// </summary>
+        public static string OperatorNotPlayed {
+            get {
+                return ResourceManager.GetString("OperatorNotPlayed", resourceCulture);
             }
         }
         

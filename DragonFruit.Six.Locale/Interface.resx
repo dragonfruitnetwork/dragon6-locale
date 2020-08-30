@@ -275,4 +275,7 @@
   <data name="WeaponStats" xml:space="preserve">
     <value>Weapon Stats</value>
   </data>
+  <data name="SeasonSelectionTemplate" xml:space="preserve">
+    <value>{0} (Y{1}S{2})</value>
+  </data>
 </root>

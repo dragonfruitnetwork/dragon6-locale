@@ -249,4 +249,7 @@
   <data name="Assists" xml:space="preserve">
     <value>Assists</value>
   </data>
+  <data name="Headshots" xml:space="preserve">
+    <value>Headshots</value>
+  </data>
 </root>

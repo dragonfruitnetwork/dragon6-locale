@@ -19,7 +19,7 @@ namespace DragonFruit.Six.Locale {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Errors {
@@ -57,6 +57,24 @@ namespace DragonFruit.Six.Locale {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There was an error getting casual stats for this season. Please note older seasons may not have stats recorded, or the user didn&apos;t exist prior to the season.
+        /// </summary>
+        public static string CasualSeasonalError {
+            get {
+                return ResourceManager.GetString("CasualSeasonalError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There was an error getting seasonal stats. We&apos;ve changed your choice of season back to the latest one for now.\n\rWe&apos;ve notified DragonFruit about this issue and will work to get it resolved soon..
+        /// </summary>
+        public static string GeneralSeasonalError {
+            get {
+                return ResourceManager.GetString("GeneralSeasonalError", resourceCulture);
             }
         }
         

@@ -147,4 +147,10 @@
   <data name="UserBlockedErrorTitle" xml:space="preserve">
     <value>User unavailable</value>
   </data>
+  <data name="CasualSeasonalError" xml:space="preserve">
+    <value>There was an error getting casual stats for this season. Please note older seasons may not have stats recorded, or the user didn't exist prior to the season</value>
+  </data>
+  <data name="GeneralSeasonalError" xml:space="preserve">
+    <value>There was an error getting seasonal stats. We've changed your choice of season back to the latest one for now.\n\rWe've notified DragonFruit about this issue and will work to get it resolved soon.</value>
+  </data>
 </root>
