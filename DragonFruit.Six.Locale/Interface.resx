@@ -305,7 +305,7 @@
   <data name="LoadingData" xml:space="preserve">
     <value>Loading Data...</value>
   </data>
-  <data name="SelectAccount" xml:space="preserve">
+  <data name="AccountSelect" xml:space="preserve">
     <value>Select Account</value>
   </data>
   <data name="Cancel" xml:space="preserve">
