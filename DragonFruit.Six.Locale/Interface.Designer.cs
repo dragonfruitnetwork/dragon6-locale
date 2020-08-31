@@ -70,6 +70,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select Account.
+        /// </summary>
+        public static string AccountSelect {
+            get {
+                return ResourceManager.GetString("AccountSelect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Weapon Icons from various artists (sourced from the noun project).
         /// </summary>
         public static string AppIconSource {
@@ -444,15 +453,6 @@ namespace DragonFruit.Six.Locale {
         public static string SeasonSelectionTemplate {
             get {
                 return ResourceManager.GetString("SeasonSelectionTemplate", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Select Account.
-        /// </summary>
-        public static string SelectAccount {
-            get {
-                return ResourceManager.GetString("SelectAccount", resourceCulture);
             }
         }
         
