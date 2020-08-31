@@ -246,7 +246,7 @@
     <value>Loading Stats... ({0})</value>
     <comment>{0} username</comment>
   </data>
-  <data name="Operator Stats" xml:space="preserve">
+  <data name="OperatorStats" xml:space="preserve">
     <value>Operator Stats</value>
   </data>
   <data name="RemoveUser" xml:space="preserve">
