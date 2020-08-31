@@ -138,4 +138,7 @@
   <data name="Verified" xml:space="preserve">
     <value>Verfied Account</value>
   </data>
+  <data name="Beta" xml:space="preserve">
+    <value>Beta Tester</value>
+  </data>
 </root>
