@@ -142,6 +142,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Current Season.
+        /// </summary>
+        public static string CurrentSeason {
+            get {
+                return ResourceManager.GetString("CurrentSeason", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Deaths.
         /// </summary>
         public static string Deaths {

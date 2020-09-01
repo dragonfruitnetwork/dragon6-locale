@@ -255,4 +255,7 @@
   <data name="Suicides" xml:space="preserve">
     <value>Suicides</value>
   </data>
+  <data name="CurrentSeason" xml:space="preserve">
+    <value>Current Season</value>
+  </data>
 </root>
