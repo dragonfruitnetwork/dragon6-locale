@@ -246,7 +246,7 @@
     <value>Loading Stats... ({0})</value>
     <comment>{0} username</comment>
   </data>
-  <data name="Operator Stats" xml:space="preserve">
+  <data name="OperatorStats" xml:space="preserve">
     <value>Operator Stats</value>
   </data>
   <data name="RemoveUser" xml:space="preserve">
@@ -277,5 +277,41 @@
   </data>
   <data name="SeasonSelectionTemplate" xml:space="preserve">
     <value>{0} (Y{1}S{2})</value>
+  </data>
+  <data name="ShareProfile" xml:space="preserve">
+    <value>Share Profile</value>
+  </data>
+  <data name="ConfirmClear" xml:space="preserve">
+    <value>Are you sure you want to clear saved profiles?</value>
+  </data>
+  <data name="ConfirmClearTitle" xml:space="preserve">
+    <value>Confirm Clear</value>
+  </data>
+  <data name="ClearSavedComplete" xml:space="preserve">
+    <value>Saved Profiles Cleared</value>
+  </data>
+  <data name="UpdateAssetsComplete" xml:space="preserve">
+    <value>Assets Updated</value>
+  </data>
+  <data name="PlayersCleared" xml:space="preserve">
+    <value>Players Cleared</value>
+  </data>
+  <data name="AppLibraries" xml:space="preserve">
+    <value>3rd Party Libraries</value>
+  </data>
+  <data name="AppIconSource" xml:space="preserve">
+    <value>Weapon Icons from various artists (sourced from the noun project)</value>
+  </data>
+  <data name="LoadingData" xml:space="preserve">
+    <value>Loading Data...</value>
+  </data>
+  <data name="AccountSelect" xml:space="preserve">
+    <value>Select Account</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="SeasonSelect" xml:space="preserve">
+    <value>Select Season</value>
   </data>
 </root>

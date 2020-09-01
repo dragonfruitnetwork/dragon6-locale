@@ -61,7 +61,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was an error getting casual stats for this season. Please note older seasons may not have stats recorded, or the user didn&apos;t exist prior to the season.
+        ///   Looks up a localized string similar to There was an error getting casual stats for this season.\nPlease note older seasons may not have stats recorded, or the user didn&apos;t exist prior to the season.
         /// </summary>
         public static string CasualSeasonalError {
             get {
@@ -70,7 +70,16 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was an error getting seasonal stats. We&apos;ve changed your choice of season back to the latest one for now.\n\rWe&apos;ve notified DragonFruit about this issue and will work to get it resolved soon..
+        ///   Looks up a localized string similar to Error.
+        /// </summary>
+        public static string Error {
+            get {
+                return ResourceManager.GetString("Error", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There was an error getting seasonal stats.\nWe&apos;ve changed your choice of season back to the latest one for now.\n\rWe&apos;ve notified DragonFruit about this issue and will work to get it resolved soon..
         /// </summary>
         public static string GeneralSeasonalError {
             get {

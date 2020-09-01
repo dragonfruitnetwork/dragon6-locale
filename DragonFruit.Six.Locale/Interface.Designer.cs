@@ -70,11 +70,47 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select Account.
+        /// </summary>
+        public static string AccountSelect {
+            get {
+                return ResourceManager.GetString("AccountSelect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Weapon Icons from various artists (sourced from the noun project).
+        /// </summary>
+        public static string AppIconSource {
+            get {
+                return ResourceManager.GetString("AppIconSource", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 3rd Party Libraries.
+        /// </summary>
+        public static string AppLibraries {
+            get {
+                return ResourceManager.GetString("AppLibraries", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Back.
         /// </summary>
         public static string Back {
             get {
                 return ResourceManager.GetString("Back", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancel.
+        /// </summary>
+        public static string Cancel {
+            get {
+                return ResourceManager.GetString("Cancel", resourceCulture);
             }
         }
         
@@ -93,6 +129,33 @@ namespace DragonFruit.Six.Locale {
         public static string ClearSaved {
             get {
                 return ResourceManager.GetString("ClearSaved", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Saved Profiles Cleared.
+        /// </summary>
+        public static string ClearSavedComplete {
+            get {
+                return ResourceManager.GetString("ClearSavedComplete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to clear saved profiles?.
+        /// </summary>
+        public static string ConfirmClear {
+            get {
+                return ResourceManager.GetString("ConfirmClear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm Clear.
+        /// </summary>
+        public static string ConfirmClearTitle {
+            get {
+                return ResourceManager.GetString("ConfirmClearTitle", resourceCulture);
             }
         }
         
@@ -178,6 +241,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Loading Data....
+        /// </summary>
+        public static string LoadingData {
+            get {
+                return ResourceManager.GetString("LoadingData", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Loading Stats... ({0}).
         /// </summary>
         public static string LoadingStats {
@@ -243,9 +315,9 @@ namespace DragonFruit.Six.Locale {
         /// <summary>
         ///   Looks up a localized string similar to Operator Stats.
         /// </summary>
-        public static string Operator_Stats {
+        public static string OperatorStats {
             get {
-                return ResourceManager.GetString("Operator Stats", resourceCulture);
+                return ResourceManager.GetString("OperatorStats", resourceCulture);
             }
         }
         
@@ -255,6 +327,15 @@ namespace DragonFruit.Six.Locale {
         public static string Other {
             get {
                 return ResourceManager.GetString("Other", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Players Cleared.
+        /// </summary>
+        public static string PlayersCleared {
+            get {
+                return ResourceManager.GetString("PlayersCleared", resourceCulture);
             }
         }
         
@@ -358,6 +439,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select Season.
+        /// </summary>
+        public static string SeasonSelect {
+            get {
+                return ResourceManager.GetString("SeasonSelect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} (Y{1}S{2}).
         /// </summary>
         public static string SeasonSelectionTemplate {
@@ -408,6 +498,15 @@ namespace DragonFruit.Six.Locale {
         public static string ShareAppString {
             get {
                 return ResourceManager.GetString("ShareAppString", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Share Profile.
+        /// </summary>
+        public static string ShareProfile {
+            get {
+                return ResourceManager.GetString("ShareProfile", resourceCulture);
             }
         }
         
@@ -471,6 +570,15 @@ namespace DragonFruit.Six.Locale {
         public static string UpdateAssets {
             get {
                 return ResourceManager.GetString("UpdateAssets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Assets Updated.
+        /// </summary>
+        public static string UpdateAssetsComplete {
+            get {
+                return ResourceManager.GetString("UpdateAssetsComplete", resourceCulture);
             }
         }
         

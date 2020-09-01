@@ -136,6 +136,9 @@
     <value>Dragon6 Translator</value>
   </data>
   <data name="Verified" xml:space="preserve">
-    <value>Verfied Account</value>
+    <value>Verified Account</value>
+  </data>
+  <data name="Beta" xml:space="preserve">
+    <value>Beta Tester</value>
   </data>
 </root>
