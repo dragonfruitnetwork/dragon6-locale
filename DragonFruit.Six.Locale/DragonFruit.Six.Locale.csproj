@@ -87,7 +87,7 @@
       <LastGenOutput>Verification.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Ranks.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Ranks.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
