@@ -156,4 +156,10 @@
   <data name="Error" xml:space="preserve">
     <value>Error</value>
   </data>
+  <data name="DatabaseResetTitle" xml:space="preserve">
+    <value>Database Reset</value>
+  </data>
+  <data name="DatabaseReset" xml:space="preserve">
+    <value>Dragon6 has been reset due to a breaking database upgrade. We apologise for any inconvenience caused</value>
+  </data>
 </root>
