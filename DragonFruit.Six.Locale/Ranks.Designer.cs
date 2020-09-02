@@ -97,7 +97,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bronze5.
+        ///   Looks up a localized string similar to Bronze 5.
         /// </summary>
         internal static string Bronze5 {
             get {
@@ -277,7 +277,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unrakned.
+        ///   Looks up a localized string similar to Unranked.
         /// </summary>
         internal static string Unranked {
             get {

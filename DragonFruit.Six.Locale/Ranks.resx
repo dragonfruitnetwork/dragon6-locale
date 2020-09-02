@@ -19,7 +19,7 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="Unranked" xml:space="preserve">
-        <value>Unrakned</value>
+        <value>Unranked</value>
     </data>
     <data name="Copper5" xml:space="preserve">
         <value>Copper 5</value>
@@ -37,7 +37,7 @@
         <value>Copper 1</value>
     </data>
     <data name="Bronze5" xml:space="preserve">
-        <value>Bronze5</value>
+        <value>Bronze 5</value>
     </data>
     <data name="Bronze4" xml:space="preserve">
         <value>Bronze 4</value>
