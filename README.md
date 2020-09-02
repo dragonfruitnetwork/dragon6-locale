@@ -1,8 +1,9 @@
 # Dragon6 Locale (.NET)
 
 ![CI](https://github.com/dragonfruitnetwork/Dragon6-Locale/workflows/Publish/badge.svg)
+[![Crowdin](https://badges.crowdin.net/dragon6/localized.svg)](https://translate.dragonfruit.network/project/dragon6)
 [![Nuget](https://img.shields.io/nuget/v/DragonFruit.Six.Locale)](https://www.nuget.org/packages/DragonFruit.Six.Locale)
-[![DragonFruit Discord](https://img.shields.io/discord/482528405292843018?label=Discord&style=popout)](https://discord.gg/VA26u5Z)
+[![DragonFruit Discord](https://img.shields.io/discord/482528405292843018?label=Discord&style=popout)](https://dragon6.dragonfruit.network/discord)
 
 ### Overview 
 Dragon6 Locale is a collection of RESX files that are used in the Dragon6 Mobile app.
