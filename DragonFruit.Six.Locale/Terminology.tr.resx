@@ -121,16 +121,16 @@
     <value>Normal</value>
   </data>
   <data name="Ranked" xml:space="preserve">
-    <value>Dereceli</value>
+    <value>Rütbeli</value>
   </data>
   <data name="Unranked" xml:space="preserve">
-    <value>Derecesiz</value>
+    <value>Rütbesiz</value>
   </data>
   <data name="KD" xml:space="preserve">
-    <value>Öldürme / Ölme</value>
+    <value>Ö/Ö</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>Galibiyet/Mağlubiyet</value>
+    <value>G/M</value>
   </data>
   <data name="Kills" xml:space="preserve">
     <value>Öldürmeler</value>
@@ -139,7 +139,7 @@
     <value>Ölümler</value>
   </data>
   <data name="Abandoned" xml:space="preserve">
-    <value>Terkedilen</value>
+    <value>Terk edilmiş</value>
   </data>
   <data name="Abandons" xml:space="preserve">
     <value>Terk etmeler</value>
@@ -257,5 +257,8 @@
   </data>
   <data name="CurrentSeason" xml:space="preserve">
     <value>Şu anki Sezon</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Zaman</value>
   </data>
 </root>

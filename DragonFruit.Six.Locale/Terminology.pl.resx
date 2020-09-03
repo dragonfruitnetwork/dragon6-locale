@@ -258,4 +258,7 @@
   <data name="CurrentSeason" xml:space="preserve">
     <value>Obecny sezon</value>
   </data>
+  <data name="Time" xml:space="preserve">
+    <value>Czas</value>
+  </data>
 </root>
