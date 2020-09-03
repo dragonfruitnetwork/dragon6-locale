@@ -186,4 +186,10 @@
   <data name="UnrankedWl" xml:space="preserve">
     <value>V/D Sem Colocação</value>
   </data>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Filtrar Por</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Ordenar Por</value>
+  </data>
 </root>

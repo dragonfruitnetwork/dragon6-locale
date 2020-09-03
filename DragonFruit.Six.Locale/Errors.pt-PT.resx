@@ -156,4 +156,10 @@
   <data name="Error" xml:space="preserve">
     <value>Erro</value>
   </data>
+  <data name="DatabaseResetTitle" xml:space="preserve">
+    <value>Redefinir base de dados</value>
+  </data>
+  <data name="DatabaseReset" xml:space="preserve">
+    <value>O Dragon6 foi redefinido devido a uma atualização que quebrou o banco de dados. Pedimos desculpas por qualquer inconveniência causada</value>
+  </data>
 </root>
