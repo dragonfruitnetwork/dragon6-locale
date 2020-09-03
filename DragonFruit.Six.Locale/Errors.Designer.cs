@@ -70,6 +70,24 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dragon6 has been reset due to a breaking database upgrade. We apologise for any inconvenience caused.
+        /// </summary>
+        public static string DatabaseReset {
+            get {
+                return ResourceManager.GetString("DatabaseReset", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Database Reset.
+        /// </summary>
+        public static string DatabaseResetTitle {
+            get {
+                return ResourceManager.GetString("DatabaseResetTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Error.
         /// </summary>
         public static string Error {

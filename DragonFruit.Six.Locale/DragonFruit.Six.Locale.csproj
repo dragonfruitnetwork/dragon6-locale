@@ -13,6 +13,7 @@
     <RepositoryUrl>https://github.com/dragonfruitnetwork/Dragon6-Locale</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageIcon>Dragon6-Locale.png</PackageIcon>
+    <NeutralLanguage>en</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
@@ -53,6 +54,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Verification.resx</DependentUpon>
     </Compile>
+    <Compile Update="Ranks.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Ranks.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
@@ -80,6 +86,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Verification.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Ranks.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Ranks.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
-
+  
 </Project>

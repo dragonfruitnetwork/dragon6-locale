@@ -156,4 +156,10 @@
   <data name="Error" xml:space="preserve">
     <value>Błąd</value>
   </data>
+  <data name="DatabaseResetTitle" xml:space="preserve">
+    <value>Reset bazy danych</value>
+  </data>
+  <data name="DatabaseReset" xml:space="preserve">
+    <value>Dragon6 został zresetowany z powodu aktualizacji bazy danych. Przepraszamy za wszelkie niedogodności tym spowodowane</value>
+  </data>
 </root>

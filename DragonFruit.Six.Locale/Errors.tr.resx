@@ -145,7 +145,7 @@
     <value>Bu kullanıcının istatistikleri görüntülenemiyor (genellikle veri güvenliği gerekçesiyle ancak bazen bizim tarafımızdan dolayı)</value>
   </data>
   <data name="UserBlockedErrorTitle" xml:space="preserve">
-    <value>Kullanıcı kullanılamıyor</value>
+    <value>Kullanıcıya erişilemiyor</value>
   </data>
   <data name="CasualSeasonalError" xml:space="preserve">
     <value>Bu sezon için sıradan istatistikler alınırken bir hata oluştu. \n Lütfen eski sezonların istatistiklerinin kaydedilmemiş olabileceğini veya kullanıcının sezondan önce mevcut olmadığını unutmayın</value>
@@ -155,5 +155,11 @@
   </data>
   <data name="Error" xml:space="preserve">
     <value>Hata</value>
+  </data>
+  <data name="DatabaseResetTitle" xml:space="preserve">
+    <value>Veritabanı Sıfırlama</value>
+  </data>
+  <data name="DatabaseReset" xml:space="preserve">
+    <value>Dragon6, Veritabanı yükseltmenin bozulması nedeniyle sıfırlandı. Sebep olduğumuz rahatsızlık için özür dileriz</value>
   </data>
 </root>

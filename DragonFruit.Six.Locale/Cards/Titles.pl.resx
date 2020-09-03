@@ -186,4 +186,10 @@
   <data name="UnrankedWl" xml:space="preserve">
     <value>Nierankingowe W/L</value>
   </data>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Filtruj Według</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Sortuj według</value>
+  </data>
 </root>

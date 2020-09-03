@@ -180,6 +180,16 @@
   <data name="TrainingWl" xml:space="preserve">
     <value>Caza del Terrorista V/D</value>
   </data>
-  
-  
+  <data name="UnrankedKd" xml:space="preserve">
+    <value>Sin Clasificación A/M</value>
+  </data>
+  <data name="UnrankedWl" xml:space="preserve">
+    <value>Sin Clasificación V/D</value>
+  </data>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Filtrar por</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Ordenar por</value>
+  </data>
 </root>

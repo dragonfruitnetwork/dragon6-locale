@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CasualKd" xml:space="preserve">
-    <value>Günlük Öldürme / Ölme</value>
+    <value>Günlük Ö / Ö</value>
   </data>
   <data name="CasualWl" xml:space="preserve">
     <value>Günlük G / M</value>
   </data>
   <data name="DownsRevives" xml:space="preserve">
-    <value>Düşme vs Dirilme</value>
+    <value>Düşmeler ve Dirilmeler</value>
   </data>
   <data name="FirstSession" xml:space="preserve">
     <value>İlk Oturum</value>
@@ -139,51 +139,57 @@
     <value>En Son Maç</value>
   </data>
   <data name="NextRankProgress" xml:space="preserve">
-    <value>Sonraki Derece İlerlemesi</value>
+    <value>Sonraki Rütbe İlerlemesi</value>
   </data>
   <data name="OperatorAbility" xml:space="preserve">
     <value>Operatör Yeteneği</value>
   </data>
   <data name="OperatorKd" xml:space="preserve">
-    <value>Operatör Öldürme / Ölme</value>
+    <value>Operatör Ö/Ö</value>
   </data>
   <data name="OperatorWl" xml:space="preserve">
-    <value>Operatör Galibiyet / Mağlubiyet</value>
+    <value>Operatör G/M</value>
   </data>
   <data name="OverallKd" xml:space="preserve">
-    <value>Genel Öldürme / Ölüme</value>
+    <value>Genel Ö/Ö</value>
   </data>
   <data name="OverallWl" xml:space="preserve">
-    <value>Genel Galibiyet / Mağlubiyet</value>
+    <value>Genel G/M</value>
   </data>
   <data name="RankedKd" xml:space="preserve">
-    <value>Dereceli Öldürme / Ölme</value>
+    <value>Rütbeli Ö/Ö</value>
   </data>
   <data name="RankedWl" xml:space="preserve">
-    <value>Dereceli Galibiyet / Mağlubiyet</value>
+    <value>Rütbeli Galibiyet / Mağlubiyet</value>
   </data>
   <data name="SeasonKd" xml:space="preserve">
-    <value>Sezon Öldürme / Ölme</value>
+    <value>Sezon Ö /Ö</value>
   </data>
   <data name="SeasonMmr" xml:space="preserve">
-    <value>MMR Sezonu</value>
+    <value>Sezon MMR</value>
   </data>
   <data name="SeasonWl" xml:space="preserve">
-    <value>Sezon Galibiyet / Mağlubiyet</value>
+    <value>Sezon G/M</value>
   </data>
   <data name="TimePlayed" xml:space="preserve">
     <value>Oynanılan Zaman</value>
   </data>
   <data name="TrainingKd" xml:space="preserve">
-    <value>Terörist Avı Öldürme / Ölme</value>
+    <value>Terörist Avı Ö/Ö</value>
   </data>
   <data name="TrainingWl" xml:space="preserve">
-    <value>Terörist Avı Galibiyet / Mağlubiyet</value>
+    <value>Terörist Avı G/M</value>
   </data>
   <data name="UnrankedKd" xml:space="preserve">
-    <value>Sıralanmamış Öldürme / Ölme</value>
+    <value>Rütbesiz Ö/Ö</value>
   </data>
   <data name="UnrankedWl" xml:space="preserve">
-    <value>Sıralanmamış Galibiyet / Mağlubiyet</value>
+    <value>Rütbesiz G/M</value>
+  </data>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Filtrele</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Sırala</value>
   </data>
 </root>
