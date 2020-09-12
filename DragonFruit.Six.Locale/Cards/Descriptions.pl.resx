@@ -118,20 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DownsRevives" xml:space="preserve">
-    <value>{0:n0} Powalenia / {1:n0} Wskrzeszenia</value>
+    <value>{0:n0} Powalenia / {1:n0} Reanimacje</value>
   </data>
   <data name="FirstSession" xml:space="preserve">
     <value>Pierwszy raz zagrano {0} (przez {1:n0} sesje)</value>
   </data>
   <data name="Headshots" xml:space="preserve">
-    <value>{0:n0} Headshoty ({1:0.0}%)</value>
+    <value>{0:n0} Strzały w głowę ({1:0.0}%)</value>
   </data>
   <data name="Highscore" xml:space="preserve">
     <value>{0}: {1:n0} punktów</value>
     <comment>{0} mode | {1} score</comment>
   </data>
   <data name="Kd" xml:space="preserve">
-    <value>{0:0.00} K/D ({1:n0} Zabójstwa / {2:n0} Zgony)</value>
+    <value>{0:0.00} Z/Ś ({1:n0} Zabójstwa / {2:n0} Śmierci)</value>
   </data>
   <data name="KillsPerRound" xml:space="preserve">
     <value>{0:0.00} KPR ({1:n0} Zabójstw / {2:n0} Rundy)</value>
@@ -156,11 +156,11 @@
     <comment>{0} season name (e.g Steel Wave)</comment>
   </data>
   <data name="OperatorSummary" xml:space="preserve">
-    <value>{0:0.00} K/D · {1:0.00} W/L · {2}</value>
+    <value>{0:0.00} Z/Ś · {1:0.00} W/P · {2}</value>
     <comment>{2} time played</comment>
   </data>
   <data name="Penetrations" xml:space="preserve">
-    <value>{0:n0} Zabójstwa z penetracją ({1:0.0}%)</value>
+    <value>{0:n0} Zabójstwa przez przeszkody ({1:0.0}%)</value>
   </data>
   <data name="SeasonMmr" xml:space="preserve">
     <value>{0:n0} ± {1:n0} MMR ({2})</value>
@@ -181,13 +181,13 @@
     <comment>{0} mode | {1} time played (filled in by humanizer)</comment>
   </data>
   <data name="Wl" xml:space="preserve">
-    <value>{0:0.00} W/L ({1:n0} Wygranych / {2:n0} Przegranych)</value>
+    <value>{0:0.00} W/P ({1:n0} Wygranych / {2:n0} Przegranych)</value>
   </data>
   <data name="OperatorNotPlayed" xml:space="preserve">
     <value>jeszcze nie zagrano</value>
   </data>
   <data name="HeadshotsCount" xml:space="preserve">
-    <value>{0:n0} Strzały w głowie</value>
+    <value>{0:n0} Strzały w głowę</value>
   </data>
   <data name="KillCount" xml:space="preserve">
     <value>{0:n0} Zabójstwa</value>

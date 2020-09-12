@@ -117,49 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="NoInternet" xml:space="preserve">
-    <value>Wymagane jest połączenie internetowe aby używać Dragon6</value>
+  <data name="Admin" xml:space="preserve">
+    <value>Admin Dragon6</value>
   </data>
-  <data name="PlayerNotFound" xml:space="preserve">
-    <value>Gracz {0} nie został znaleziony w {1}.\n Sprawdź poprawność nazwy użytkownika (jak pokazano na kanale zabójstwa) i spróbuj ponownie\n Jeśli problem nadal będzie się powtarzał, spróbuj ponownie później</value>
-    <comment>{0} username | {1} platform</comment>
+  <data name="Blocked" xml:space="preserve">
+    <value>Uživatel zablokován</value>
   </data>
-  <data name="PlayerNotFoundTitle" xml:space="preserve">
-    <value>Nie znaleziono gracza</value>
+  <data name="Contributor" xml:space="preserve">
+    <value>Přispěvatel Dragon6</value>
   </data>
-  <data name="ServerError" xml:space="preserve">
-    <value>Coś poszło nie tak podczas próby żądania danych z serwera {0}.\n Sprawdź czy masz dostęp do Internetu i spróbuj ponownie później.</value>
-    <comment>{0} server source - DragonFruit/Ubisoft/etc.</comment>
+  <data name="Normal" xml:space="preserve">
+    <value>Standardní uživatel</value>
   </data>
-  <data name="ServerErrorTitle" xml:space="preserve">
-    <value>Błąd Serwera: {0}</value>
-    <comment>{0} http status code (NotFound, Forbidden, etc.)</comment>
+  <data name="Supporter" xml:space="preserve">
+    <value>Podporovatel Dragon6</value>
   </data>
-  <data name="UnexpectedError" xml:space="preserve">
-    <value>Wystąpił nieoczekiwany błąd. Zespół Dragon6 został powiadomiony i spróbuje go naprawić.</value>
+  <data name="Translator" xml:space="preserve">
+    <value>Překladatel Dragon6</value>
   </data>
-  <data name="UnexpectedErrorTitle" xml:space="preserve">
-    <value>Nieoczekiwany błąd</value>
+  <data name="Verified" xml:space="preserve">
+    <value>Ověřený účet</value>
   </data>
-  <data name="UserBlockedError" xml:space="preserve">
-    <value>Statystyki tego użytkownika nie mogą być oglądane (zazwyczaj na podstawie GDPR, ale czasami przez nas)</value>
-  </data>
-  <data name="UserBlockedErrorTitle" xml:space="preserve">
-    <value>Użytkownik niedostępny</value>
-  </data>
-  <data name="CasualSeasonalError" xml:space="preserve">
-    <value>Wystąpił błąd podczas otrzymywania statystyk w tym sezonie.\nPamiętaj, że starsze sezony mogą nie mieć zapisanych statystyk lub użytkownik nie posiadał konta przed rozpoczęciem się sezonu</value>
-  </data>
-  <data name="GeneralSeasonalError" xml:space="preserve">
-    <value>Wystąpił błąd podczas uzyskiwania statystyk sezonowych.\nZmieniliśmy twój wybór sezonu z powrotem na najnowszy. \n\r Powiadomiliśmy o tym problemie DragonFruit i zrobimy wszystko aby rozwiązać go jak najszybciej.</value>
-  </data>
-  <data name="Error" xml:space="preserve">
-    <value>Błąd</value>
-  </data>
-  <data name="DatabaseResetTitle" xml:space="preserve">
-    <value>Reset bazy danych</value>
-  </data>
-  <data name="DatabaseReset" xml:space="preserve">
-    <value>Dragon6 został zresetowany z powodu aktualizacji bazy danych. Przepraszamy za wszelkie niedogodności tym spowodowane</value>
+  <data name="Beta" xml:space="preserve">
+    <value>Beta Tester</value>
   </data>
 </root>

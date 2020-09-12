@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CasualKd" xml:space="preserve">
-    <value>K/D na Casualach</value>
+    <value>W/P na Szybki Mecz</value>
   </data>
   <data name="CasualWl" xml:space="preserve">
-    <value>W/L na Casualach</value>
+    <value>W/P na Szybki Mecz</value>
   </data>
   <data name="DownsRevives" xml:space="preserve">
-    <value>Powalenia vs Wskrzeszenia</value>
+    <value>Powalenia vs Reanimacje</value>
   </data>
   <data name="FirstSession" xml:space="preserve">
     <value>Pierwsza sesja</value>
@@ -145,46 +145,46 @@
     <value>Umiejętność operatora</value>
   </data>
   <data name="OperatorKd" xml:space="preserve">
-    <value>Operator K/D</value>
+    <value>Operator Z/Ś</value>
   </data>
   <data name="OperatorWl" xml:space="preserve">
-    <value>Operator W/L</value>
+    <value>Operator W/P</value>
   </data>
   <data name="OverallKd" xml:space="preserve">
-    <value>Ogólne K/D</value>
+    <value>Ogólne Z/Ś</value>
   </data>
   <data name="OverallWl" xml:space="preserve">
-    <value>Ogólne W/L</value>
+    <value>Ogólne W/P</value>
   </data>
   <data name="RankedKd" xml:space="preserve">
-    <value>Rankingowy K/D</value>
+    <value>Rankingowy Z/Ś</value>
   </data>
   <data name="RankedWl" xml:space="preserve">
-    <value>Rankingowe W/L</value>
+    <value>Rankingowe W/P</value>
   </data>
   <data name="SeasonKd" xml:space="preserve">
-    <value>Sezonowe K/D</value>
+    <value>Sezonowe Z/Ś</value>
   </data>
   <data name="SeasonMmr" xml:space="preserve">
     <value>Sezonowe MMR</value>
   </data>
   <data name="SeasonWl" xml:space="preserve">
-    <value>Sezonowe W/L</value>
+    <value>Sezonowe W/P</value>
   </data>
   <data name="TimePlayed" xml:space="preserve">
-    <value>Czas gry</value>
+    <value>Czas Rozgrywki</value>
   </data>
   <data name="TrainingKd" xml:space="preserve">
-    <value>Terrorist Hunt K/D</value>
+    <value>Poligon Z/Ś</value>
   </data>
   <data name="TrainingWl" xml:space="preserve">
-    <value>Terrorist Hunt W/L</value>
+    <value>Poligon W/P</value>
   </data>
   <data name="UnrankedKd" xml:space="preserve">
-    <value>Nierankingowe K/D</value>
+    <value>Nierankingowe Z/Ś</value>
   </data>
   <data name="UnrankedWl" xml:space="preserve">
-    <value>Nierankingowe W/L</value>
+    <value>Nierankingowe W/P</value>
   </data>
   <data name="FilterBy" xml:space="preserve">
     <value>Filtruj Według</value>
