@@ -117,49 +117,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="NoInternet" xml:space="preserve">
-    <value>Wymagane jest połączenie internetowe aby używać Dragon6</value>
+  <data name="CasualKd" xml:space="preserve">
+    <value>Základní Z/S</value>
   </data>
-  <data name="PlayerNotFound" xml:space="preserve">
-    <value>Gracz {0} nie został znaleziony w {1}.\n Sprawdź poprawność nazwy użytkownika (jak pokazano na kanale zabójstwa) i spróbuj ponownie\n Jeśli problem nadal będzie się powtarzał, spróbuj ponownie później</value>
-    <comment>{0} username | {1} platform</comment>
+  <data name="CasualWl" xml:space="preserve">
+    <value>Základní V/P</value>
   </data>
-  <data name="PlayerNotFoundTitle" xml:space="preserve">
-    <value>Nie znaleziono gracza</value>
+  <data name="DownsRevives" xml:space="preserve">
+    <value>Vlastnosti vs Oživení</value>
   </data>
-  <data name="ServerError" xml:space="preserve">
-    <value>Coś poszło nie tak podczas próby żądania danych z serwera {0}.\n Sprawdź czy masz dostęp do Internetu i spróbuj ponownie później.</value>
-    <comment>{0} server source - DragonFruit/Ubisoft/etc.</comment>
+  <data name="FirstSession" xml:space="preserve">
+    <value>První relace</value>
   </data>
-  <data name="ServerErrorTitle" xml:space="preserve">
-    <value>Błąd Serwera: {0}</value>
-    <comment>{0} http status code (NotFound, Forbidden, etc.)</comment>
+  <data name="HighestRank" xml:space="preserve">
+    <value>Nejvyšší hodnost</value>
   </data>
-  <data name="UnexpectedError" xml:space="preserve">
-    <value>Wystąpił nieoczekiwany błąd. Zespół Dragon6 został powiadomiony i spróbuje go naprawić.</value>
+  <data name="KillsPerRound" xml:space="preserve">
+    <value>Zabití/kolo</value>
   </data>
-  <data name="UnexpectedErrorTitle" xml:space="preserve">
-    <value>Nieoczekiwany błąd</value>
+  <data name="LastMatch" xml:space="preserve">
+    <value>Poslední souboj</value>
   </data>
-  <data name="UserBlockedError" xml:space="preserve">
-    <value>Statystyki tego użytkownika nie mogą być oglądane (zazwyczaj na podstawie GDPR, ale czasami przez nas)</value>
+  <data name="NextRankProgress" xml:space="preserve">
+    <value>Postup dalšího ranku</value>
   </data>
-  <data name="UserBlockedErrorTitle" xml:space="preserve">
-    <value>Użytkownik niedostępny</value>
+  <data name="OperatorAbility" xml:space="preserve">
+    <value>Schopnost Agent</value>
   </data>
-  <data name="CasualSeasonalError" xml:space="preserve">
-    <value>Wystąpił błąd podczas otrzymywania statystyk w tym sezonie.\nPamiętaj, że starsze sezony mogą nie mieć zapisanych statystyk lub użytkownik nie posiadał konta przed rozpoczęciem się sezonu</value>
+  <data name="OperatorKd" xml:space="preserve">
+    <value>Provozovatel Z/S</value>
   </data>
-  <data name="GeneralSeasonalError" xml:space="preserve">
-    <value>Wystąpił błąd podczas uzyskiwania statystyk sezonowych.\nZmieniliśmy twój wybór sezonu z powrotem na najnowszy. \n\r Powiadomiliśmy o tym problemie DragonFruit i zrobimy wszystko aby rozwiązać go jak najszybciej.</value>
+  <data name="OperatorWl" xml:space="preserve">
+    <value>Operátor V/P</value>
   </data>
-  <data name="Error" xml:space="preserve">
-    <value>Błąd</value>
+  <data name="OverallKd" xml:space="preserve">
+    <value>Celkové Z/S</value>
   </data>
-  <data name="DatabaseResetTitle" xml:space="preserve">
-    <value>Reset bazy danych</value>
+  <data name="OverallWl" xml:space="preserve">
+    <value>Celková V/P</value>
   </data>
-  <data name="DatabaseReset" xml:space="preserve">
-    <value>Dragon6 został zresetowany z powodu aktualizacji bazy danych. Przepraszamy za wszelkie niedogodności tym spowodowane</value>
+  <data name="RankedKd" xml:space="preserve">
+    <value>Hodnocená Hra Z/S</value>
+  </data>
+  <data name="RankedWl" xml:space="preserve">
+    <value>Hodnocená V/P</value>
+  </data>
+  <data name="SeasonKd" xml:space="preserve">
+    <value>Sezóna Z/S</value>
+  </data>
+  <data name="SeasonMmr" xml:space="preserve">
+    <value>Sezónní MMR</value>
+  </data>
+  <data name="SeasonWl" xml:space="preserve">
+    <value>Sezóna V/P</value>
+  </data>
+  <data name="TimePlayed" xml:space="preserve">
+    <value>Odehraný čas</value>
+  </data>
+  <data name="TrainingKd" xml:space="preserve">
+    <value>Cvičiště Z/S</value>
+  </data>
+  <data name="TrainingWl" xml:space="preserve">
+    <value>Cvičiště V/P</value>
+  </data>
+  <data name="UnrankedKd" xml:space="preserve">
+    <value>Z/S Bez ranku</value>
+  </data>
+  <data name="UnrankedWl" xml:space="preserve">
+    <value>V/P Bez ranku</value>
+  </data>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Filtrovat podle</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Seřadit podle</value>
   </data>
 </root>
