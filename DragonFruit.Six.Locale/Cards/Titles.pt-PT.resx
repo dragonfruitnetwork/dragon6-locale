@@ -175,10 +175,10 @@
     <value>Tempo Jogado</value>
   </data>
   <data name="TrainingKd" xml:space="preserve">
-    <value>E/M Caça-Terrorista</value>
+    <value>E/M Campo de Treino</value>
   </data>
   <data name="TrainingWl" xml:space="preserve">
-    <value>V/D Caça-Terrorista</value>
+    <value>E/M Campo de Treino</value>
   </data>
   <data name="UnrankedKd" xml:space="preserve">
     <value>E/M Sem Colocação</value>

@@ -118,147 +118,147 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Casual" xml:space="preserve">
-    <value>Casual</value>
+    <value>休閒模式</value>
   </data>
   <data name="Ranked" xml:space="preserve">
-    <value>Por Colocação</value>
+    <value>排名模式</value>
   </data>
   <data name="Unranked" xml:space="preserve">
-    <value>Sem Colocação</value>
+    <value>排名練習模式</value>
   </data>
   <data name="KD" xml:space="preserve">
-    <value>E/M</value>
+    <value>戰損比</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>V/D</value>
+    <value>勝負比</value>
   </data>
   <data name="Kills" xml:space="preserve">
-    <value>Eliminações</value>
+    <value>擊殺數</value>
   </data>
   <data name="Deaths" xml:space="preserve">
-    <value>Mortes</value>
+    <value>死亡數</value>
   </data>
   <data name="Abandoned" xml:space="preserve">
-    <value>Abandonado</value>
+    <value>中途離場</value>
   </data>
   <data name="Abandons" xml:space="preserve">
-    <value>Abandonos</value>
+    <value>中途離場</value>
   </data>
   <data name="Downs" xml:space="preserve">
-    <value>Baixas</value>
+    <value>擊倒數</value>
   </data>
   <data name="Highscores" xml:space="preserve">
-    <value>Recordes</value>
+    <value>最高分：</value>
   </data>
   <data name="LastMatch" xml:space="preserve">
-    <value>Última Partida</value>
+    <value>最近場次</value>
   </data>
   <data name="Losses" xml:space="preserve">
-    <value>Derrotas</value>
+    <value>負</value>
   </data>
   <data name="Lost" xml:space="preserve">
-    <value>Perdeu</value>
+    <value>戰敗</value>
   </data>
   <data name="Melee" xml:space="preserve">
-    <value>Corpo a Corpo</value>
+    <value>近戰擊殺</value>
   </data>
   <data name="Operator" xml:space="preserve">
-    <value>Agente</value>
+    <value>特勤幹員</value>
   </data>
   <data name="Operators" xml:space="preserve">
-    <value>Agentes</value>
+    <value>特勤幹員</value>
   </data>
   <data name="Overall" xml:space="preserve">
-    <value>Total</value>
+    <value>整體</value>
   </data>
   <data name="Penetrations" xml:space="preserve">
-    <value>Penetrações</value>
+    <value>穿牆擊殺</value>
   </data>
   <data name="Revives" xml:space="preserve">
-    <value>Reanimações</value>
+    <value>救活</value>
   </data>
   <data name="Training" xml:space="preserve">
-    <value>Campo de Treino</value>
+    <value>獵殺恐怖份子</value>
   </data>
   <data name="Unknown" xml:space="preserve">
-    <value>Desconhecido</value>
+    <value>不明</value>
   </data>
   <data name="Weapon" xml:space="preserve">
-    <value>Arma</value>
+    <value>武器</value>
   </data>
   <data name="Wins" xml:space="preserve">
-    <value>Vitórias</value>
+    <value>勝</value>
   </data>
   <data name="Won" xml:space="preserve">
-    <value>Ganhou</value>
+    <value>戰勝</value>
   </data>
   <data name="AssaultRifle" xml:space="preserve">
-    <value>Rifle de Assalto</value>
+    <value>突擊步槍</value>
   </data>
   <data name="Attacker" xml:space="preserve">
-    <value>Atacante</value>
+    <value>攻擊方</value>
   </data>
   <data name="Attackers" xml:space="preserve">
-    <value>Atacantes</value>
+    <value>攻擊方</value>
   </data>
   <data name="AttackerShort" xml:space="preserve">
-    <value>ATC</value>
+    <value>攻勢方</value>
   </data>
   <data name="Defender" xml:space="preserve">
-    <value>Defensor</value>
+    <value>防守方</value>
   </data>
   <data name="Defenders" xml:space="preserve">
-    <value>Defensores</value>
+    <value>防守方</value>
   </data>
   <data name="DefenderShort" xml:space="preserve">
-    <value>DEF</value>
+    <value>防守方</value>
   </data>
   <data name="LightMachineGun" xml:space="preserve">
-    <value>Metralhadora Leve</value>
+    <value>輕機槍</value>
   </data>
   <data name="MachinePistol" xml:space="preserve">
-    <value>Pistola Automática</value>
+    <value>自動手槍</value>
   </data>
   <data name="Pistol" xml:space="preserve">
-    <value>Pistola</value>
+    <value>手槍</value>
   </data>
   <data name="Seasonal" xml:space="preserve">
-    <value>Temporada</value>
+    <value>賽季</value>
   </data>
   <data name="Shotgun" xml:space="preserve">
-    <value>Espingarda</value>
+    <value>霰彈槍</value>
   </data>
   <data name="SniperRifle" xml:space="preserve">
-    <value>Rifle de Precisão</value>
+    <value>狙擊槍</value>
   </data>
   <data name="SubmachineGun" xml:space="preserve">
-    <value>Submetralhadora</value>
+    <value>衝鋒槍</value>
   </data>
   <data name="Bomb" xml:space="preserve">
-    <value>Bomba</value>
+    <value>炸彈模式</value>
   </data>
   <data name="Hostage" xml:space="preserve">
-    <value>Refém</value>
+    <value>人質模式</value>
   </data>
   <data name="Level" xml:space="preserve">
-    <value>Nível {0}</value>
+    <value>等級:{0}</value>
   </data>
   <data name="Secure" xml:space="preserve">
-    <value>Segurar</value>
+    <value>肅清威脅模式</value>
   </data>
   <data name="Assists" xml:space="preserve">
-    <value>Assistências</value>
+    <value>助攻</value>
   </data>
   <data name="Headshots" xml:space="preserve">
-    <value>Tiros na Cabeça</value>
+    <value>爆頭數</value>
   </data>
   <data name="Suicides" xml:space="preserve">
-    <value>Suicídios</value>
+    <value>自殺數</value>
   </data>
   <data name="CurrentSeason" xml:space="preserve">
-    <value>Temporada Atual</value>
+    <value>目前賽季</value>
   </data>
   <data name="Time" xml:space="preserve">
-    <value>Tempo</value>
+    <value>時間</value>
   </data>
 </root>

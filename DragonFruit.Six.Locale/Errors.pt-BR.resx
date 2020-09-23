@@ -117,148 +117,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Casual" xml:space="preserve">
-    <value>Casual</value>
+  <data name="NoInternet" xml:space="preserve">
+    <value>É necessária conexão com a Internet para utilizar o Dragon6</value>
   </data>
-  <data name="Ranked" xml:space="preserve">
-    <value>Por Colocação</value>
+  <data name="PlayerNotFound" xml:space="preserve">
+    <value>Jogador {0} não foi encontrado em {1}.\nPor favor, verifique se o nome de usuário foi inserido corretamente (como mostrado no feed de abates) e tente novamente\nSe o problema persistir, tente novamente mais tarde</value>
+    <comment>{0} username | {1} platform</comment>
   </data>
-  <data name="Unranked" xml:space="preserve">
-    <value>Sem Colocação</value>
+  <data name="PlayerNotFoundTitle" xml:space="preserve">
+    <value>Jogador não encontrado</value>
   </data>
-  <data name="KD" xml:space="preserve">
-    <value>E/M</value>
+  <data name="ServerError" xml:space="preserve">
+    <value>Algo deu errado tentando solicitar dados de um servidor {0}.\nPor favor, verifique se você tem acesso completo à internet e tente novamente mais tarde.</value>
+    <comment>{0} server source - DragonFruit/Ubisoft/etc.</comment>
   </data>
-  <data name="WL" xml:space="preserve">
-    <value>V/D</value>
+  <data name="ServerErrorTitle" xml:space="preserve">
+    <value>Erro no servidor: {0}</value>
+    <comment>{0} http status code (NotFound, Forbidden, etc.)</comment>
   </data>
-  <data name="Kills" xml:space="preserve">
-    <value>Eliminações</value>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Ocorreu um erro inesperado. A equipe Dragon6 foi notificada e irá investigar mais a fundo.</value>
   </data>
-  <data name="Deaths" xml:space="preserve">
-    <value>Mortes</value>
+  <data name="UnexpectedErrorTitle" xml:space="preserve">
+    <value>Erro Inesperado</value>
   </data>
-  <data name="Abandoned" xml:space="preserve">
-    <value>Abandonado</value>
+  <data name="UserBlockedError" xml:space="preserve">
+    <value>As estatísticas deste usuário não podem ser visualizadas (geralmente por causa de GDPR, mas, às vezes, devido a problemas em nossa ferramenta)</value>
   </data>
-  <data name="Abandons" xml:space="preserve">
-    <value>Abandonos</value>
+  <data name="UserBlockedErrorTitle" xml:space="preserve">
+    <value>Usuário indisponível</value>
   </data>
-  <data name="Downs" xml:space="preserve">
-    <value>Baixas</value>
+  <data name="CasualSeasonalError" xml:space="preserve">
+    <value>Houve um erro ao obter estatísticas casuais nesta temporada.\nPor favor, note que temporadas mais antigas podem não ter estatísticas registradas, ou o usuário não existia antes da temporada</value>
   </data>
-  <data name="Highscores" xml:space="preserve">
-    <value>Recordes</value>
+  <data name="GeneralSeasonalError" xml:space="preserve">
+    <value>Ocorreu um erro ao obter estatísticas desta temporada.\nMudamos a sua escolha de temporada de volta para a mais recente por enquanto.\n\rNotificamos a DragonFruit sobre este problema e vamos trabalhar para que ele seja resolvido em breve.</value>
   </data>
-  <data name="LastMatch" xml:space="preserve">
-    <value>Última Partida</value>
+  <data name="Error" xml:space="preserve">
+    <value>Erro</value>
   </data>
-  <data name="Losses" xml:space="preserve">
-    <value>Derrotas</value>
+  <data name="DatabaseResetTitle" xml:space="preserve">
+    <value>Redefinir Base de Dados</value>
   </data>
-  <data name="Lost" xml:space="preserve">
-    <value>Perdeu</value>
-  </data>
-  <data name="Melee" xml:space="preserve">
-    <value>Corpo a Corpo</value>
-  </data>
-  <data name="Operator" xml:space="preserve">
-    <value>Agente</value>
-  </data>
-  <data name="Operators" xml:space="preserve">
-    <value>Agentes</value>
-  </data>
-  <data name="Overall" xml:space="preserve">
-    <value>Total</value>
-  </data>
-  <data name="Penetrations" xml:space="preserve">
-    <value>Penetrações</value>
-  </data>
-  <data name="Revives" xml:space="preserve">
-    <value>Reanimações</value>
-  </data>
-  <data name="Training" xml:space="preserve">
-    <value>Campo de Treino</value>
-  </data>
-  <data name="Unknown" xml:space="preserve">
-    <value>Desconhecido</value>
-  </data>
-  <data name="Weapon" xml:space="preserve">
-    <value>Arma</value>
-  </data>
-  <data name="Wins" xml:space="preserve">
-    <value>Vitórias</value>
-  </data>
-  <data name="Won" xml:space="preserve">
-    <value>Ganhou</value>
-  </data>
-  <data name="AssaultRifle" xml:space="preserve">
-    <value>Rifle de Assalto</value>
-  </data>
-  <data name="Attacker" xml:space="preserve">
-    <value>Atacante</value>
-  </data>
-  <data name="Attackers" xml:space="preserve">
-    <value>Atacantes</value>
-  </data>
-  <data name="AttackerShort" xml:space="preserve">
-    <value>ATC</value>
-  </data>
-  <data name="Defender" xml:space="preserve">
-    <value>Defensor</value>
-  </data>
-  <data name="Defenders" xml:space="preserve">
-    <value>Defensores</value>
-  </data>
-  <data name="DefenderShort" xml:space="preserve">
-    <value>DEF</value>
-  </data>
-  <data name="LightMachineGun" xml:space="preserve">
-    <value>Metralhadora Leve</value>
-  </data>
-  <data name="MachinePistol" xml:space="preserve">
-    <value>Pistola Automática</value>
-  </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistola</value>
-  </data>
-  <data name="Seasonal" xml:space="preserve">
-    <value>Temporada</value>
-  </data>
-  <data name="Shotgun" xml:space="preserve">
-    <value>Espingarda</value>
-  </data>
-  <data name="SniperRifle" xml:space="preserve">
-    <value>Rifle de Precisão</value>
-  </data>
-  <data name="SubmachineGun" xml:space="preserve">
-    <value>Submetralhadora</value>
-  </data>
-  <data name="Bomb" xml:space="preserve">
-    <value>Bomba</value>
-  </data>
-  <data name="Hostage" xml:space="preserve">
-    <value>Refém</value>
-  </data>
-  <data name="Level" xml:space="preserve">
-    <value>Nível {0}</value>
-  </data>
-  <data name="Secure" xml:space="preserve">
-    <value>Segurar</value>
-  </data>
-  <data name="Assists" xml:space="preserve">
-    <value>Assistências</value>
-  </data>
-  <data name="Headshots" xml:space="preserve">
-    <value>Tiros na Cabeça</value>
-  </data>
-  <data name="Suicides" xml:space="preserve">
-    <value>Suicídios</value>
-  </data>
-  <data name="CurrentSeason" xml:space="preserve">
-    <value>Temporada Atual</value>
-  </data>
-  <data name="Time" xml:space="preserve">
-    <value>Tempo</value>
+  <data name="DatabaseReset" xml:space="preserve">
+    <value>O Dragon6 foi reiniciado devido a uma atualização quebrada do banco de dados. Pedimos desculpas por qualquer inconveniente causado</value>
   </data>
 </root>

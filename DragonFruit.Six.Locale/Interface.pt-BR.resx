@@ -117,148 +117,204 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Casual" xml:space="preserve">
-    <value>Casual</value>
+  <data name="Yes" xml:space="preserve">
+    <value>Sim</value>
   </data>
-  <data name="Ranked" xml:space="preserve">
-    <value>Por Colocação</value>
+  <data name="No" xml:space="preserve">
+    <value>Não</value>
   </data>
-  <data name="Unranked" xml:space="preserve">
-    <value>Sem Colocação</value>
+  <data name="Home" xml:space="preserve">
+    <value>Início</value>
   </data>
-  <data name="KD" xml:space="preserve">
-    <value>E/M</value>
+  <data name="News" xml:space="preserve">
+    <value>Notícias</value>
   </data>
-  <data name="WL" xml:space="preserve">
-    <value>V/D</value>
+  <data name="Menu" xml:space="preserve">
+    <value>Menu</value>
   </data>
-  <data name="Kills" xml:space="preserve">
-    <value>Eliminações</value>
+  <data name="Settings" xml:space="preserve">
+    <value>Configurações</value>
   </data>
-  <data name="Deaths" xml:space="preserve">
-    <value>Mortes</value>
+  <data name="Share" xml:space="preserve">
+    <value>Partilhar</value>
   </data>
-  <data name="Abandoned" xml:space="preserve">
-    <value>Abandonado</value>
+  <data name="General" xml:space="preserve">
+    <value>Geral</value>
   </data>
-  <data name="Abandons" xml:space="preserve">
-    <value>Abandonos</value>
+  <data name="Other" xml:space="preserve">
+    <value>Outro</value>
   </data>
-  <data name="Downs" xml:space="preserve">
-    <value>Baixas</value>
+  <data name="Clear" xml:space="preserve">
+    <value>Limpar</value>
   </data>
-  <data name="Highscores" xml:space="preserve">
-    <value>Recordes</value>
+  <data name="Default" xml:space="preserve">
+    <value>Padrão</value>
   </data>
-  <data name="LastMatch" xml:space="preserve">
-    <value>Última Partida</value>
+  <data name="Name" xml:space="preserve">
+    <value>Nome</value>
   </data>
-  <data name="Losses" xml:space="preserve">
-    <value>Derrotas</value>
+  <data name="Search" xml:space="preserve">
+    <value>Procurar</value>
   </data>
-  <data name="Lost" xml:space="preserve">
-    <value>Perdeu</value>
+  <data name="Update" xml:space="preserve">
+    <value>Atualizar</value>
   </data>
-  <data name="Melee" xml:space="preserve">
-    <value>Corpo a Corpo</value>
+  <data name="AboutApp" xml:space="preserve">
+    <value>Sobre Dragon6</value>
   </data>
-  <data name="Operator" xml:space="preserve">
-    <value>Agente</value>
+  <data name="ClearSaved" xml:space="preserve">
+    <value>Remover perfis salvos</value>
   </data>
-  <data name="Operators" xml:space="preserve">
-    <value>Agentes</value>
+  <data name="DarkTheme" xml:space="preserve">
+    <value>Tema Escuro</value>
   </data>
-  <data name="Overall" xml:space="preserve">
-    <value>Total</value>
+  <data name="DefaultPlatform" xml:space="preserve">
+    <value>Plataforma padrão</value>
   </data>
-  <data name="Penetrations" xml:space="preserve">
-    <value>Penetrações</value>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Filtrar por: {0}</value>
+    <comment>{0} filter mode (attacker, defender, none)</comment>
   </data>
-  <data name="Revives" xml:space="preserve">
-    <value>Reanimações</value>
+  <data name="None" xml:space="preserve">
+    <value>Nenhum</value>
   </data>
-  <data name="Training" xml:space="preserve">
-    <value>Campo de Treino</value>
+  <data name="PlayerStats" xml:space="preserve">
+    <value>Estatísticas do jogador</value>
   </data>
-  <data name="Unknown" xml:space="preserve">
-    <value>Desconhecido</value>
+  <data name="Recents" xml:space="preserve">
+    <value>Jogadores Recentes</value>
   </data>
-  <data name="Weapon" xml:space="preserve">
-    <value>Arma</value>
+  <data name="SavePlayerTip" xml:space="preserve">
+    <value>Dica: Toque duas vezes no cartão de um jogador para salvá-lo</value>
   </data>
-  <data name="Wins" xml:space="preserve">
-    <value>Vitórias</value>
+  <data name="SearchingForAccount" xml:space="preserve">
+    <value>Procurando {0} em {1}</value>
+    <comment>{0} username | {1} platform</comment>
   </data>
-  <data name="Won" xml:space="preserve">
-    <value>Ganhou</value>
+  <data name="SearchOperators" xml:space="preserve">
+    <value>Procurar operadores</value>
   </data>
-  <data name="AssaultRifle" xml:space="preserve">
-    <value>Rifle de Assalto</value>
+  <data name="SearchRecents" xml:space="preserve">
+    <value>Procurar jogadores recentes</value>
   </data>
-  <data name="Attacker" xml:space="preserve">
-    <value>Atacante</value>
+  <data name="SeasonChangeTip" xml:space="preserve">
+    <value>Dica: Toque no cartão no topo para mudar de temporada</value>
   </data>
-  <data name="Attackers" xml:space="preserve">
-    <value>Atacantes</value>
+  <data name="ServerSetTheme" xml:space="preserve">
+    <value>Tema definido pelo servidor</value>
   </data>
-  <data name="AttackerShort" xml:space="preserve">
-    <value>ATC</value>
+  <data name="SortBy" xml:space="preserve">
+    <value>Ordenar por: {0}</value>
+    <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
   </data>
-  <data name="Defender" xml:space="preserve">
-    <value>Defensor</value>
+  <data name="Unset" xml:space="preserve">
+    <value>Tema não definido</value>
+    <comment>like "theme not set"</comment>
   </data>
-  <data name="Defenders" xml:space="preserve">
-    <value>Defensores</value>
+  <data name="UpdateAssets" xml:space="preserve">
+    <value>Atualizar Assets</value>
   </data>
-  <data name="DefenderShort" xml:space="preserve">
-    <value>DEF</value>
+  <data name="Back" xml:space="preserve">
+    <value>Voltar</value>
   </data>
-  <data name="LightMachineGun" xml:space="preserve">
-    <value>Metralhadora Leve</value>
+  <data name="GotIt" xml:space="preserve">
+    <value>Entendido</value>
   </data>
-  <data name="MachinePistol" xml:space="preserve">
-    <value>Pistola Automática</value>
+  <data name="Ok" xml:space="preserve">
+    <value>Ok</value>
   </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistola</value>
+  <data name="ShareAccountString" xml:space="preserve">
+    <value>Confira as Estatísticas de {0} no Dragon6!</value>
+    <comment>{0} player's name</comment>
   </data>
-  <data name="Seasonal" xml:space="preserve">
-    <value>Temporada</value>
+  <data name="ShareAppString" xml:space="preserve">
+    <value>Confira o Dragon6 - um rastreador de estatísticas do R6 grátis!</value>
   </data>
-  <data name="Shotgun" xml:space="preserve">
-    <value>Espingarda</value>
+  <data name="Translate" xml:space="preserve">
+    <value>Traduzir</value>
   </data>
-  <data name="SniperRifle" xml:space="preserve">
-    <value>Rifle de Precisão</value>
+  <data name="Understood" xml:space="preserve">
+    <value>Entendido</value>
   </data>
-  <data name="SubmachineGun" xml:space="preserve">
-    <value>Submetralhadora</value>
+  <data name="ConfirmRemove" xml:space="preserve">
+    <value>Confirmar Remoção</value>
   </data>
-  <data name="Bomb" xml:space="preserve">
-    <value>Bomba</value>
+  <data name="ConfirmSave" xml:space="preserve">
+    <value>Confirmar salvar</value>
   </data>
-  <data name="Hostage" xml:space="preserve">
-    <value>Refém</value>
+  <data name="LoadingStats" xml:space="preserve">
+    <value>Carregando Estatísticas... ({0})</value>
+    <comment>{0} username</comment>
   </data>
-  <data name="Level" xml:space="preserve">
-    <value>Nível {0}</value>
+  <data name="OperatorStats" xml:space="preserve">
+    <value>Estatísticas do Operador</value>
   </data>
-  <data name="Secure" xml:space="preserve">
-    <value>Segurar</value>
+  <data name="RemoveUser" xml:space="preserve">
+    <value>Remover {0} da sua página inicial?</value>
   </data>
-  <data name="Assists" xml:space="preserve">
-    <value>Assistências</value>
+  <data name="RetryConnection" xml:space="preserve">
+    <value>Tentar Reconectar</value>
   </data>
-  <data name="Headshots" xml:space="preserve">
-    <value>Tiros na Cabeça</value>
+  <data name="SaveUser" xml:space="preserve">
+    <value>Adicionar {0} à sua página inicial?</value>
   </data>
-  <data name="Suicides" xml:space="preserve">
-    <value>Suicídios</value>
+  <data name="SteamNews" xml:space="preserve">
+    <value>Powered by Steam</value>
   </data>
-  <data name="CurrentSeason" xml:space="preserve">
-    <value>Temporada Atual</value>
+  <data name="UserRemoved" xml:space="preserve">
+    <value>{0} Removido</value>
+    <comment>{0} username</comment>
   </data>
-  <data name="Time" xml:space="preserve">
-    <value>Tempo</value>
+  <data name="UserSaved" xml:space="preserve">
+    <value>{0} Salvo</value>
+    <comment>{0} username</comment>
+  </data>
+  <data name="ViewRecents" xml:space="preserve">
+    <value>Visualizar Recentes</value>
+  </data>
+  <data name="WeaponStats" xml:space="preserve">
+    <value>Estatísticas de Armas</value>
+  </data>
+  <data name="SeasonSelectionTemplate" xml:space="preserve">
+    <value>{0} (A{1}T{2})</value>
+  </data>
+  <data name="ShareProfile" xml:space="preserve">
+    <value>Compartilhar Perfil</value>
+  </data>
+  <data name="ConfirmClear" xml:space="preserve">
+    <value>Você tem certeza que deseja apagar perfis salvos?</value>
+  </data>
+  <data name="ConfirmClearTitle" xml:space="preserve">
+    <value>Confirmar Limpeza</value>
+  </data>
+  <data name="ClearSavedComplete" xml:space="preserve">
+    <value>Perfis Salvos removidos</value>
+  </data>
+  <data name="UpdateAssetsComplete" xml:space="preserve">
+    <value>Assets atualizados</value>
+  </data>
+  <data name="PlayersCleared" xml:space="preserve">
+    <value>Jogadores Limpos</value>
+  </data>
+  <data name="AppLibraries" xml:space="preserve">
+    <value>Bibliotecas de Terceiros</value>
+  </data>
+  <data name="AppIconSource" xml:space="preserve">
+    <value>Ícones de armas de vários artistas (originados do noun project)</value>
+  </data>
+  <data name="LoadingData" xml:space="preserve">
+    <value>Carregando dados...</value>
+  </data>
+  <data name="AccountSelect" xml:space="preserve">
+    <value>Selecionar Conta</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="SeasonSelect" xml:space="preserve">
+    <value>Selecionar Temporada</value>
+  </data>
+  <data name="SearchPlayers" xml:space="preserve">
+    <value>Procurar jogadores</value>
   </data>
 </root>

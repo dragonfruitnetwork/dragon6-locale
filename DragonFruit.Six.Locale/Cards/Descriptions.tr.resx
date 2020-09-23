@@ -131,7 +131,7 @@
     <comment>{0} mode | {1} score</comment>
   </data>
   <data name="Kd" xml:space="preserve">
-    <value>{0:0.00} Ö / Ö ({1:n0} Öldürme / {2:n0} Ölüme)</value>
+    <value>{0:0.00} Ö / Ö ({1:n0} Öldürme / {2:n0} Ölme)</value>
   </data>
   <data name="KillsPerRound" xml:space="preserve">
     <value>{0:0.00} KPR ({1:n0} Öldürme / {2:n0} Mermi)</value>
@@ -145,7 +145,7 @@
     <comment>{0} timespan from last login (humanizer filled)</comment>
   </data>
   <data name="Melee" xml:space="preserve">
-    <value>{0:n0} Yakın Dövüş Öldürmeleri (% {1:0.0})</value>
+    <value>{0:n0} Yakın mesafeli öldürme (% {1:0.0})</value>
   </data>
   <data name="NextRank" xml:space="preserve">
     <value>{0} MMR - {1} (% {2})</value>
@@ -160,7 +160,7 @@
     <comment>{2} time played</comment>
   </data>
   <data name="Penetrations" xml:space="preserve">
-    <value>{0:n0} Penetrasyon Öldürmeleri (% {1:0.0})</value>
+    <value>{0:n0} Penetrasyon Öldürmesi (% {1:0.0})</value>
   </data>
   <data name="SeasonMmr" xml:space="preserve">
     <value>{0:n0} ± {1:n0} MMR ({2})</value>
@@ -171,10 +171,10 @@
     <comment>{0} mmr | {1} Rank Name</comment>
   </data>
   <data name="SeasonWl" xml:space="preserve">
-    <value>{0:0.00} ({1:n0} Galibiyet / {2:n0} Mağlubiyet + {2:n0} Vazgeçme)</value>
+    <value>{0:0.00} ({1:n0} Galibiyet / {2:n0} Mağlubiyet+ {2:n0} Terk edilen)</value>
   </data>
   <data name="Suicides" xml:space="preserve">
-    <value>{0:n0} İntiharlar (% {1:0.0})</value>
+    <value>{0:n0} İntihar (% {1:0.0})</value>
   </data>
   <data name="TimePlayed" xml:space="preserve">
     <value>{0}: {1}</value>
