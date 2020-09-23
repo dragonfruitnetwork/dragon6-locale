@@ -314,4 +314,7 @@
   <data name="SeasonSelect" xml:space="preserve">
     <value>Wybierz Sezon</value>
   </data>
+  <data name="SearchPlayers" xml:space="preserve">
+    <value>Szukaj Graczy</value>
+  </data>
 </root>

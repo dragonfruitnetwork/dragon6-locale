@@ -421,6 +421,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Search Players.
+        /// </summary>
+        public static string SearchPlayers {
+            get {
+                return ResourceManager.GetString("SearchPlayers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Search Recent Players.
         /// </summary>
         public static string SearchRecents {

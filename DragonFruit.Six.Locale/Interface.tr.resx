@@ -172,11 +172,11 @@
     <value>Varsayılan Platform</value>
   </data>
   <data name="FilterBy" xml:space="preserve">
-    <value>Filtreleme ölçütü: {0}</value>
+    <value>Filtrele: {0}</value>
     <comment>{0} filter mode (attacker, defender, none)</comment>
   </data>
   <data name="None" xml:space="preserve">
-    <value>Yok</value>
+    <value>Hiç biri</value>
   </data>
   <data name="PlayerStats" xml:space="preserve">
     <value>Oyuncu İstatistikleri</value>
@@ -204,7 +204,7 @@
     <value>Sunucu seti teması</value>
   </data>
   <data name="SortBy" xml:space="preserve">
-    <value>Sıralama ölçütü: {0}</value>
+    <value>Sırala: {0}</value>
     <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
   </data>
   <data name="Unset" xml:space="preserve">
@@ -285,10 +285,10 @@
     <value>Kaydedilmiş profilleri silmek istediğinizden emin misiniz?</value>
   </data>
   <data name="ConfirmClearTitle" xml:space="preserve">
-    <value>Silmeyi Onaylayın</value>
+    <value>Silmeyi Onayla</value>
   </data>
   <data name="ClearSavedComplete" xml:space="preserve">
-    <value>Kaydedilen Profiller Silindi</value>
+    <value>Kaydedilen Profiller Temizlendi</value>
   </data>
   <data name="UpdateAssetsComplete" xml:space="preserve">
     <value>Varlıklar Güncellendi</value>
@@ -313,5 +313,8 @@
   </data>
   <data name="SeasonSelect" xml:space="preserve">
     <value>Sezon Seç</value>
+  </data>
+  <data name="SearchPlayers" xml:space="preserve">
+    <value>Oyuncu Ara</value>
   </data>
 </root>

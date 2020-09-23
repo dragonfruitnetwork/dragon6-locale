@@ -300,7 +300,7 @@
     <value>Třetí knihovny</value>
   </data>
   <data name="AppIconSource" xml:space="preserve">
-    <value>Zbraňové ikony různých umělců (získané z projektu jména)</value>
+    <value>Zbraňové ikony různých umělců (získané z noun project)</value>
   </data>
   <data name="LoadingData" xml:space="preserve">
     <value>Probíhá nahrávání dat...</value>
@@ -313,5 +313,8 @@
   </data>
   <data name="SeasonSelect" xml:space="preserve">
     <value>Vybrat sezónu</value>
+  </data>
+  <data name="SearchPlayers" xml:space="preserve">
+    <value>Vyhledat hráče</value>
   </data>
 </root>

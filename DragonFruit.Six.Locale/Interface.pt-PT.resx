@@ -172,7 +172,7 @@
     <value>Plataforma Predefinida</value>
   </data>
   <data name="FilterBy" xml:space="preserve">
-    <value>Filtrar Por: {0}</value>
+    <value>Filtrar por: {0}</value>
     <comment>{0} filter mode (attacker, defender, none)</comment>
   </data>
   <data name="None" xml:space="preserve">
@@ -250,7 +250,7 @@
     <value>Estatísticas do(a) Agente</value>
   </data>
   <data name="RemoveUser" xml:space="preserve">
-    <value>Remover {0} da página principal?</value>
+    <value>Remover {0} da sua página inicial?</value>
   </data>
   <data name="RetryConnection" xml:space="preserve">
     <value>Tentar Conexão Novamente</value>
@@ -313,5 +313,8 @@
   </data>
   <data name="SeasonSelect" xml:space="preserve">
     <value>Selecione Temporada</value>
+  </data>
+  <data name="SearchPlayers" xml:space="preserve">
+    <value>Procurar Jogadores</value>
   </data>
 </root>

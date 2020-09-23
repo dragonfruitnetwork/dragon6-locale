@@ -121,10 +121,10 @@
     <value>Casual</value>
   </data>
   <data name="Ranked" xml:space="preserve">
-    <value>Por Colocação</value>
+    <value>Ranqueado</value>
   </data>
   <data name="Unranked" xml:space="preserve">
-    <value>Sem Colocação</value>
+    <value>Não Ranqueadas</value>
   </data>
   <data name="KD" xml:space="preserve">
     <value>E/M</value>
@@ -139,16 +139,16 @@
     <value>Mortes</value>
   </data>
   <data name="Abandoned" xml:space="preserve">
-    <value>Abandonado</value>
+    <value>Abandonadas</value>
   </data>
   <data name="Abandons" xml:space="preserve">
     <value>Abandonos</value>
   </data>
   <data name="Downs" xml:space="preserve">
-    <value>Baixas</value>
+    <value>Abatidas</value>
   </data>
   <data name="Highscores" xml:space="preserve">
-    <value>Recordes</value>
+    <value>Melhores pontuações</value>
   </data>
   <data name="LastMatch" xml:space="preserve">
     <value>Última Partida</value>
@@ -157,19 +157,19 @@
     <value>Derrotas</value>
   </data>
   <data name="Lost" xml:space="preserve">
-    <value>Perdeu</value>
+    <value>Derrota</value>
   </data>
   <data name="Melee" xml:space="preserve">
-    <value>Corpo a Corpo</value>
+    <value>Corpo-a-corpo</value>
   </data>
   <data name="Operator" xml:space="preserve">
-    <value>Agente</value>
+    <value>Operador</value>
   </data>
   <data name="Operators" xml:space="preserve">
-    <value>Agentes</value>
+    <value>Operadores</value>
   </data>
   <data name="Overall" xml:space="preserve">
-    <value>Total</value>
+    <value>Geral</value>
   </data>
   <data name="Penetrations" xml:space="preserve">
     <value>Penetrações</value>
@@ -178,7 +178,7 @@
     <value>Reanimações</value>
   </data>
   <data name="Training" xml:space="preserve">
-    <value>Campo de Treino</value>
+    <value>Campo de treino</value>
   </data>
   <data name="Unknown" xml:space="preserve">
     <value>Desconhecido</value>
@@ -190,7 +190,7 @@
     <value>Vitórias</value>
   </data>
   <data name="Won" xml:space="preserve">
-    <value>Ganhou</value>
+    <value>Venceu</value>
   </data>
   <data name="AssaultRifle" xml:space="preserve">
     <value>Rifle de Assalto</value>
@@ -202,7 +202,7 @@
     <value>Atacantes</value>
   </data>
   <data name="AttackerShort" xml:space="preserve">
-    <value>ATC</value>
+    <value>ATQ</value>
   </data>
   <data name="Defender" xml:space="preserve">
     <value>Defensor</value>
@@ -214,7 +214,7 @@
     <value>DEF</value>
   </data>
   <data name="LightMachineGun" xml:space="preserve">
-    <value>Metralhadora Leve</value>
+    <value>LMG</value>
   </data>
   <data name="MachinePistol" xml:space="preserve">
     <value>Pistola Automática</value>
@@ -226,13 +226,13 @@
     <value>Temporada</value>
   </data>
   <data name="Shotgun" xml:space="preserve">
-    <value>Espingarda</value>
+    <value>Shotgun</value>
   </data>
   <data name="SniperRifle" xml:space="preserve">
     <value>Rifle de Precisão</value>
   </data>
   <data name="SubmachineGun" xml:space="preserve">
-    <value>Submetralhadora</value>
+    <value>SMG</value>
   </data>
   <data name="Bomb" xml:space="preserve">
     <value>Bomba</value>
@@ -244,7 +244,7 @@
     <value>Nível {0}</value>
   </data>
   <data name="Secure" xml:space="preserve">
-    <value>Segurar</value>
+    <value>Proteger Área</value>
   </data>
   <data name="Assists" xml:space="preserve">
     <value>Assistências</value>
