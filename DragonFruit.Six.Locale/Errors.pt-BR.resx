@@ -118,21 +118,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="NoInternet" xml:space="preserve">
-    <value>É necessária conexão com a Internet para utilizar o Dragon6</value>
+    <value>Uma conexão com a internet é necessária para usar Dragon6</value>
   </data>
   <data name="PlayerNotFound" xml:space="preserve">
-    <value>Jogador {0} não foi encontrado em {1}.\nPor favor, verifique se o nome de usuário foi inserido corretamente (como mostrado no feed de abates) e tente novamente\nSe o problema persistir, tente novamente mais tarde</value>
+    <value>Jogador(a) {0} não foi encontrado em {1}.\nPor favor, verifique se digitou o nome do usuário corretamente (como mostrado no feed de eliminações) e tente novamente\nSe o problema persistir, tente novamente mais tarde</value>
     <comment>{0} username | {1} platform</comment>
   </data>
   <data name="PlayerNotFoundTitle" xml:space="preserve">
-    <value>Jogador não encontrado</value>
+    <value>Jogador Não Encontrado</value>
   </data>
   <data name="ServerError" xml:space="preserve">
     <value>Algo deu errado tentando solicitar dados de um servidor {0}.\nPor favor, verifique se você tem acesso completo à internet e tente novamente mais tarde.</value>
     <comment>{0} server source - DragonFruit/Ubisoft/etc.</comment>
   </data>
   <data name="ServerErrorTitle" xml:space="preserve">
-    <value>Erro no servidor: {0}</value>
+    <value>Erro de Servidor: {0}</value>
     <comment>{0} http status code (NotFound, Forbidden, etc.)</comment>
   </data>
   <data name="UnexpectedError" xml:space="preserve">
@@ -142,7 +142,7 @@
     <value>Erro Inesperado</value>
   </data>
   <data name="UserBlockedError" xml:space="preserve">
-    <value>As estatísticas deste usuário não podem ser visualizadas (geralmente por causa de GDPR, mas, às vezes, devido a problemas em nossa ferramenta)</value>
+    <value>As estatísticas deste usuário não podem ser vistas (geralmente por motivos GDPR mas, às vezes, por nós)</value>
   </data>
   <data name="UserBlockedErrorTitle" xml:space="preserve">
     <value>Usuário indisponível</value>
@@ -151,7 +151,7 @@
     <value>Houve um erro ao obter estatísticas casuais nesta temporada.\nPor favor, note que temporadas mais antigas podem não ter estatísticas registradas, ou o usuário não existia antes da temporada</value>
   </data>
   <data name="GeneralSeasonalError" xml:space="preserve">
-    <value>Ocorreu um erro ao obter estatísticas desta temporada.\nMudamos a sua escolha de temporada de volta para a mais recente por enquanto.\n\rNotificamos a DragonFruit sobre este problema e vamos trabalhar para que ele seja resolvido em breve.</value>
+    <value>Ocorreu um erro ao obter estatísticas da temporada.\nNós mudamos a sua escolha da temporada de volta para a mais recente por enquanto.\n\rNós notificamos DragonFruit sobre este problema e vamos trabalhar para que ele seja resolvido em breve.</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Erro</value>
@@ -160,6 +160,6 @@
     <value>Redefinir Base de Dados</value>
   </data>
   <data name="DatabaseReset" xml:space="preserve">
-    <value>O Dragon6 foi reiniciado devido a uma atualização quebrada do banco de dados. Pedimos desculpas por qualquer inconveniente causado</value>
+    <value>O Dragon6 foi redefinido devido a uma atualização que quebrou o banco de dados. Pedimos desculpas por qualquer inconveniência causada</value>
   </data>
 </root>
