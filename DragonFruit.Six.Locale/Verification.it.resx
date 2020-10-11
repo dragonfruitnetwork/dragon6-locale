@@ -117,148 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Casual" xml:space="preserve">
-    <value>Casual</value>
+  <data name="Admin" xml:space="preserve">
+    <value>Amministratore Dragon6</value>
   </data>
-  <data name="Ranked" xml:space="preserve">
-    <value>Ranqueado</value>
+  <data name="Blocked" xml:space="preserve">
+    <value>Utente Bloccato</value>
   </data>
-  <data name="Unranked" xml:space="preserve">
-    <value>Não Ranqueado</value>
+  <data name="Contributor" xml:space="preserve">
+    <value>Contributore Dragon6</value>
   </data>
-  <data name="KD" xml:space="preserve">
-    <value>E/M</value>
+  <data name="Normal" xml:space="preserve">
+    <value>Utente Standard</value>
   </data>
-  <data name="WL" xml:space="preserve">
-    <value>V/D</value>
+  <data name="Supporter" xml:space="preserve">
+    <value>Sostenitore di Dragon6</value>
   </data>
-  <data name="Kills" xml:space="preserve">
-    <value>Eliminações</value>
+  <data name="Translator" xml:space="preserve">
+    <value>Traduttore di Dragon6</value>
   </data>
-  <data name="Deaths" xml:space="preserve">
-    <value>Mortes</value>
+  <data name="Verified" xml:space="preserve">
+    <value>Profilo Verificato</value>
   </data>
-  <data name="Abandoned" xml:space="preserve">
-    <value>Abandonadas</value>
-  </data>
-  <data name="Abandons" xml:space="preserve">
-    <value>Abandonos</value>
-  </data>
-  <data name="Downs" xml:space="preserve">
-    <value>Abatidas</value>
-  </data>
-  <data name="Highscores" xml:space="preserve">
-    <value>Melhores pontuações</value>
-  </data>
-  <data name="LastMatch" xml:space="preserve">
-    <value>Última Partida</value>
-  </data>
-  <data name="Losses" xml:space="preserve">
-    <value>Derrotas</value>
-  </data>
-  <data name="Lost" xml:space="preserve">
-    <value>Derrota</value>
-  </data>
-  <data name="Melee" xml:space="preserve">
-    <value>Corpo-a-corpo</value>
-  </data>
-  <data name="Operator" xml:space="preserve">
-    <value>Operador</value>
-  </data>
-  <data name="Operators" xml:space="preserve">
-    <value>Operadores</value>
-  </data>
-  <data name="Overall" xml:space="preserve">
-    <value>Geral</value>
-  </data>
-  <data name="Penetrations" xml:space="preserve">
-    <value>Penetrações</value>
-  </data>
-  <data name="Revives" xml:space="preserve">
-    <value>Reanimações</value>
-  </data>
-  <data name="Training" xml:space="preserve">
-    <value>Campo de treino</value>
-  </data>
-  <data name="Unknown" xml:space="preserve">
-    <value>Desconhecido</value>
-  </data>
-  <data name="Weapon" xml:space="preserve">
-    <value>Arma</value>
-  </data>
-  <data name="Wins" xml:space="preserve">
-    <value>Vitórias</value>
-  </data>
-  <data name="Won" xml:space="preserve">
-    <value>Venceu</value>
-  </data>
-  <data name="AssaultRifle" xml:space="preserve">
-    <value>Rifle de Assalto</value>
-  </data>
-  <data name="Attacker" xml:space="preserve">
-    <value>Atacante</value>
-  </data>
-  <data name="Attackers" xml:space="preserve">
-    <value>Atacantes</value>
-  </data>
-  <data name="AttackerShort" xml:space="preserve">
-    <value>ATQ</value>
-  </data>
-  <data name="Defender" xml:space="preserve">
-    <value>Defensor</value>
-  </data>
-  <data name="Defenders" xml:space="preserve">
-    <value>Defensores</value>
-  </data>
-  <data name="DefenderShort" xml:space="preserve">
-    <value>DEF</value>
-  </data>
-  <data name="LightMachineGun" xml:space="preserve">
-    <value>LMG</value>
-  </data>
-  <data name="MachinePistol" xml:space="preserve">
-    <value>Pistola Automática</value>
-  </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistola</value>
-  </data>
-  <data name="Seasonal" xml:space="preserve">
-    <value>Temporada</value>
-  </data>
-  <data name="Shotgun" xml:space="preserve">
-    <value>Shotgun</value>
-  </data>
-  <data name="SniperRifle" xml:space="preserve">
-    <value>Rifle de Precisão</value>
-  </data>
-  <data name="SubmachineGun" xml:space="preserve">
-    <value>SMG</value>
-  </data>
-  <data name="Bomb" xml:space="preserve">
-    <value>Bomba</value>
-  </data>
-  <data name="Hostage" xml:space="preserve">
-    <value>Refém</value>
-  </data>
-  <data name="Level" xml:space="preserve">
-    <value>Nível {0}</value>
-  </data>
-  <data name="Secure" xml:space="preserve">
-    <value>Proteger Área</value>
-  </data>
-  <data name="Assists" xml:space="preserve">
-    <value>Assistências</value>
-  </data>
-  <data name="Headshots" xml:space="preserve">
-    <value>Tiros na Cabeça</value>
-  </data>
-  <data name="Suicides" xml:space="preserve">
-    <value>Suicídios</value>
-  </data>
-  <data name="CurrentSeason" xml:space="preserve">
-    <value>Temporada Atual</value>
-  </data>
-  <data name="Time" xml:space="preserve">
-    <value>Tempo</value>
+  <data name="Beta" xml:space="preserve">
+    <value>Beta Tester</value>
   </data>
 </root>

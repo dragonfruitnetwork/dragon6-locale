@@ -117,148 +117,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Casual" xml:space="preserve">
-    <value>Casual</value>
+  <data name="DownsRevives" xml:space="preserve">
+    <value>{0:n0} Down / {1:n0} Rianima</value>
   </data>
-  <data name="Ranked" xml:space="preserve">
-    <value>Ranqueado</value>
-  </data>
-  <data name="Unranked" xml:space="preserve">
-    <value>Não Ranqueado</value>
-  </data>
-  <data name="KD" xml:space="preserve">
-    <value>E/M</value>
-  </data>
-  <data name="WL" xml:space="preserve">
-    <value>V/D</value>
-  </data>
-  <data name="Kills" xml:space="preserve">
-    <value>Eliminações</value>
-  </data>
-  <data name="Deaths" xml:space="preserve">
-    <value>Mortes</value>
-  </data>
-  <data name="Abandoned" xml:space="preserve">
-    <value>Abandonadas</value>
-  </data>
-  <data name="Abandons" xml:space="preserve">
-    <value>Abandonos</value>
-  </data>
-  <data name="Downs" xml:space="preserve">
-    <value>Abatidas</value>
-  </data>
-  <data name="Highscores" xml:space="preserve">
-    <value>Melhores pontuações</value>
-  </data>
-  <data name="LastMatch" xml:space="preserve">
-    <value>Última Partida</value>
-  </data>
-  <data name="Losses" xml:space="preserve">
-    <value>Derrotas</value>
-  </data>
-  <data name="Lost" xml:space="preserve">
-    <value>Derrota</value>
-  </data>
-  <data name="Melee" xml:space="preserve">
-    <value>Corpo-a-corpo</value>
-  </data>
-  <data name="Operator" xml:space="preserve">
-    <value>Operador</value>
-  </data>
-  <data name="Operators" xml:space="preserve">
-    <value>Operadores</value>
-  </data>
-  <data name="Overall" xml:space="preserve">
-    <value>Geral</value>
-  </data>
-  <data name="Penetrations" xml:space="preserve">
-    <value>Penetrações</value>
-  </data>
-  <data name="Revives" xml:space="preserve">
-    <value>Reanimações</value>
-  </data>
-  <data name="Training" xml:space="preserve">
-    <value>Campo de treino</value>
-  </data>
-  <data name="Unknown" xml:space="preserve">
-    <value>Desconhecido</value>
-  </data>
-  <data name="Weapon" xml:space="preserve">
-    <value>Arma</value>
-  </data>
-  <data name="Wins" xml:space="preserve">
-    <value>Vitórias</value>
-  </data>
-  <data name="Won" xml:space="preserve">
-    <value>Venceu</value>
-  </data>
-  <data name="AssaultRifle" xml:space="preserve">
-    <value>Rifle de Assalto</value>
-  </data>
-  <data name="Attacker" xml:space="preserve">
-    <value>Atacante</value>
-  </data>
-  <data name="Attackers" xml:space="preserve">
-    <value>Atacantes</value>
-  </data>
-  <data name="AttackerShort" xml:space="preserve">
-    <value>ATQ</value>
-  </data>
-  <data name="Defender" xml:space="preserve">
-    <value>Defensor</value>
-  </data>
-  <data name="Defenders" xml:space="preserve">
-    <value>Defensores</value>
-  </data>
-  <data name="DefenderShort" xml:space="preserve">
-    <value>DEF</value>
-  </data>
-  <data name="LightMachineGun" xml:space="preserve">
-    <value>LMG</value>
-  </data>
-  <data name="MachinePistol" xml:space="preserve">
-    <value>Pistola Automática</value>
-  </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistola</value>
-  </data>
-  <data name="Seasonal" xml:space="preserve">
-    <value>Temporada</value>
-  </data>
-  <data name="Shotgun" xml:space="preserve">
-    <value>Shotgun</value>
-  </data>
-  <data name="SniperRifle" xml:space="preserve">
-    <value>Rifle de Precisão</value>
-  </data>
-  <data name="SubmachineGun" xml:space="preserve">
-    <value>SMG</value>
-  </data>
-  <data name="Bomb" xml:space="preserve">
-    <value>Bomba</value>
-  </data>
-  <data name="Hostage" xml:space="preserve">
-    <value>Refém</value>
-  </data>
-  <data name="Level" xml:space="preserve">
-    <value>Nível {0}</value>
-  </data>
-  <data name="Secure" xml:space="preserve">
-    <value>Proteger Área</value>
-  </data>
-  <data name="Assists" xml:space="preserve">
-    <value>Assistências</value>
+  <data name="FirstSession" xml:space="preserve">
+    <value>Giocato per la prima volta {0} (in {1:n0} sessioni)</value>
   </data>
   <data name="Headshots" xml:space="preserve">
-    <value>Tiros na Cabeça</value>
+    <value>{0:n0} Colpi alla testa ({1:0.0}%)</value>
+  </data>
+  <data name="Highscore" xml:space="preserve">
+    <value>{0}: {1:n0} punti</value>
+    <comment>{0} mode | {1} score</comment>
+  </data>
+  <data name="Kd" xml:space="preserve">
+    <value>{0:0.00} U/M ({1:n0} Uccisioni / {2:n0} Morti)</value>
+  </data>
+  <data name="KillsPerRound" xml:space="preserve">
+    <value>{0:0.00} UPP ({1:n0} Uccisioni / {2:n0} Partite)</value>
+  </data>
+  <data name="LastMatch" xml:space="preserve">
+    <value>Ultimo incontro {0} ({1:n0} MMR)</value>
+    <comment>{0} match result (win,loss,abandon,unknown) | {1} MMR change</comment>
+  </data>
+  <data name="LastSeen" xml:space="preserve">
+    <value>Visto l'ultima volta {0}</value>
+    <comment>{0} timespan from last login (humanizer filled)</comment>
+  </data>
+  <data name="Melee" xml:space="preserve">
+    <value>{0:n0} Uccisioni in mischia ({1:0.0}%)</value>
+  </data>
+  <data name="NextRank" xml:space="preserve">
+    <value>{0} MMR a {1} ({2}%)</value>
+    <comment>{0) mmr remaining | {1} next rank | {2} percentage complete</comment>
+  </data>
+  <data name="Operation" xml:space="preserve">
+    <value>Operazione {0}</value>
+    <comment>{0} season name (e.g Steel Wave)</comment>
+  </data>
+  <data name="OperatorSummary" xml:space="preserve">
+    <value>{0:0.00} U/M · {1:0.00} V/S · {2}</value>
+    <comment>{2} time played</comment>
+  </data>
+  <data name="Penetrations" xml:space="preserve">
+    <value>{0:n0} Uccisioni durante infiltrazione ({1:0.0}%)</value>
+  </data>
+  <data name="SeasonMmr" xml:space="preserve">
+    <value>{0:n0} ± {1:n0} MMR ({2})</value>
+    <comment>{0} current mmr | {1} = uncertainty | {2} rank name</comment>
+  </data>
+  <data name="SeasonRank" xml:space="preserve">
+    <value>{0:n0} MMR ({1})</value>
+    <comment>{0} mmr | {1} Rank Name</comment>
+  </data>
+  <data name="SeasonWl" xml:space="preserve">
+    <value>{0:0.00} ({1:n0} Vittorie / {2:n0} Sconfitte + {2:n0} Abbandoni)</value>
   </data>
   <data name="Suicides" xml:space="preserve">
-    <value>Suicídios</value>
+    <value>{0:n0} Suicidi ({1:0.0}%)</value>
   </data>
-  <data name="CurrentSeason" xml:space="preserve">
-    <value>Temporada Atual</value>
+  <data name="TimePlayed" xml:space="preserve">
+    <value>{0}:{1}</value>
+    <comment>{0} mode | {1} time played (filled in by humanizer)</comment>
   </data>
-  <data name="Time" xml:space="preserve">
-    <value>Tempo</value>
+  <data name="Wl" xml:space="preserve">
+    <value>{0:0.00} V/S {1:n0} Vittorie / {2:n0} Sconfitte)</value>
+  </data>
+  <data name="OperatorNotPlayed" xml:space="preserve">
+    <value>non ancora giocato</value>
+  </data>
+  <data name="HeadshotsCount" xml:space="preserve">
+    <value>{0:n0} Colpi alla testa</value>
+  </data>
+  <data name="KillCount" xml:space="preserve">
+    <value>{0:n0} Uccisioni</value>
   </data>
 </root>
