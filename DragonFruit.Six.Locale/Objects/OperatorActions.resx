@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <!-- 
+      Microsoft ResX Schema 
+      
+      Version 2.0
+      
+      The primary goals of this format is to allow a simple XML format 
+      that is mostly human readable. The generation and parsing of the 
+      various data types are done through the TypeConverter classes 
+      associated with the data types.
+      
+      Example:
+      
+      ... ado.net/XML headers & schema ...
+      <resheader name="resmimetype">text/microsoft-resx</resheader>
+      <resheader name="version">2.0</resheader>
+      <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+      <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+      <data name="OperatorName1"><value>this is my long string</value><comment>this is a comment</comment></data>
+      <data name="OperatorColor1" type="System.Drawing.Color, System.Drawing">Blue</data>
+      <data name="OperatorBitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+          <value>[base64 mime encoded serialized .NET Framework object]</value>
+      </data>
+      <data name="OperatorIcon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+          <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+          <comment>This is a comment</comment>
+      </data>
+                  
+      There are any number of "resheader" rows that contain simple 
+      name/value pairs.
+      
+      Each data row contains a name, and value. The row also contains a 
+      type or mimetype. Type corresponds to a .NET class that support 
+      text/value conversion through the TypeConverter architecture. 
+      Classes that don't support this are serialized and stored with the 
+      mimetype set.
+      
+      The mimetype is used for serialized objects, and tells the 
+      ResXResourceReader how to depersist the object. This is currently not 
+      extensible. For a given mimetype the value must be set accordingly:
+      
+      Note - application/x-microsoft.net.object.binary.base64 is the format 
+      that the ResXResourceWriter will generate, however the reader can 
+      read any of the formats listed below.
+      
+      mimetype: application/x-microsoft.net.object.binary.base64
+      value   : The object must be serialized with 
+              : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+              : and then encoded with base64 encoding.
+      
+      mimetype: application/x-microsoft.net.object.soap.base64
+      value   : The object must be serialized with 
+              : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+              : and then encoded with base64 encoding.
+  
+      mimetype: application/x-microsoft.net.object.bytearray.base64
+      value   : The object must be serialized into a byte array 
+              : using a System.ComponentModel.TypeConverter
+              : and then encoded with base64 encoding.
+      -->
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+        <xsd:element name="root" msdata:IsDataSet="true">
+            <xsd:complexType>
+                <xsd:choice maxOccurs="unbounded">
+                    <xsd:element name="metadata">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" use="required" type="xsd:string"/>
+                            <xsd:attribute name="type" type="xsd:string"/>
+                            <xsd:attribute name="mimetype" type="xsd:string"/>
+                            <xsd:attribute ref="xml:space"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="assembly">
+                        <xsd:complexType>
+                            <xsd:attribute name="alias" type="xsd:string"/>
+                            <xsd:attribute name="name" type="xsd:string"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="data">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+                            <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+                            <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+                            <xsd:attribute ref="xml:space"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="resheader">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" type="xsd:string" use="required"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                </xsd:choice>
+            </xsd:complexType>
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="Sledge" xml:space="preserve">
+        <value>Items destructed by Breaching Hammer</value>
+        <comment>Operator action for Sledge</comment>
+    </data>
+    <data name="Thatcher" xml:space="preserve">
+        <value>Gadgets Destroyed by EMP</value>
+        <comment>Operator action for Thatcher</comment>
+    </data>
+    <data name="Smoke" xml:space="preserve">
+        <value>Poison gas kills</value>
+        <comment>Operator action for Smoke</comment>
+    </data>
+    <data name="Mute" xml:space="preserve">
+        <value>Gadgets Jammed</value>
+        <comment>Operator action for Mute</comment>
+    </data>
+    <data name="Ash" xml:space="preserve">
+        <value>Destructions by Breaching Round</value>
+        <comment>Operator action for Ash</comment>
+    </data>
+    <data name="Thermite" xml:space="preserve">
+        <value>Reinforcements Breached by Exo-Thermic Charge</value>
+        <comment>Operator action for Thermite</comment>
+    </data>
+    <data name="Pulse" xml:space="preserve">
+        <value>Heartbeats Spotted</value>
+        <comment>Operator action for Pulse</comment>
+    </data>
+    <data name="Castle" xml:space="preserve">
+        <value>Armor Panels Deployed</value>
+        <comment>Operator action for Castle</comment>
+    </data>
+    <data name="Twitch" xml:space="preserve">
+        <value>Gadgets Destroyed by Shock Drone</value>
+        <comment>Operator action for Twitch</comment>
+    </data>
+    <data name="Montagne" xml:space="preserve">
+        <value>Bullets Blocked by Extended Shield</value>
+        <comment>Operator action for Montagne</comment>
+    </data>
+    <data name="Doc" xml:space="preserve">
+        <value>Teammates Revived</value>
+        <comment>Operator action for Doc</comment>
+    </data>
+    <data name="Rook" xml:space="preserve">
+        <value>Armor Plates Taken by Teammates</value>
+        <comment>Operator action for Rook</comment>
+    </data>
+    <data name="Glaz" xml:space="preserve">
+        <value>Sniper Kills</value>
+        <comment>Operator action for Glaz</comment>
+    </data>
+    <data name="Fuze" xml:space="preserve">
+        <value>Cluster Charge Kills</value>
+        <comment>Operator action for Fuze</comment>
+    </data>
+    <data name="Kapkan" xml:space="preserve">
+        <value>Entry Denial Device Kills</value>
+        <comment>Operator action for Kapkan</comment>
+    </data>
+    <data name="Tachanka" xml:space="preserve">
+        <value>Mounted LMG Kills</value>
+        <comment>Operator action for Tachanka</comment>
+    </data>
+    <data name="Blitz" xml:space="preserve">
+        <value>Enemies Blinded by Flash Shield</value>
+        <comment>Operator action for Blitz</comment>
+    </data>
+    <data name="IQ" xml:space="preserve">
+        <value>Gadgets Spotted by Electronics Detector</value>
+        <comment>Operator action for IQ</comment>
+    </data>
+    <data name="Jäger" xml:space="preserve">
+        <value>Gadgets Destroyed by Active Defense</value>
+        <comment>Operator action for Jäger</comment>
+    </data>
+    <data name="Bandit" xml:space="preserve">
+        <value>Shock Wire Kills</value>
+        <comment>Operator action for Bandit</comment>
+    </data>
+    <data name="Buck" xml:space="preserve">
+        <value>Kills with the Skeleton Key</value>
+        <comment>Operator action for Buck</comment>
+    </data>
+    <data name="Frost" xml:space="preserve">
+        <value>Enemies caught in Welcome Mats</value>
+        <comment>Operator action for Frost</comment>
+    </data>
+    <data name="Blackbeard" xml:space="preserve">
+        <value>Bullets Stopped by Shield</value>
+        <comment>Operator action for Blackbeard</comment>
+    </data>
+    <data name="Valkyrie" xml:space="preserve">
+        <value>Black Eye Cameras Deployed</value>
+        <comment>Operator action for Valkyrie</comment>
+    </data>
+    <data name="Capitao" xml:space="preserve">
+        <value>Kills with Incendiary Bolts</value>
+        <comment>Operator action for Capitao</comment>
+    </data>
+    <data name="Caveira" xml:space="preserve">
+        <value>Successful Interrogations Performed</value>
+        <comment>Operator action for Caveira</comment>
+    </data>
+    <data name="Hibana" xml:space="preserve">
+        <value>X-KAIROS Pellets Detonated</value>
+        <comment>Operator action for Hibana</comment>
+    </data>
+    <data name="Echo" xml:space="preserve">
+        <value>Enemies Disoriented by Yokai</value>
+        <comment>Operator action for Echo</comment>
+    </data>
+    <data name="Jackal" xml:space="preserve">
+        <value>Eyenox Tracking Assists</value>
+        <comment>Operator action for Jackal</comment>
+    </data>
+    <data name="Mira" xml:space="preserve">
+        <value>Black Mirrors Deployed</value>
+        <comment>Operator action for Mira</comment>
+    </data>
+    <data name="Ying" xml:space="preserve">
+        <value>Candela Devices Detonated</value>
+        <comment>Operator action for Ying</comment>
+    </data>
+    <data name="Lesion" xml:space="preserve">
+        <value>Enemies Poisoned by GU Devices</value>
+        <comment>Operator action for Lesion</comment>
+    </data>
+    <data name="Zofia" xml:space="preserve">
+        <value>Concussion Grenades Detonated</value>
+        <comment>Operator action for Zofia</comment>
+    </data>
+    <data name="Ela" xml:space="preserve">
+        <value>Grzmot Mines Detonated</value>
+        <comment>Operator action for Ela</comment>
+    </data>
+    <data name="Dokkaebi" xml:space="preserve">
+        <value>Camera Hacks</value>
+        <comment>Operator action for Dokkaebi</comment>
+    </data>
+    <data name="Vigil" xml:space="preserve">
+        <value>Drones Deceived</value>
+        <comment>Operator action for Vigil</comment>
+    </data>
+    <data name="Lion" xml:space="preserve">
+        <value>Enemies Detected by EE-ONE-D</value>
+        <comment>Operator action for Lion</comment>
+    </data>
+    <data name="Finka" xml:space="preserve">
+        <value>Adrenal Surge Bonuses</value>
+        <comment>Operator action for Finka</comment>
+    </data>
+    <data name="Alibi" xml:space="preserve">
+        <value>Enemies Tricked by Prisma</value>
+        <comment>Operator action for Alibi</comment>
+    </data>
+    <data name="Maestro" xml:space="preserve">
+        <value>Enemies Killed by Evil Eye</value>
+        <comment>Operator action for Maestro</comment>
+    </data>
+    <data name="Maverick" xml:space="preserve">
+        <value>Torch Breaches</value>
+        <comment>Operator action for Maverick</comment>
+    </data>
+    <data name="Clash" xml:space="preserve">
+        <value>Enemies Killed while Slowed Down</value>
+        <comment>Operator action for Clash</comment>
+    </data>
+    <data name="Nomad" xml:space="preserve">
+        <value>Airjabs Detonated</value>
+        <comment>Operator action for Nomad</comment>
+    </data>
+    <data name="Kaid" xml:space="preserve">
+        <value>Electroclaws successfully deployed</value>
+        <comment>Operator action for Kaid</comment>
+    </data>
+    <data name="Gridlock" xml:space="preserve">
+        <value>Trax Stingers Deployed</value>
+        <comment>Operator action for Gridlock</comment>
+    </data>
+    <data name="Mozzie" xml:space="preserve">
+        <value>Drones Hacked</value>
+        <comment>Operator action for Mozzie</comment>
+    </data>
+    <data name="Nokk" xml:space="preserve">
+        <value>Observation Tools Deceived</value>
+        <comment>Operator action for Nokk</comment>
+    </data>
+    <data name="Warden" xml:space="preserve">
+        <value>Kills While Using Glance</value>
+        <comment>Operator action for Warden</comment>
+    </data>
+    <data name="Amaru" xml:space="preserve">
+        <value>Total Distance Reeled</value>
+        <comment>Operator action for Amaru</comment>
+    </data>
+    <data name="Goyo" xml:space="preserve">
+        <value>Volcáns Detonated by Your Team</value>
+        <comment>Operator action for Goyo</comment>
+    </data>
+    <data name="Kali" xml:space="preserve">
+        <value>Gadgets Destroyed with the LV</value>
+        <comment>Operator action for Kali</comment>
+    </data>
+    <data name="Wamai" xml:space="preserve">
+        <value>Projectiles Captured</value>
+        <comment>Operator action for Wamai</comment>
+    </data>
+    <data name="Iana" xml:space="preserve">
+        <value>Kills after using Replicator</value>
+        <comment>Operator action for Iana</comment>
+    </data>
+    <data name="Oryx" xml:space="preserve">
+        <value>Kills after Remah Dashes</value>
+        <comment>Operator action for Oryx</comment>
+    </data>
+    <data name="Ace" xml:space="preserve">
+        <value>S.E.L.M.A. Detonations</value>
+        <comment>Operator action for Ace</comment>
+    </data>
+    <data name="Melusi" xml:space="preserve">
+        <value>Attackers slowed by Banshee</value>
+        <comment>Operator action for Melusi</comment>
+    </data>
+    <data name="Zero" xml:space="preserve">
+        <value>Gadgets Destroyed by ARGUS Camera</value>
+        <comment>Operator action for Zero</comment>
+    </data></root>
