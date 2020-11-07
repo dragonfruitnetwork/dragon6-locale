@@ -192,9 +192,6 @@
   <data name="Won" xml:space="preserve">
     <value>Ganhou</value>
   </data>
-  <data name="AssaultRifle" xml:space="preserve">
-    <value>Rifle de Assalto</value>
-  </data>
   <data name="Attacker" xml:space="preserve">
     <value>Atacante</value>
   </data>
@@ -213,26 +210,11 @@
   <data name="DefenderShort" xml:space="preserve">
     <value>DEF</value>
   </data>
-  <data name="LightMachineGun" xml:space="preserve">
-    <value>Metralhadora Leve</value>
-  </data>
-  <data name="MachinePistol" xml:space="preserve">
-    <value>Pistola Automática</value>
-  </data>
   <data name="Pistol" xml:space="preserve">
     <value>Pistola</value>
   </data>
   <data name="Seasonal" xml:space="preserve">
     <value>Temporada</value>
-  </data>
-  <data name="Shotgun" xml:space="preserve">
-    <value>Espingarda</value>
-  </data>
-  <data name="SniperRifle" xml:space="preserve">
-    <value>Rifle de Precisão</value>
-  </data>
-  <data name="SubmachineGun" xml:space="preserve">
-    <value>Submetralhadora</value>
   </data>
   <data name="Bomb" xml:space="preserve">
     <value>Bomba</value>

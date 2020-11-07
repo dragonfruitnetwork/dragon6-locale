@@ -192,9 +192,6 @@
   <data name="Won" xml:space="preserve">
     <value>戰勝</value>
   </data>
-  <data name="AssaultRifle" xml:space="preserve">
-    <value>突擊步槍</value>
-  </data>
   <data name="Attacker" xml:space="preserve">
     <value>攻擊方</value>
   </data>
@@ -213,26 +210,11 @@
   <data name="DefenderShort" xml:space="preserve">
     <value>防守方</value>
   </data>
-  <data name="LightMachineGun" xml:space="preserve">
-    <value>輕機槍</value>
-  </data>
-  <data name="MachinePistol" xml:space="preserve">
-    <value>自動手槍</value>
-  </data>
   <data name="Pistol" xml:space="preserve">
     <value>手槍</value>
   </data>
   <data name="Seasonal" xml:space="preserve">
     <value>賽季</value>
-  </data>
-  <data name="Shotgun" xml:space="preserve">
-    <value>霰彈槍</value>
-  </data>
-  <data name="SniperRifle" xml:space="preserve">
-    <value>狙擊槍</value>
-  </data>
-  <data name="SubmachineGun" xml:space="preserve">
-    <value>衝鋒槍</value>
   </data>
   <data name="Bomb" xml:space="preserve">
     <value>炸彈模式</value>
