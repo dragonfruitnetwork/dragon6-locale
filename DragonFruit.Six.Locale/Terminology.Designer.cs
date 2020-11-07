@@ -313,15 +313,6 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pistol.
-        /// </summary>
-        public static string Pistol {
-            get {
-                return ResourceManager.GetString("Pistol", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Ranked.
         /// </summary>
         public static string Ranked {

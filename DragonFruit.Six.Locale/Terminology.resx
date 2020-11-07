@@ -210,9 +210,6 @@
   <data name="DefenderShort" xml:space="preserve">
     <value>DEF</value>
   </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistol</value>
-  </data>
   <data name="Seasonal" xml:space="preserve">
     <value>Seasonal</value>
   </data>
