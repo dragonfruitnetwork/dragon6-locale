@@ -24,71 +24,69 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Compile Update="Cards\Titles.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Titles.resx</DependentUpon>
-    </Compile>
-    <Compile Update="Errors.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Errors.resx</DependentUpon>
-    </Compile>
     <Compile Update="Terminology.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>Terminology.resx</DependentUpon>
-    </Compile>
-    <Compile Update="Cards\Descriptions.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Descriptions.resx</DependentUpon>
-    </Compile>
-    <Compile Update="Interface.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Interface.resx</DependentUpon>
     </Compile>
     <Compile Update="Verification.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>Verification.resx</DependentUpon>
     </Compile>
-    <Compile Update="Ranks.Designer.cs">
+    <Compile Update="Objects\Ranks.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>Ranks.resx</DependentUpon>
     </Compile>
+    <Compile Update="Apps\Errors.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Errors.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Apps\Interface.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Interface.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Cards\Titles.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Titles.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Errors.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Errors.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Update="Terminology.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Terminology.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Cards\Descriptions.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Descriptions.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Interface.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Interface.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Verification.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Verification.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Update="Ranks.resx">
+    <EmbeddedResource Update="Objects\Ranks.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Ranks.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Objects\Weapons.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Weapons.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Objects\OperatorActions.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>OperatorActions.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Apps\Errors.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Errors.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Apps\Interface.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Interface.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Apps\Cards\Descriptions.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Descriptions.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Apps\Cards\Titles.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Titles.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   
