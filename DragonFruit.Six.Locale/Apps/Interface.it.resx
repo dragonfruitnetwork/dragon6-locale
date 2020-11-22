@@ -300,7 +300,7 @@
     <value>Librerie di Terze Parti</value>
   </data>
   <data name="AppIconSource" xml:space="preserve">
-    <value>Le Icone delle Armi di vari artisti (provenienti dal progetto di cui sotto)</value>
+    <value>Le Icone delle Armi di vari artisti (provenienti dal noun project)</value>
   </data>
   <data name="LoadingData" xml:space="preserve">
     <value>Caricamento Dati...</value>

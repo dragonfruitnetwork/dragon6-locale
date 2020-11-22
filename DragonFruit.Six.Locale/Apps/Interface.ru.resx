@@ -118,203 +118,203 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Yes" xml:space="preserve">
-    <value>Sim</value>
+    <value>Да</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>Não</value>
+    <value>Нет</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>Início</value>
+    <value>Домой</value>
   </data>
   <data name="News" xml:space="preserve">
-    <value>Notícias</value>
+    <value>Новости</value>
   </data>
   <data name="Menu" xml:space="preserve">
-    <value>Menu</value>
+    <value>Меню</value>
   </data>
   <data name="Settings" xml:space="preserve">
-    <value>Configurações</value>
+    <value>Настройки</value>
   </data>
   <data name="Share" xml:space="preserve">
-    <value>Partilhar</value>
+    <value>Поделиться</value>
   </data>
   <data name="General" xml:space="preserve">
-    <value>Geral</value>
+    <value>Общие</value>
   </data>
   <data name="Other" xml:space="preserve">
-    <value>Outro</value>
+    <value>Разное</value>
   </data>
   <data name="Clear" xml:space="preserve">
-    <value>Apagar</value>
+    <value>Очистить</value>
   </data>
   <data name="Default" xml:space="preserve">
-    <value>Predefinido</value>
+    <value>Стандартно</value>
   </data>
   <data name="Name" xml:space="preserve">
-    <value>Nome</value>
+    <value>Имя</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Procurar</value>
+    <value>Поиск</value>
   </data>
   <data name="Update" xml:space="preserve">
-    <value>Atualizar</value>
+    <value>Обновить</value>
   </data>
   <data name="AboutApp" xml:space="preserve">
-    <value>Sobre Dragon6</value>
+    <value>О Dragon6</value>
   </data>
   <data name="ClearSaved" xml:space="preserve">
-    <value>Apagar Perfis Guardados</value>
+    <value>Удалить сохраненные профили</value>
   </data>
   <data name="DarkTheme" xml:space="preserve">
-    <value>Tema Escuro</value>
+    <value>Темная Тема</value>
   </data>
   <data name="DefaultPlatform" xml:space="preserve">
-    <value>Plataforma Predefinida</value>
+    <value>Платформа по умолчанию</value>
   </data>
   <data name="FilterBy" xml:space="preserve">
-    <value>Filtrar por: {0}</value>
+    <value>Фильтр по: {0}</value>
     <comment>{0} filter mode (attacker, defender, none)</comment>
   </data>
   <data name="None" xml:space="preserve">
-    <value>Nenhum</value>
+    <value>Нет</value>
   </data>
   <data name="PlayerStats" xml:space="preserve">
-    <value>Estatísticas do(a) Jogador(a)</value>
+    <value>Статистика игрока</value>
   </data>
   <data name="Recents" xml:space="preserve">
-    <value>Jogadores Recentes</value>
+    <value>Недавние игроки</value>
   </data>
   <data name="SavePlayerTip" xml:space="preserve">
-    <value>Dica: Duplo toque num cartão do jogador para guardá-lo</value>
+    <value>Совет: дважды нажмите на карту игрока для сохранения</value>
   </data>
   <data name="SearchingForAccount" xml:space="preserve">
-    <value>Procurando {0} em {1}</value>
+    <value>Поиск {0} по {1}</value>
     <comment>{0} username | {1} platform</comment>
   </data>
   <data name="SearchOperators" xml:space="preserve">
-    <value>Procurar Operadores</value>
+    <value>Поиск операторов</value>
   </data>
   <data name="SearchRecents" xml:space="preserve">
-    <value>Procurar Jogadores Recentes</value>
+    <value>Искать последних игроков</value>
   </data>
   <data name="SeasonChangeTip" xml:space="preserve">
-    <value>Pista: Toque no topo do cartão para alterar as temporadas</value>
+    <value>Подсказка: Нажмите на верхнюю карту, чтобы изменить сезон</value>
   </data>
   <data name="ServerSetTheme" xml:space="preserve">
-    <value>Tema definido do servidor</value>
+    <value>Установленная сервером тема</value>
   </data>
   <data name="SortBy" xml:space="preserve">
-    <value>Ordenar por: {0}</value>
+    <value>Сортировать по: {0}</value>
     <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
   </data>
   <data name="Unset" xml:space="preserve">
-    <value>Indefinido</value>
+    <value>Сброс</value>
     <comment>like "theme not set"</comment>
   </data>
   <data name="UpdateAssets" xml:space="preserve">
-    <value>Atualizar conteúdos</value>
+    <value>Обновленные ассеты</value>
   </data>
   <data name="Back" xml:space="preserve">
-    <value>Voltar</value>
+    <value>Назад</value>
   </data>
   <data name="GotIt" xml:space="preserve">
-    <value>Entendido</value>
+    <value>Понял</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>Ок</value>
   </data>
   <data name="ShareAccountString" xml:space="preserve">
-    <value>Confira as Estatísticas do {0} no Dragon6!</value>
+    <value>Ищи {0} статистику на Dragon6!</value>
     <comment>{0} player's name</comment>
   </data>
   <data name="ShareAppString" xml:space="preserve">
-    <value>Confira o Dragon6 - um rastreador de estatísticas de R6 gratuito!</value>
+    <value>Попробуйте Dragon6 - бесплатное приложение для отслеживания статистики R6!</value>
   </data>
   <data name="Translate" xml:space="preserve">
-    <value>Traduzir</value>
+    <value>Перевести</value>
   </data>
   <data name="Understood" xml:space="preserve">
-    <value>Entendido</value>
+    <value>Понял</value>
   </data>
   <data name="ConfirmRemove" xml:space="preserve">
-    <value>Confirme Remoção</value>
+    <value>Подтвердите сброс</value>
   </data>
   <data name="ConfirmSave" xml:space="preserve">
-    <value>Confirme guardar</value>
+    <value>Подтвердить сохранение</value>
   </data>
   <data name="LoadingStats" xml:space="preserve">
-    <value>Carregando Estatísticas... ({0})</value>
+    <value>Загрузка статистики... ({0})</value>
     <comment>{0} username</comment>
   </data>
   <data name="OperatorStats" xml:space="preserve">
-    <value>Estatísticas do(a) Agente</value>
+    <value>Статистика оператора</value>
   </data>
   <data name="RemoveUser" xml:space="preserve">
-    <value>Remover {0} da sua página inicial?</value>
+    <value>Удалить {0} с вашей домашней страницы?</value>
   </data>
   <data name="RetryConnection" xml:space="preserve">
-    <value>Tentar Conexão Novamente</value>
+    <value>Повторить подключение</value>
   </data>
   <data name="SaveUser" xml:space="preserve">
-    <value>Adicionar {0} à sua página inicial?</value>
+    <value>Добавить {0} на вашу домашнюю страницу?</value>
   </data>
   <data name="SteamNews" xml:space="preserve">
-    <value>Fornecido pela Steam</value>
+    <value>При поддержке Steam</value>
   </data>
   <data name="UserRemoved" xml:space="preserve">
-    <value>{0} Removido</value>
+    <value>{0} удалено</value>
     <comment>{0} username</comment>
   </data>
   <data name="UserSaved" xml:space="preserve">
-    <value>{0} Guardado</value>
+    <value>{0} сохранено</value>
     <comment>{0} username</comment>
   </data>
   <data name="ViewRecents" xml:space="preserve">
-    <value>Ver Recentes</value>
+    <value>Показать недавние</value>
   </data>
   <data name="WeaponStats" xml:space="preserve">
-    <value>Estatísticas de Armas</value>
+    <value>Статистика оружия</value>
   </data>
   <data name="SeasonSelectionTemplate" xml:space="preserve">
-    <value>{0} (A{1}T{2})</value>
+    <value>{0} (Г{1}С{2})</value>
   </data>
   <data name="ShareProfile" xml:space="preserve">
-    <value>Partilhar o perfil</value>
+    <value>Поделиться профилем</value>
   </data>
   <data name="ConfirmClear" xml:space="preserve">
-    <value>Tem certeza que quer apagar perfis guardados?</value>
+    <value>Вы уверены, что хотите очистить сохраненные профили?</value>
   </data>
   <data name="ConfirmClearTitle" xml:space="preserve">
-    <value>Confirmar Apagar</value>
+    <value>Подтвердить очистку</value>
   </data>
   <data name="ClearSavedComplete" xml:space="preserve">
-    <value>Perfis Guardados Apagados</value>
+    <value>Сохраненные профили очищены</value>
   </data>
   <data name="UpdateAssetsComplete" xml:space="preserve">
-    <value>Conteúdos Atualizados</value>
+    <value>Ассеты обновлены</value>
   </data>
   <data name="PlayersCleared" xml:space="preserve">
-    <value>Jogadores Apagados</value>
+    <value>Игроки очищены</value>
   </data>
   <data name="AppLibraries" xml:space="preserve">
-    <value>Bibliotecas de Terceiros</value>
+    <value>Сторонние библиотеки</value>
   </data>
   <data name="AppIconSource" xml:space="preserve">
-    <value>Ícones de armas de vários artistas (originados do noun project)</value>
+    <value>Иконки оружия от различных художников (из источника noun project)</value>
   </data>
   <data name="LoadingData" xml:space="preserve">
-    <value>Carregando Dados...</value>
+    <value>Загрузка данных...</value>
   </data>
   <data name="AccountSelect" xml:space="preserve">
-    <value>Selecionar Conta</value>
+    <value>Выберите Аккаунт</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+    <value>Отменить</value>
   </data>
   <data name="SeasonSelect" xml:space="preserve">
-    <value>Selecione Temporada</value>
+    <value>Выберите сезон</value>
   </data>
   <data name="SearchPlayers" xml:space="preserve">
-    <value>Procurar Jogadores</value>
+    <value>Поиск игроков</value>
   </data>
 </root>

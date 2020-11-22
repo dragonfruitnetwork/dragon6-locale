@@ -154,12 +154,12 @@
     <value>Terjadi kesalahan saat mendapatkan stats musiman.\nKami mengganti pilihan musim anda kembali ke musim terakhir sekarang.\n\rKami telah memberikan notifikasi kepada DragonFruit tentang masalah ini dan kami akan coba selesaikan secepatnya.</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Eror</value>
+    <value>Kesalahan</value>
   </data>
   <data name="DatabaseResetTitle" xml:space="preserve">
     <value>Reset Database</value>
   </data>
   <data name="DatabaseReset" xml:space="preserve">
-    <value>Dragon6 telah direset karenatelah gagal mempebarui database. Kami meminta maaf atas kejadian ini</value>
+    <value>Dragon6 telah direset karena telah gagal memperbarui database. Kami meminta maaf atas kejadian ini</value>
   </data>
 </root>

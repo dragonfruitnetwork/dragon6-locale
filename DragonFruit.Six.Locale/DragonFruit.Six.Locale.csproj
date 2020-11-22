@@ -68,10 +68,6 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Weapons.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Update="Objects\OperatorActions.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>OperatorActions.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Update="Apps\Errors.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Errors.Designer.cs</LastGenOutput>

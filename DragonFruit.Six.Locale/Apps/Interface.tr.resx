@@ -234,7 +234,7 @@
     <value>Çeviri</value>
   </data>
   <data name="Understood" xml:space="preserve">
-    <value>Anlaşıldı</value>
+    <value>Anladım</value>
   </data>
   <data name="ConfirmRemove" xml:space="preserve">
     <value>Kaldırmayı Onayla</value>
@@ -282,7 +282,7 @@
     <value>Profili Paylaş</value>
   </data>
   <data name="ConfirmClear" xml:space="preserve">
-    <value>Kaydedilmiş profilleri silmek istediğinizden emin misiniz?</value>
+    <value>Kaydedilmiş profilleri temizlemek istediğinizden emin misiniz?</value>
   </data>
   <data name="ConfirmClearTitle" xml:space="preserve">
     <value>Silmeyi Onayla</value>
@@ -306,7 +306,7 @@
     <value>Veri yükleniyor...</value>
   </data>
   <data name="AccountSelect" xml:space="preserve">
-    <value>Hesap seçin</value>
+    <value>Hesap Seç</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>İptal et</value>

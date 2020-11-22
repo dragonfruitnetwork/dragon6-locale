@@ -117,49 +117,130 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="NoInternet" xml:space="preserve">
-    <value>Dragon6'yı kullanmak için internet bağlantısı gereklidir</value>
+  <data name="Casual" xml:space="preserve">
+    <value>Обычный</value>
   </data>
-  <data name="PlayerNotFound" xml:space="preserve">
-    <value>Oyuncu {0}, {1} tarihinde bulunamadı. \n Lütfen kullanıcı adını doğru girip girmediğinizi kontrol edin (killfeed'de gösterildiği gibi) ve tekrar deneyin \n Sorun devam ederse, daha sonra tekrar deneyin</value>
-    <comment>{0} username | {1} platform</comment>
+  <data name="Ranked" xml:space="preserve">
+    <value>Рейтинговый</value>
   </data>
-  <data name="PlayerNotFoundTitle" xml:space="preserve">
-    <value>Oyuncu bulunamadı</value>
+  <data name="Unranked" xml:space="preserve">
+    <value>Безрейтинговый</value>
   </data>
-  <data name="ServerError" xml:space="preserve">
-    <value>Bir {0} sunucusundan veri istenirken bir şeyler ters gitti. \n Lütfen tam internet erişiminiz olduğunu kontrol edin ve daha sonra tekrar deneyin.</value>
-    <comment>{0} server source - DragonFruit/Ubisoft/etc.</comment>
+  <data name="KD" xml:space="preserve">
+    <value>У/С</value>
   </data>
-  <data name="ServerErrorTitle" xml:space="preserve">
-    <value>Sunucu Hatası: {0}</value>
-    <comment>{0} http status code (NotFound, Forbidden, etc.)</comment>
+  <data name="WL" xml:space="preserve">
+    <value>В/П</value>
   </data>
-  <data name="UnexpectedError" xml:space="preserve">
-    <value>Beklenmeyen bir hata oluştu. Dragon6 ekibi bilgilendirildi ve daha fazla araştıracak.</value>
+  <data name="Kills" xml:space="preserve">
+    <value>Убийства</value>
   </data>
-  <data name="UnexpectedErrorTitle" xml:space="preserve">
-    <value>Beklenmedik hata</value>
+  <data name="Deaths" xml:space="preserve">
+    <value>Смерти</value>
   </data>
-  <data name="UserBlockedError" xml:space="preserve">
-    <value>Bu kullanıcının istatistikleri görüntülenemiyor (genellikle veri güvenliği gerekçesiyle ancak bazen bizim tarafımızdan dolayı)</value>
+  <data name="Abandoned" xml:space="preserve">
+    <value>Покинуто</value>
   </data>
-  <data name="UserBlockedErrorTitle" xml:space="preserve">
-    <value>Kullanıcıya erişilemiyor</value>
+  <data name="Abandons" xml:space="preserve">
+    <value>Покинутые</value>
   </data>
-  <data name="CasualSeasonalError" xml:space="preserve">
-    <value>Bu sezon için sıradan istatistikler alınırken bir hata oluştu. \n Lütfen eski sezonların istatistiklerinin kaydedilmemiş olabileceğini veya kullanıcının sezondan önce mevcut olmadığını unutmayın</value>
+  <data name="Downs" xml:space="preserve">
+    <value>Вниз</value>
   </data>
-  <data name="GeneralSeasonalError" xml:space="preserve">
-    <value>Sezon istatistikleri alınırken bir hata oluştu. \n Sezon seçiminizi şimdilik en sonuncusuyla değiştirdik. \n \r DragonFruit'u bu sorun hakkında bilgilendirdik ve yakında çözülmesi için çalışacağız.</value>
+  <data name="Highscores" xml:space="preserve">
+    <value>Рекорды</value>
   </data>
-  <data name="Error" xml:space="preserve">
-    <value>Hata</value>
+  <data name="LastMatch" xml:space="preserve">
+    <value>Последний матч</value>
   </data>
-  <data name="DatabaseResetTitle" xml:space="preserve">
-    <value>Veritabanı Sıfırlama</value>
+  <data name="Losses" xml:space="preserve">
+    <value>Поражения</value>
   </data>
-  <data name="DatabaseReset" xml:space="preserve">
-    <value>Dragon6, veri tabanı yükseltmesinin bozulması nedeniyle sıfırlandı. verdiğimiz rahatsızlıktan dolayı özür dileriz</value>
+  <data name="Lost" xml:space="preserve">
+    <value>Поражение</value>
+  </data>
+  <data name="Melee" xml:space="preserve">
+    <value>Ближний бой</value>
+  </data>
+  <data name="Operator" xml:space="preserve">
+    <value>Оператор</value>
+  </data>
+  <data name="Operators" xml:space="preserve">
+    <value>Операторы</value>
+  </data>
+  <data name="Overall" xml:space="preserve">
+    <value>Общие сведения</value>
+  </data>
+  <data name="Penetrations" xml:space="preserve">
+    <value>Убийств с холодного оружия</value>
+  </data>
+  <data name="Revives" xml:space="preserve">
+    <value>Возрожден</value>
+  </data>
+  <data name="Training" xml:space="preserve">
+    <value>Охота за террористами</value>
+  </data>
+  <data name="Unknown" xml:space="preserve">
+    <value>Неизвестно</value>
+  </data>
+  <data name="Weapon" xml:space="preserve">
+    <value>Оружие</value>
+  </data>
+  <data name="Wins" xml:space="preserve">
+    <value>Побед</value>
+  </data>
+  <data name="Won" xml:space="preserve">
+    <value>Выиграно</value>
+  </data>
+  <data name="Attacker" xml:space="preserve">
+    <value>Атакующий</value>
+  </data>
+  <data name="Attackers" xml:space="preserve">
+    <value>Атакующие</value>
+  </data>
+  <data name="AttackerShort" xml:space="preserve">
+    <value>АТК</value>
+  </data>
+  <data name="Defender" xml:space="preserve">
+    <value>Обороняющийся</value>
+  </data>
+  <data name="Defenders" xml:space="preserve">
+    <value>Оборона</value>
+  </data>
+  <data name="DefenderShort" xml:space="preserve">
+    <value>ЗАЩ</value>
+  </data>
+  <data name="Pistol" xml:space="preserve">
+    <value>Пистолет</value>
+  </data>
+  <data name="Seasonal" xml:space="preserve">
+    <value>Сезонный</value>
+  </data>
+  <data name="Bomb" xml:space="preserve">
+    <value>Закладка бомбы</value>
+  </data>
+  <data name="Hostage" xml:space="preserve">
+    <value>Освобождение заложников</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>Уровень {0}</value>
+  </data>
+  <data name="Secure" xml:space="preserve">
+    <value>Безопасность</value>
+  </data>
+  <data name="Assists" xml:space="preserve">
+    <value>Помощи в убийствах</value>
+  </data>
+  <data name="Headshots" xml:space="preserve">
+    <value>Убийств в голову</value>
+  </data>
+  <data name="Suicides" xml:space="preserve">
+    <value>Самоубйиств</value>
+  </data>
+  <data name="CurrentSeason" xml:space="preserve">
+    <value>Текущий сезон</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Времени</value>
   </data>
 </root>

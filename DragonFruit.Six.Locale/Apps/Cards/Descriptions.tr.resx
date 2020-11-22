@@ -141,7 +141,7 @@
     <comment>{0} match result (win,loss,abandon,unknown) | {1} MMR change</comment>
   </data>
   <data name="LastSeen" xml:space="preserve">
-    <value>En son {0} önce görüldü</value>
+    <value>Son görülme {0}</value>
     <comment>{0} timespan from last login (humanizer filled)</comment>
   </data>
   <data name="Melee" xml:space="preserve">
@@ -156,7 +156,7 @@
     <comment>{0} season name (e.g Steel Wave)</comment>
   </data>
   <data name="OperatorSummary" xml:space="preserve">
-    <value>{0:0.00} Öldürme / Ölme · {1:0.00} Galibiyet / Mağlubiyet · {2}</value>
+    <value>{0:0.00} Ö/Ö · {1:0.00} G/M · {2}</value>
     <comment>{2} time played</comment>
   </data>
   <data name="Penetrations" xml:space="preserve">

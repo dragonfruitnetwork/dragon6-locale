@@ -118,203 +118,199 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Yes" xml:space="preserve">
-    <value>Sim</value>
+    <value>Ja</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>Não</value>
+    <value>Nei</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>Início</value>
+    <value>Hjem</value>
   </data>
   <data name="News" xml:space="preserve">
-    <value>Notícias</value>
+    <value>Nyheter</value>
   </data>
   <data name="Menu" xml:space="preserve">
-    <value>Menu</value>
+    <value>Meny</value>
   </data>
   <data name="Settings" xml:space="preserve">
-    <value>Configurações</value>
+    <value>Innstillinger</value>
   </data>
   <data name="Share" xml:space="preserve">
-    <value>Partilhar</value>
+    <value>Del</value>
   </data>
   <data name="General" xml:space="preserve">
-    <value>Geral</value>
+    <value>Generelt</value>
   </data>
   <data name="Other" xml:space="preserve">
-    <value>Outro</value>
+    <value>Annet</value>
   </data>
   <data name="Clear" xml:space="preserve">
-    <value>Apagar</value>
+    <value>Fjern</value>
   </data>
   <data name="Default" xml:space="preserve">
-    <value>Predefinido</value>
+    <value>Standard</value>
   </data>
   <data name="Name" xml:space="preserve">
-    <value>Nome</value>
+    <value>Navn</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Procurar</value>
+    <value>Søk</value>
   </data>
   <data name="Update" xml:space="preserve">
-    <value>Atualizar</value>
+    <value>Oppdater</value>
   </data>
   <data name="AboutApp" xml:space="preserve">
-    <value>Sobre Dragon6</value>
+    <value>Om Dragon6</value>
   </data>
   <data name="ClearSaved" xml:space="preserve">
-    <value>Apagar Perfis Guardados</value>
+    <value>Fjern lagrede profiler</value>
   </data>
   <data name="DarkTheme" xml:space="preserve">
-    <value>Tema Escuro</value>
+    <value>Mørkt tema</value>
   </data>
   <data name="DefaultPlatform" xml:space="preserve">
-    <value>Plataforma Predefinida</value>
+    <value>Standard plattform</value>
   </data>
   <data name="FilterBy" xml:space="preserve">
-    <value>Filtrar por: {0}</value>
+    <value>Filtrer etter: {0}</value>
     <comment>{0} filter mode (attacker, defender, none)</comment>
   </data>
   <data name="None" xml:space="preserve">
-    <value>Nenhum</value>
+    <value>Ingen</value>
   </data>
   <data name="PlayerStats" xml:space="preserve">
-    <value>Estatísticas do(a) Jogador(a)</value>
+    <value>Spillerstatistikk</value>
   </data>
   <data name="Recents" xml:space="preserve">
-    <value>Jogadores Recentes</value>
+    <value>Nylige Spillere</value>
   </data>
   <data name="SavePlayerTip" xml:space="preserve">
-    <value>Dica: Duplo toque num cartão do jogador para guardá-lo</value>
+    <value>Tips: Dobbelttrykk på en spillers kort for å lagre dem</value>
   </data>
   <data name="SearchingForAccount" xml:space="preserve">
-    <value>Procurando {0} em {1}</value>
+    <value>Slår opp {0} på {1}</value>
     <comment>{0} username | {1} platform</comment>
   </data>
   <data name="SearchOperators" xml:space="preserve">
-    <value>Procurar Operadores</value>
+    <value>Søk i operatører</value>
   </data>
   <data name="SearchRecents" xml:space="preserve">
-    <value>Procurar Jogadores Recentes</value>
+    <value>Søk nylige spillere</value>
   </data>
   <data name="SeasonChangeTip" xml:space="preserve">
-    <value>Pista: Toque no topo do cartão para alterar as temporadas</value>
+    <value>Hint: Trykk på det øverste kortet for å endre sesong</value>
   </data>
   <data name="ServerSetTheme" xml:space="preserve">
-    <value>Tema definido do servidor</value>
+    <value>Tema satt av server</value>
   </data>
   <data name="SortBy" xml:space="preserve">
-    <value>Ordenar por: {0}</value>
+    <value>Sorter etter: {0}</value>
     <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
   </data>
   <data name="Unset" xml:space="preserve">
-    <value>Indefinido</value>
+    <value>Ikke satt</value>
     <comment>like "theme not set"</comment>
   </data>
-  <data name="UpdateAssets" xml:space="preserve">
-    <value>Atualizar conteúdos</value>
-  </data>
+  
   <data name="Back" xml:space="preserve">
-    <value>Voltar</value>
+    <value>Tilbake</value>
   </data>
   <data name="GotIt" xml:space="preserve">
-    <value>Entendido</value>
+    <value>Skjønner</value>
   </data>
   <data name="Ok" xml:space="preserve">
     <value>Ok</value>
   </data>
   <data name="ShareAccountString" xml:space="preserve">
-    <value>Confira as Estatísticas do {0} no Dragon6!</value>
+    <value>Sjekk ut {0} sin statistikk på Dragon6!</value>
     <comment>{0} player's name</comment>
   </data>
   <data name="ShareAppString" xml:space="preserve">
-    <value>Confira o Dragon6 - um rastreador de estatísticas de R6 gratuito!</value>
+    <value>Sjekk ut Dragon6 - en gratis statistikksporer for R6!</value>
   </data>
   <data name="Translate" xml:space="preserve">
-    <value>Traduzir</value>
+    <value>Oversett</value>
   </data>
   <data name="Understood" xml:space="preserve">
-    <value>Entendido</value>
+    <value>Forstått</value>
   </data>
   <data name="ConfirmRemove" xml:space="preserve">
-    <value>Confirme Remoção</value>
+    <value>Bekreft fjerning</value>
   </data>
   <data name="ConfirmSave" xml:space="preserve">
-    <value>Confirme guardar</value>
+    <value>Bekreft lagring</value>
   </data>
   <data name="LoadingStats" xml:space="preserve">
-    <value>Carregando Estatísticas... ({0})</value>
+    <value>Laster statistikk... ({0})</value>
     <comment>{0} username</comment>
   </data>
   <data name="OperatorStats" xml:space="preserve">
-    <value>Estatísticas do(a) Agente</value>
+    <value>Operatørstatistikk</value>
   </data>
   <data name="RemoveUser" xml:space="preserve">
-    <value>Remover {0} da sua página inicial?</value>
+    <value>Fjern {0} fra din hjemmeside?</value>
   </data>
   <data name="RetryConnection" xml:space="preserve">
-    <value>Tentar Conexão Novamente</value>
+    <value>Prøv på nytt</value>
   </data>
   <data name="SaveUser" xml:space="preserve">
-    <value>Adicionar {0} à sua página inicial?</value>
+    <value>Legg {0} til din hjemmeside?</value>
   </data>
   <data name="SteamNews" xml:space="preserve">
-    <value>Fornecido pela Steam</value>
+    <value>Drevet av Steam</value>
   </data>
   <data name="UserRemoved" xml:space="preserve">
-    <value>{0} Removido</value>
+    <value>{0} fjernet</value>
     <comment>{0} username</comment>
   </data>
   <data name="UserSaved" xml:space="preserve">
-    <value>{0} Guardado</value>
+    <value>{0} lagret</value>
     <comment>{0} username</comment>
   </data>
   <data name="ViewRecents" xml:space="preserve">
-    <value>Ver Recentes</value>
+    <value>Vis nylige</value>
   </data>
   <data name="WeaponStats" xml:space="preserve">
-    <value>Estatísticas de Armas</value>
+    <value>Våpenstatistikk</value>
   </data>
   <data name="SeasonSelectionTemplate" xml:space="preserve">
-    <value>{0} (A{1}T{2})</value>
+    <value>{0} (Å{1}S{2})</value>
   </data>
   <data name="ShareProfile" xml:space="preserve">
-    <value>Partilhar o perfil</value>
+    <value>Del profil</value>
   </data>
   <data name="ConfirmClear" xml:space="preserve">
-    <value>Tem certeza que quer apagar perfis guardados?</value>
+    <value>Er du sikker på at du vil fjerne lagrede profiler?</value>
   </data>
   <data name="ConfirmClearTitle" xml:space="preserve">
-    <value>Confirmar Apagar</value>
+    <value>Bekreft fjerning</value>
   </data>
   <data name="ClearSavedComplete" xml:space="preserve">
-    <value>Perfis Guardados Apagados</value>
+    <value>Lagrede profiler fjernet</value>
   </data>
-  <data name="UpdateAssetsComplete" xml:space="preserve">
-    <value>Conteúdos Atualizados</value>
-  </data>
+  
   <data name="PlayersCleared" xml:space="preserve">
-    <value>Jogadores Apagados</value>
+    <value>Spillere fjernet</value>
   </data>
   <data name="AppLibraries" xml:space="preserve">
-    <value>Bibliotecas de Terceiros</value>
+    <value>Tredjeparts biblioteker</value>
   </data>
   <data name="AppIconSource" xml:space="preserve">
-    <value>Ícones de armas de vários artistas (originados do noun project)</value>
+    <value>Våpenikoner fra forskjellige artister (hentet fra the noun project)</value>
   </data>
   <data name="LoadingData" xml:space="preserve">
-    <value>Carregando Dados...</value>
+    <value>Laster data...</value>
   </data>
   <data name="AccountSelect" xml:space="preserve">
-    <value>Selecionar Conta</value>
+    <value>Velg konto</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+    <value>Avbryt</value>
   </data>
   <data name="SeasonSelect" xml:space="preserve">
-    <value>Selecione Temporada</value>
+    <value>Velg sesong</value>
   </data>
   <data name="SearchPlayers" xml:space="preserve">
-    <value>Procurar Jogadores</value>
+    <value>Søk spillere</value>
   </data>
 </root>

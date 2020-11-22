@@ -117,49 +117,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="NoInternet" xml:space="preserve">
-    <value>Dragon6'yı kullanmak için internet bağlantısı gereklidir</value>
+  <data name="DownsRevives" xml:space="preserve">
+    <value>{0:n0} Пали / {1:n0} Возрождены</value>
   </data>
-  <data name="PlayerNotFound" xml:space="preserve">
-    <value>Oyuncu {0}, {1} tarihinde bulunamadı. \n Lütfen kullanıcı adını doğru girip girmediğinizi kontrol edin (killfeed'de gösterildiği gibi) ve tekrar deneyin \n Sorun devam ederse, daha sonra tekrar deneyin</value>
-    <comment>{0} username | {1} platform</comment>
+  <data name="FirstSession" xml:space="preserve">
+    <value>Начал играть {0} ({1:n0} сессий)</value>
   </data>
-  <data name="PlayerNotFoundTitle" xml:space="preserve">
-    <value>Oyuncu bulunamadı</value>
+  <data name="Headshots" xml:space="preserve">
+    <value>{0:n0} Убийств в голову ({1:0.0}%)</value>
   </data>
-  <data name="ServerError" xml:space="preserve">
-    <value>Bir {0} sunucusundan veri istenirken bir şeyler ters gitti. \n Lütfen tam internet erişiminiz olduğunu kontrol edin ve daha sonra tekrar deneyin.</value>
-    <comment>{0} server source - DragonFruit/Ubisoft/etc.</comment>
+  <data name="Highscore" xml:space="preserve">
+    <value>{0}: {1:n0} очков</value>
+    <comment>{0} mode | {1} score</comment>
   </data>
-  <data name="ServerErrorTitle" xml:space="preserve">
-    <value>Sunucu Hatası: {0}</value>
-    <comment>{0} http status code (NotFound, Forbidden, etc.)</comment>
+  <data name="Kd" xml:space="preserve">
+    <value>{0:0.00} У/С ({1:n0} Убийств / {2:n0} Смертей)</value>
   </data>
-  <data name="UnexpectedError" xml:space="preserve">
-    <value>Beklenmeyen bir hata oluştu. Dragon6 ekibi bilgilendirildi ve daha fazla araştıracak.</value>
+  <data name="KillsPerRound" xml:space="preserve">
+    <value>{0:0.00} УЗР ({1:n0} Убийств / {2:n0} Раунд)</value>
   </data>
-  <data name="UnexpectedErrorTitle" xml:space="preserve">
-    <value>Beklenmedik hata</value>
+  <data name="LastMatch" xml:space="preserve">
+    <value>Последний матч {0} ({1:n0} MMR)</value>
+    <comment>{0} match result (win,loss,abandon,unknown) | {1} MMR change</comment>
   </data>
-  <data name="UserBlockedError" xml:space="preserve">
-    <value>Bu kullanıcının istatistikleri görüntülenemiyor (genellikle veri güvenliği gerekçesiyle ancak bazen bizim tarafımızdan dolayı)</value>
+  <data name="LastSeen" xml:space="preserve">
+    <value>Последнее посещение {0}</value>
+    <comment>{0} timespan from last login (humanizer filled)</comment>
   </data>
-  <data name="UserBlockedErrorTitle" xml:space="preserve">
-    <value>Kullanıcıya erişilemiyor</value>
+  <data name="Melee" xml:space="preserve">
+    <value>{0:n0} Убийств с холодного оружия ({1:0.0}%)</value>
   </data>
-  <data name="CasualSeasonalError" xml:space="preserve">
-    <value>Bu sezon için sıradan istatistikler alınırken bir hata oluştu. \n Lütfen eski sezonların istatistiklerinin kaydedilmemiş olabileceğini veya kullanıcının sezondan önce mevcut olmadığını unutmayın</value>
+  <data name="NextRank" xml:space="preserve">
+    <value>{0} MMR до {1} ({2}%)</value>
+    <comment>{0) mmr remaining | {1} next rank | {2} percentage complete</comment>
   </data>
-  <data name="GeneralSeasonalError" xml:space="preserve">
-    <value>Sezon istatistikleri alınırken bir hata oluştu. \n Sezon seçiminizi şimdilik en sonuncusuyla değiştirdik. \n \r DragonFruit'u bu sorun hakkında bilgilendirdik ve yakında çözülmesi için çalışacağız.</value>
+  <data name="Operation" xml:space="preserve">
+    <value>Операция {0}</value>
+    <comment>{0} season name (e.g Steel Wave)</comment>
   </data>
-  <data name="Error" xml:space="preserve">
-    <value>Hata</value>
+  <data name="OperatorSummary" xml:space="preserve">
+    <value>{0:0.00} У/С · {1:0.00} В/П · {2}</value>
+    <comment>{2} time played</comment>
   </data>
-  <data name="DatabaseResetTitle" xml:space="preserve">
-    <value>Veritabanı Sıfırlama</value>
+  <data name="Penetrations" xml:space="preserve">
+    <value>{0:n0} Убийств с холодного оружия ({1:0.0}%)</value>
   </data>
-  <data name="DatabaseReset" xml:space="preserve">
-    <value>Dragon6, veri tabanı yükseltmesinin bozulması nedeniyle sıfırlandı. verdiğimiz rahatsızlıktan dolayı özür dileriz</value>
+  <data name="SeasonMmr" xml:space="preserve">
+    <value>{0:n0} ± {1:n0} MMR ({2})</value>
+    <comment>{0} current mmr | {1} = uncertainty | {2} rank name</comment>
+  </data>
+  <data name="SeasonRank" xml:space="preserve">
+    <value>{0:n0} MMR ({1})</value>
+    <comment>{0} mmr | {1} Rank Name</comment>
+  </data>
+  <data name="SeasonWl" xml:space="preserve">
+    <value>{0:0.00} ({1:n0} Выиграно / {2:n0} Поражения + {2:n0} Покинуто)</value>
+  </data>
+  <data name="Suicides" xml:space="preserve">
+    <value>{0:n0} Самоубийств ({1:0.0}%)</value>
+  </data>
+  <data name="TimePlayed" xml:space="preserve">
+    <value>{0}: {1}</value>
+    <comment>{0} mode | {1} time played (filled in by humanizer)</comment>
+  </data>
+  <data name="Wl" xml:space="preserve">
+    <value>{0:0.00} В/П ({1:n0} Выиграно / {2:n0} Поражений)</value>
+  </data>
+  <data name="OperatorNotPlayed" xml:space="preserve">
+    <value>Пока что не сыграно</value>
+  </data>
+  <data name="HeadshotsCount" xml:space="preserve">
+    <value>{0:n0} Убийств в голову</value>
+  </data>
+  <data name="KillCount" xml:space="preserve">
+    <value>{0:n0} Убийств</value>
   </data>
 </root>

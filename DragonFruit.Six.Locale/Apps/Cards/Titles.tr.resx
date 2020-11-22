@@ -133,7 +133,7 @@
     <value>En yüksek rütbe</value>
   </data>
   <data name="KillsPerRound" xml:space="preserve">
-    <value>Öldürme / Tur</value>
+    <value>Öldürme / Yuvarlak</value>
   </data>
   <data name="LastMatch" xml:space="preserve">
     <value>En Son Maç</value>
@@ -160,7 +160,7 @@
     <value>Rütbeli Ö/Ö</value>
   </data>
   <data name="RankedWl" xml:space="preserve">
-    <value>Rütbeli Galibiyet / Mağlubiyet</value>
+    <value>Rütbeli G/M</value>
   </data>
   <data name="SeasonKd" xml:space="preserve">
     <value>Sezon Ö /Ö</value>
