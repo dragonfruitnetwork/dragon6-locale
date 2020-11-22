@@ -117,49 +117,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="NoInternet" xml:space="preserve">
-    <value>Perlu koneksi internet untuk menggunakan Dragon6</value>
+  <data name="CasualKd" xml:space="preserve">
+    <value>Alminnelig M/D</value>
   </data>
-  <data name="PlayerNotFound" xml:space="preserve">
-    <value>Pemain {0} tidak ditemukan di {1}.\nSilahkan cek username yang telah dimasukan secara benar (seperti dicontoh) dan coba lagi\nJika masih terdapat isu ini, coba lagi nanti</value>
-    <comment>{0} username | {1} platform</comment>
+  <data name="CasualWl" xml:space="preserve">
+    <value>Alminnelig S/T</value>
   </data>
-  <data name="PlayerNotFoundTitle" xml:space="preserve">
-    <value>Pemain Tidak Ditemukan</value>
+  <data name="DownsRevives" xml:space="preserve">
+    <value>Nedslag vs gjenopplivninger</value>
   </data>
-  <data name="ServerError" xml:space="preserve">
-    <value>Kesalahan telah terjadi ketika meminta data dari server {0}.\nSilahkan cek internet anda dan coba lagi nanti.</value>
-    <comment>{0} server source - DragonFruit/Ubisoft/etc.</comment>
+  <data name="FirstSession" xml:space="preserve">
+    <value>Første økt</value>
   </data>
-  <data name="ServerErrorTitle" xml:space="preserve">
-    <value>Kesalahan Server: {0}</value>
-    <comment>{0} http status code (NotFound, Forbidden, etc.)</comment>
+  <data name="HighestRank" xml:space="preserve">
+    <value>Høyeste rangering</value>
   </data>
-  <data name="UnexpectedError" xml:space="preserve">
-    <value>Kesalahan yang tidak terduga telah terjadi. Tim Dragon6 telah dinotifikasi dan akan menyelediki lebih lanjut.</value>
+  <data name="KillsPerRound" xml:space="preserve">
+    <value>Mord/runde</value>
   </data>
-  <data name="UnexpectedErrorTitle" xml:space="preserve">
-    <value>Kesalahan Tidak Terduga</value>
+  <data name="LastMatch" xml:space="preserve">
+    <value>Siste match</value>
   </data>
-  <data name="UserBlockedError" xml:space="preserve">
-    <value>Stats pengguna ini tidak bisa dilihat (biasanya dari GDPR, tetapi bisasanya dari kami)</value>
+  <data name="NextRankProgress" xml:space="preserve">
+    <value>Neste rangeringsfremgang</value>
   </data>
-  <data name="UserBlockedErrorTitle" xml:space="preserve">
-    <value>Pengguna tidak tersedia</value>
+  <data name="OperatorAbility" xml:space="preserve">
+    <value>Operatørevne</value>
   </data>
-  <data name="CasualSeasonalError" xml:space="preserve">
-    <value>Terdapat kesalahan saat mendapat stats kasual untuk musim ini.\nSHarap dicatat bahwa stats musim yang lalu kemungkinan tidak direkam atau pengguna tersebut tidak pernah ada di musim ini</value>
+  <data name="OperatorKd" xml:space="preserve">
+    <value>Operatør M/D</value>
   </data>
-  <data name="GeneralSeasonalError" xml:space="preserve">
-    <value>Terjadi kesalahan saat mendapatkan stats musiman.\nKami mengganti pilihan musim anda kembali ke musim terakhir sekarang.\n\rKami telah memberikan notifikasi kepada DragonFruit tentang masalah ini dan kami akan coba selesaikan secepatnya.</value>
+  <data name="OperatorWl" xml:space="preserve">
+    <value>Operatør S/T</value>
   </data>
-  <data name="Error" xml:space="preserve">
-    <value>Eror</value>
+  <data name="OverallKd" xml:space="preserve">
+    <value>Samlet M/D</value>
   </data>
-  <data name="DatabaseResetTitle" xml:space="preserve">
-    <value>Reset Database</value>
+  <data name="OverallWl" xml:space="preserve">
+    <value>Samlet S/T</value>
   </data>
-  <data name="DatabaseReset" xml:space="preserve">
-    <value>Dragon6 telah direset karenatelah gagal mempebarui database. Kami meminta maaf atas kejadian ini</value>
+  <data name="RankedKd" xml:space="preserve">
+    <value>Rangert M/D</value>
+  </data>
+  <data name="RankedWl" xml:space="preserve">
+    <value>Rangert S/T</value>
+  </data>
+  <data name="SeasonKd" xml:space="preserve">
+    <value>Sesong M/D</value>
+  </data>
+  <data name="SeasonMmr" xml:space="preserve">
+    <value>Sesong MMR</value>
+  </data>
+  <data name="SeasonWl" xml:space="preserve">
+    <value>Sesong S/T</value>
+  </data>
+  <data name="TimePlayed" xml:space="preserve">
+    <value>Spilletid</value>
+  </data>
+  <data name="TrainingKd" xml:space="preserve">
+    <value>Terroristjakt M/D</value>
+  </data>
+  <data name="TrainingWl" xml:space="preserve">
+    <value>Terroristjakt S/T</value>
+  </data>
+  <data name="UnrankedKd" xml:space="preserve">
+    <value>Urangert M/D</value>
+  </data>
+  <data name="UnrankedWl" xml:space="preserve">
+    <value>Urangert S/T</value>
+  </data>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Filtrer etter</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Sorter etter</value>
   </data>
 </root>

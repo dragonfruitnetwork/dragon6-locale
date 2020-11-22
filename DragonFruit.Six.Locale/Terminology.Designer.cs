@@ -79,15 +79,6 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assault Rifle.
-        /// </summary>
-        public static string AssaultRifle {
-            get {
-                return ResourceManager.GetString("AssaultRifle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Assists.
         /// </summary>
         public static string Assists {
@@ -259,15 +250,6 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to LMG.
-        /// </summary>
-        public static string LightMachineGun {
-            get {
-                return ResourceManager.GetString("LightMachineGun", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Losses.
         /// </summary>
         public static string Losses {
@@ -282,15 +264,6 @@ namespace DragonFruit.Six.Locale {
         public static string Lost {
             get {
                 return ResourceManager.GetString("Lost", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Machine Pistol.
-        /// </summary>
-        public static string MachinePistol {
-            get {
-                return ResourceManager.GetString("MachinePistol", resourceCulture);
             }
         }
         
@@ -340,15 +313,6 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pistol.
-        /// </summary>
-        public static string Pistol {
-            get {
-                return ResourceManager.GetString("Pistol", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Ranked.
         /// </summary>
         public static string Ranked {
@@ -381,33 +345,6 @@ namespace DragonFruit.Six.Locale {
         public static string Secure {
             get {
                 return ResourceManager.GetString("Secure", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Shotgun.
-        /// </summary>
-        public static string Shotgun {
-            get {
-                return ResourceManager.GetString("Shotgun", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Sniper.
-        /// </summary>
-        public static string SniperRifle {
-            get {
-                return ResourceManager.GetString("SniperRifle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to SMG.
-        /// </summary>
-        public static string SubmachineGun {
-            get {
-                return ResourceManager.GetString("SubmachineGun", resourceCulture);
             }
         }
         

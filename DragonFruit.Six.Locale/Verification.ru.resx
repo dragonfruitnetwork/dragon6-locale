@@ -117,79 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DownsRevives" xml:space="preserve">
-    <value>{0:n0} Düşme / {1:n0} Dirilme</value>
+  <data name="Admin" xml:space="preserve">
+    <value>Администратор Dragon6</value>
   </data>
-  <data name="FirstSession" xml:space="preserve">
-    <value>İlk oynanan {0} ({1:n0} oturumda)</value>
+  <data name="Blocked" xml:space="preserve">
+    <value>Пользователь заблокирован</value>
   </data>
-  <data name="Headshots" xml:space="preserve">
-    <value>{0:n0} Kafadan vurulan (% {1:0.0})</value>
+  <data name="Contributor" xml:space="preserve">
+    <value>Автор Dragon6</value>
   </data>
-  <data name="Highscore" xml:space="preserve">
-    <value>{0}: {1:n0} puan</value>
-    <comment>{0} mode | {1} score</comment>
+  <data name="Normal" xml:space="preserve">
+    <value>Обычный пользователь</value>
   </data>
-  <data name="Kd" xml:space="preserve">
-    <value>{0:0.00} Ö / Ö ({1:n0} Öldürme / {2:n0} Ölme)</value>
+  <data name="Supporter" xml:space="preserve">
+    <value>Помощник Dragon6</value>
   </data>
-  <data name="KillsPerRound" xml:space="preserve">
-    <value>{0:0.00} KPR ({1:n0} Öldürme / {2:n0} Mermi)</value>
+  <data name="Translator" xml:space="preserve">
+    <value>Переводчик Dragon6</value>
   </data>
-  <data name="LastMatch" xml:space="preserve">
-    <value>Son Maç {0} ({1:n0} MMR)</value>
-    <comment>{0} match result (win,loss,abandon,unknown) | {1} MMR change</comment>
+  <data name="Verified" xml:space="preserve">
+    <value>Подтвержденный аккаунт</value>
   </data>
-  <data name="LastSeen" xml:space="preserve">
-    <value>En son {0} önce görüldü</value>
-    <comment>{0} timespan from last login (humanizer filled)</comment>
-  </data>
-  <data name="Melee" xml:space="preserve">
-    <value>{0:n0} Yakın mesafeli öldürme (% {1:0.0})</value>
-  </data>
-  <data name="NextRank" xml:space="preserve">
-    <value>{0} MMR - {1} (% {2})</value>
-    <comment>{0) mmr remaining | {1} next rank | {2} percentage complete</comment>
-  </data>
-  <data name="Operation" xml:space="preserve">
-    <value>{0} Operasyonu</value>
-    <comment>{0} season name (e.g Steel Wave)</comment>
-  </data>
-  <data name="OperatorSummary" xml:space="preserve">
-    <value>{0:0.00} Öldürme / Ölme · {1:0.00} Galibiyet / Mağlubiyet · {2}</value>
-    <comment>{2} time played</comment>
-  </data>
-  <data name="Penetrations" xml:space="preserve">
-    <value>{0:n0} Penetrasyon Öldürmesi (% {1:0.0})</value>
-  </data>
-  <data name="SeasonMmr" xml:space="preserve">
-    <value>{0:n0} ± {1:n0} MMR ({2})</value>
-    <comment>{0} current mmr | {1} = uncertainty | {2} rank name</comment>
-  </data>
-  <data name="SeasonRank" xml:space="preserve">
-    <value>{0:n0} MMR ({1})</value>
-    <comment>{0} mmr | {1} Rank Name</comment>
-  </data>
-  <data name="SeasonWl" xml:space="preserve">
-    <value>{0:0.00} ({1:n0} Galibiyet / {2:n0} Mağlubiyet+ {2:n0} Terk edilen)</value>
-  </data>
-  <data name="Suicides" xml:space="preserve">
-    <value>{0:n0} İntihar (% {1:0.0})</value>
-  </data>
-  <data name="TimePlayed" xml:space="preserve">
-    <value>{0}: {1}</value>
-    <comment>{0} mode | {1} time played (filled in by humanizer)</comment>
-  </data>
-  <data name="Wl" xml:space="preserve">
-    <value>{0:0.00} G / M ({1:n0} Galibiyet / {2:n0} Mağlubiyet)</value>
-  </data>
-  <data name="OperatorNotPlayed" xml:space="preserve">
-    <value>henüz oynanmadı</value>
-  </data>
-  <data name="HeadshotsCount" xml:space="preserve">
-    <value>{0:n0} Kafadan vurulan</value>
-  </data>
-  <data name="KillCount" xml:space="preserve">
-    <value>{0:n0} Öldürme</value>
+  <data name="Beta" xml:space="preserve">
+    <value>Бета-тестер</value>
   </data>
 </root>

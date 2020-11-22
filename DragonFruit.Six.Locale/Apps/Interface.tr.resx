@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Yes" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Ana Sayfa</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Haberler</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>Menü</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="Share" xml:space="preserve">
+    <value>Paylaş</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>Genel</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Diğer</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Temizle</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>Varsayılan</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>İsim</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Ara</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Güncelle</value>
+  </data>
+  <data name="AboutApp" xml:space="preserve">
+    <value>Dragon6 Hakkında</value>
+  </data>
+  <data name="ClearSaved" xml:space="preserve">
+    <value>Kaydedilmiş Profilleri Temizle</value>
+  </data>
+  <data name="DarkTheme" xml:space="preserve">
+    <value>Karanlık Tema</value>
+  </data>
+  <data name="DefaultPlatform" xml:space="preserve">
+    <value>Varsayılan Platform</value>
+  </data>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Filtrele: {0}</value>
+    <comment>{0} filter mode (attacker, defender, none)</comment>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Hiç biri</value>
+  </data>
+  <data name="PlayerStats" xml:space="preserve">
+    <value>Oyuncu İstatistikleri</value>
+  </data>
+  <data name="Recents" xml:space="preserve">
+    <value>Son Oyuncular</value>
+  </data>
+  <data name="SavePlayerTip" xml:space="preserve">
+    <value>İpucu: Bir oyuncuyu kaydetmek için kartına iki kez dokunun</value>
+  </data>
+  <data name="SearchingForAccount" xml:space="preserve">
+    <value>{0}, {1} Üzerinde aranıyor</value>
+    <comment>{0} username | {1} platform</comment>
+  </data>
+  <data name="SearchOperators" xml:space="preserve">
+    <value>Operatör Ara</value>
+  </data>
+  <data name="SearchRecents" xml:space="preserve">
+    <value>Son Oyuncuları Ara</value>
+  </data>
+  <data name="SeasonChangeTip" xml:space="preserve">
+    <value>İpucu: Sezonları değiştirmek için üstteki karta dokunun</value>
+  </data>
+  <data name="ServerSetTheme" xml:space="preserve">
+    <value>Sunucu seti teması</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Sırala: {0}</value>
+    <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
+  </data>
+  <data name="Unset" xml:space="preserve">
+    <value>Ayarlanmadı</value>
+    <comment>like "theme not set"</comment>
+  </data>
+  <data name="UpdateAssets" xml:space="preserve">
+    <value>İçerikleri Güncelle</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Geri</value>
+  </data>
+  <data name="GotIt" xml:space="preserve">
+    <value>Anladım</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>Tamam</value>
+  </data>
+  <data name="ShareAccountString" xml:space="preserve">
+    <value>{0} Dragon6'daki İstatistiklere göz atın!</value>
+    <comment>{0} player's name</comment>
+  </data>
+  <data name="ShareAppString" xml:space="preserve">
+    <value>Ücretsiz bir R6 istatistik izleyicisi olan Dragon6'ya göz atın!</value>
+  </data>
+  <data name="Translate" xml:space="preserve">
+    <value>Çeviri</value>
+  </data>
+  <data name="Understood" xml:space="preserve">
+    <value>Anladım</value>
+  </data>
+  <data name="ConfirmRemove" xml:space="preserve">
+    <value>Kaldırmayı Onayla</value>
+  </data>
+  <data name="ConfirmSave" xml:space="preserve">
+    <value>Kaydetmeyi onayla</value>
+  </data>
+  <data name="LoadingStats" xml:space="preserve">
+    <value>İstatistikler Yükleniyor... ({0})</value>
+    <comment>{0} username</comment>
+  </data>
+  <data name="OperatorStats" xml:space="preserve">
+    <value>Operatör İstatistikleri</value>
+  </data>
+  <data name="RemoveUser" xml:space="preserve">
+    <value>{0} Ana sayfanızdan kaldırılsın mı?</value>
+  </data>
+  <data name="RetryConnection" xml:space="preserve">
+    <value>Yeniden Bağlan</value>
+  </data>
+  <data name="SaveUser" xml:space="preserve">
+    <value>{0} Ana sayfanıza eklensin mi?</value>
+  </data>
+  <data name="SteamNews" xml:space="preserve">
+    <value>Steam tarafından desteklenmektedir</value>
+  </data>
+  <data name="UserRemoved" xml:space="preserve">
+    <value>{0} Kaldırıldı</value>
+    <comment>{0} username</comment>
+  </data>
+  <data name="UserSaved" xml:space="preserve">
+    <value>{0} Kaydedildi</value>
+    <comment>{0} username</comment>
+  </data>
+  <data name="ViewRecents" xml:space="preserve">
+    <value>Son Aramaları Görüntüle</value>
+  </data>
+  <data name="WeaponStats" xml:space="preserve">
+    <value>Silah İstatistikleri</value>
+  </data>
+  <data name="SeasonSelectionTemplate" xml:space="preserve">
+    <value>{0} (Y{1}S{2})</value>
+  </data>
+  <data name="ShareProfile" xml:space="preserve">
+    <value>Profili Paylaş</value>
+  </data>
+  <data name="ConfirmClear" xml:space="preserve">
+    <value>Kaydedilmiş profilleri temizlemek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="ConfirmClearTitle" xml:space="preserve">
+    <value>Silmeyi Onayla</value>
+  </data>
+  <data name="ClearSavedComplete" xml:space="preserve">
+    <value>Kaydedilen Profiller Temizlendi</value>
+  </data>
+  <data name="UpdateAssetsComplete" xml:space="preserve">
+    <value>Varlıklar Güncellendi</value>
+  </data>
+  <data name="PlayersCleared" xml:space="preserve">
+    <value>Oyuncular Temizlendi</value>
+  </data>
+  <data name="AppLibraries" xml:space="preserve">
+    <value>Üçüncü Parti Kütüphaneler</value>
+  </data>
+  <data name="AppIconSource" xml:space="preserve">
+    <value>Çeşitli sanatçılardan Silah Simgeleri (noun project elde edildi)</value>
+  </data>
+  <data name="LoadingData" xml:space="preserve">
+    <value>Veri yükleniyor...</value>
+  </data>
+  <data name="AccountSelect" xml:space="preserve">
+    <value>Hesap Seç</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>İptal et</value>
+  </data>
+  <data name="SeasonSelect" xml:space="preserve">
+    <value>Sezon Seç</value>
+  </data>
+  <data name="SearchPlayers" xml:space="preserve">
+    <value>Oyuncu Ara</value>
+  </data>
+</root>

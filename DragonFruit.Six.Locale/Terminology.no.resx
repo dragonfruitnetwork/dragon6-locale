@@ -117,204 +117,128 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Yes" xml:space="preserve">
-    <value>Ya</value>
+  
+  <data name="Ranked" xml:space="preserve">
+    <value>Rangert</value>
   </data>
-  <data name="No" xml:space="preserve">
-    <value>Tidak</value>
+  <data name="Unranked" xml:space="preserve">
+    <value>Urangert</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Beranda</value>
+  <data name="KD" xml:space="preserve">
+    <value>M/D</value>
   </data>
-  <data name="News" xml:space="preserve">
-    <value>Berita</value>
+  <data name="WL" xml:space="preserve">
+    <value>S/T</value>
   </data>
-  <data name="Menu" xml:space="preserve">
-    <value>Menu</value>
+  <data name="Kills" xml:space="preserve">
+    <value>Mord</value>
   </data>
-  <data name="Settings" xml:space="preserve">
-    <value>Pengaturan</value>
+  <data name="Deaths" xml:space="preserve">
+    <value>Dødsfall</value>
   </data>
-  <data name="Share" xml:space="preserve">
-    <value>Bagikan</value>
+  <data name="Abandoned" xml:space="preserve">
+    <value>Forlatt</value>
   </data>
-  <data name="General" xml:space="preserve">
-    <value>Informasi Umum</value>
+  <data name="Abandons" xml:space="preserve">
+    <value>Forlatt</value>
   </data>
-  <data name="Other" xml:space="preserve">
-    <value>Lainnya</value>
+  <data name="Downs" xml:space="preserve">
+    <value>Nedslag</value>
   </data>
-  <data name="Clear" xml:space="preserve">
-    <value>Hapus</value>
+  <data name="Highscores" xml:space="preserve">
+    <value>Høyeste poengsum</value>
   </data>
-  <data name="Default" xml:space="preserve">
-    <value>Default</value>
+  <data name="LastMatch" xml:space="preserve">
+    <value>Siste match</value>
   </data>
-  <data name="Name" xml:space="preserve">
-    <value>Nama</value>
+  <data name="Losses" xml:space="preserve">
+    <value>Tap</value>
   </data>
-  <data name="Search" xml:space="preserve">
-    <value>Cari</value>
+  <data name="Lost" xml:space="preserve">
+    <value>Tapt</value>
   </data>
-  <data name="Update" xml:space="preserve">
-    <value>Pembaruan</value>
+  <data name="Melee" xml:space="preserve">
+    <value>Nærkamp</value>
   </data>
-  <data name="AboutApp" xml:space="preserve">
-    <value>Tentang Dragon6</value>
+  <data name="Operator" xml:space="preserve">
+    <value>Operatør</value>
   </data>
-  <data name="ClearSaved" xml:space="preserve">
-    <value>Hapus Profil yang Disimpan</value>
+  <data name="Operators" xml:space="preserve">
+    <value>Operatører</value>
   </data>
-  <data name="DarkTheme" xml:space="preserve">
-    <value>Tema Gelap</value>
+  <data name="Overall" xml:space="preserve">
+    <value>Totalt</value>
   </data>
-  <data name="DefaultPlatform" xml:space="preserve">
-    <value>Platform Default</value>
+  <data name="Penetrations" xml:space="preserve">
+    <value>Penetrasjoner</value>
   </data>
-  <data name="FilterBy" xml:space="preserve">
-    <value>Saring dengan: {0}</value>
-    <comment>{0} filter mode (attacker, defender, none)</comment>
+  <data name="Revives" xml:space="preserve">
+    <value>Gjenopplivninger</value>
   </data>
-  <data name="None" xml:space="preserve">
-    <value>Tidak Ada</value>
+  <data name="Training" xml:space="preserve">
+    <value>Terroristjakt</value>
   </data>
-  <data name="PlayerStats" xml:space="preserve">
-    <value>Stats Pemain</value>
+  <data name="Unknown" xml:space="preserve">
+    <value>Ukjent</value>
   </data>
-  <data name="Recents" xml:space="preserve">
-    <value>Pemain Terbaru</value>
+  <data name="Weapon" xml:space="preserve">
+    <value>Våpen</value>
   </data>
-  <data name="SavePlayerTip" xml:space="preserve">
-    <value>Tip: Ketuk dobel pada kartu pemain untuk menyimpan</value>
+  <data name="Wins" xml:space="preserve">
+    <value>Seire</value>
   </data>
-  <data name="SearchingForAccount" xml:space="preserve">
-    <value>Mencari {0} di {1}</value>
-    <comment>{0} username | {1} platform</comment>
+  <data name="Won" xml:space="preserve">
+    <value>Vunnet</value>
   </data>
-  <data name="SearchOperators" xml:space="preserve">
-    <value>Pencarian Operator</value>
+  <data name="Attacker" xml:space="preserve">
+    <value>Angriper</value>
   </data>
-  <data name="SearchRecents" xml:space="preserve">
-    <value>Cari Pemain Terbaru</value>
+  <data name="Attackers" xml:space="preserve">
+    <value>Angripere</value>
   </data>
-  <data name="SeasonChangeTip" xml:space="preserve">
-    <value>Petunjuk: Ketuk kartu diatas untuk mengganti musim</value>
+  <data name="AttackerShort" xml:space="preserve">
+    <value>ANGR</value>
   </data>
-  <data name="ServerSetTheme" xml:space="preserve">
-    <value>Set Tema Server</value>
+  <data name="Defender" xml:space="preserve">
+    <value>Forsvarer</value>
   </data>
-  <data name="SortBy" xml:space="preserve">
-    <value>Urutkan menurut: {0}</value>
-    <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
+  <data name="Defenders" xml:space="preserve">
+    <value>Forsvarere</value>
   </data>
-  <data name="Unset" xml:space="preserve">
-    <value>Tidak diset</value>
-    <comment>like "theme not set"</comment>
+  <data name="DefenderShort" xml:space="preserve">
+    <value>FORS</value>
   </data>
-  <data name="UpdateAssets" xml:space="preserve">
-    <value>Perbarui Aset</value>
+  <data name="Pistol" xml:space="preserve">
+    <value>Pistol</value>
   </data>
-  <data name="Back" xml:space="preserve">
-    <value>Kembali</value>
+  <data name="Seasonal" xml:space="preserve">
+    <value>Sesongavhengig</value>
   </data>
-  <data name="GotIt" xml:space="preserve">
-    <value>Mengerti</value>
+  <data name="Bomb" xml:space="preserve">
+    <value>Bombe</value>
   </data>
-  <data name="Ok" xml:space="preserve">
-    <value>Ok</value>
+  <data name="Hostage" xml:space="preserve">
+    <value>Gissel</value>
   </data>
-  <data name="ShareAccountString" xml:space="preserve">
-    <value>Lihat Stats {0} di Dragon6!</value>
-    <comment>{0} player's name</comment>
+  <data name="Level" xml:space="preserve">
+    <value>Nivå {0}</value>
   </data>
-  <data name="ShareAppString" xml:space="preserve">
-    <value>Lihat Dragon6 - Sebuah pelacak R6 stats gratis!</value>
+  <data name="Secure" xml:space="preserve">
+    <value>Sikre</value>
   </data>
-  <data name="Translate" xml:space="preserve">
-    <value>Terjemahkan</value>
+  <data name="Assists" xml:space="preserve">
+    <value>Assister</value>
   </data>
-  <data name="Understood" xml:space="preserve">
-    <value>Mengerti</value>
+  <data name="Headshots" xml:space="preserve">
+    <value>Hodeskudd</value>
   </data>
-  <data name="ConfirmRemove" xml:space="preserve">
-    <value>Konfirmasi Hapus</value>
+  <data name="Suicides" xml:space="preserve">
+    <value>Selvmord</value>
   </data>
-  <data name="ConfirmSave" xml:space="preserve">
-    <value>Konfirmasi Simpan</value>
+  <data name="CurrentSeason" xml:space="preserve">
+    <value>Nåværende sesong</value>
   </data>
-  <data name="LoadingStats" xml:space="preserve">
-    <value>Memuat Stats... ({0})</value>
-    <comment>{0} username</comment>
-  </data>
-  <data name="OperatorStats" xml:space="preserve">
-    <value>Stats Operator</value>
-  </data>
-  <data name="RemoveUser" xml:space="preserve">
-    <value>Hapus {0} dari beranda?</value>
-  </data>
-  <data name="RetryConnection" xml:space="preserve">
-    <value>Coba lagi koneksi</value>
-  </data>
-  <data name="SaveUser" xml:space="preserve">
-    <value>Tambahkan {0} ke beranda?</value>
-  </data>
-  <data name="SteamNews" xml:space="preserve">
-    <value>Didukung oleh Steam</value>
-  </data>
-  <data name="UserRemoved" xml:space="preserve">
-    <value>{0} Dihapus</value>
-    <comment>{0} username</comment>
-  </data>
-  <data name="UserSaved" xml:space="preserve">
-    <value>{0} Disimpan</value>
-    <comment>{0} username</comment>
-  </data>
-  <data name="ViewRecents" xml:space="preserve">
-    <value>Lihat yang Terbaru</value>
-  </data>
-  <data name="WeaponStats" xml:space="preserve">
-    <value>Statistik Senjata</value>
-  </data>
-  <data name="SeasonSelectionTemplate" xml:space="preserve">
-    <value>{0} (T{1}M{2})</value>
-  </data>
-  <data name="ShareProfile" xml:space="preserve">
-    <value>Bagikan profil</value>
-  </data>
-  <data name="ConfirmClear" xml:space="preserve">
-    <value>Apakah anda yakin ingin membersihkan profil yang telah disimpan?</value>
-  </data>
-  <data name="ConfirmClearTitle" xml:space="preserve">
-    <value>Konfirmasi Hapus</value>
-  </data>
-  <data name="ClearSavedComplete" xml:space="preserve">
-    <value>Profil yang disimpan berhasil dihapus</value>
-  </data>
-  <data name="UpdateAssetsComplete" xml:space="preserve">
-    <value>Aset Telah Diperbarui</value>
-  </data>
-  <data name="PlayersCleared" xml:space="preserve">
-    <value>Pemain Telah Dihapus</value>
-  </data>
-  <data name="AppLibraries" xml:space="preserve">
-    <value>Library Pihak Ketiga</value>
-  </data>
-  <data name="AppIconSource" xml:space="preserve">
-    <value>Ikon Senjata dari berbagai artist (berasal dari noun project)</value>
-  </data>
-  <data name="LoadingData" xml:space="preserve">
-    <value>Memuat data...</value>
-  </data>
-  <data name="AccountSelect" xml:space="preserve">
-    <value>Pilih Akun</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Batal</value>
-  </data>
-  <data name="SeasonSelect" xml:space="preserve">
-    <value>Pilih Musim</value>
-  </data>
-  <data name="SearchPlayers" xml:space="preserve">
-    <value>Cari Pemain</value>
+  <data name="Time" xml:space="preserve">
+    <value>Tid</value>
   </data>
 </root>
