@@ -34,6 +34,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Titles.resx</DependentUpon>
     </Compile>
+    <Compile Update="Objects\Weapons.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Weapons.resx</DependentUpon>
+    </Compile>
     <Compile Update="Terminology.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
