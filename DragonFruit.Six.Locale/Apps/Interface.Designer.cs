@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DragonFruit.Six.Apps.Locale {
+namespace DragonFruit.Six.Locale.Apps {
     using System;
     
     
