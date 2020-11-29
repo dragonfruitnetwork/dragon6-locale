@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DragonFruit.Six.Locale {
+namespace DragonFruit.Six.Locale.Objects {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace DragonFruit.Six.Locale {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DragonFruit.Six.Locale.Ranks", typeof(Ranks).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DragonFruit.Six.Locale.Objects.Ranks", typeof(Ranks).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
