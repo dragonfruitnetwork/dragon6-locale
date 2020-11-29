@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DragonFruit.Six.Locale.Cards {
+namespace DragonFruit.Six.Locale.Apps.Cards {
     using System;
     
     
