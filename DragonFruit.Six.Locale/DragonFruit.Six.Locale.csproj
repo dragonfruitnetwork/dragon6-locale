@@ -24,6 +24,16 @@
   </ItemGroup>
   
   <ItemGroup>
+    <Compile Update="Apps\Cards\Descriptions.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Descriptions.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Apps\Cards\Titles.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Titles.resx</DependentUpon>
+    </Compile>
     <Compile Update="Terminology.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
