@@ -317,4 +317,7 @@
   <data name="SearchPlayers" xml:space="preserve">
     <value>Search Players</value>
   </data>
+  <data name="ModeStats" xml:space="preserve">
+    <value>Mode Stats</value>
+  </data>
 </root>
