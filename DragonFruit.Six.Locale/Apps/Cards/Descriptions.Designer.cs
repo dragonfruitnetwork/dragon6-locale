@@ -19,7 +19,7 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Descriptions {
@@ -70,6 +70,15 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Experience Gained.
+        /// </summary>
+        public static string ExperienceGained {
+            get {
+                return ResourceManager.GetString("ExperienceGained", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to First played {0} (across {1:n0} sessions).
         /// </summary>
         public static string FirstSession {
@@ -97,7 +106,7 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0}: {1:n0} points.
+        ///   Looks up a localized string similar to {0:n0} points.
         /// </summary>
         public static string Highscore {
             get {
@@ -151,11 +160,29 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Matches Played.
+        /// </summary>
+        public static string MatchesPlayed {
+            get {
+                return ResourceManager.GetString("MatchesPlayed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0:n0} Melee Kills ({1:0.0}%).
         /// </summary>
         public static string Melee {
             get {
                 return ResourceManager.GetString("Melee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} played.
+        /// </summary>
+        public static string ModeTimePlayed {
+            get {
+                return ResourceManager.GetString("ModeTimePlayed", resourceCulture);
             }
         }
         
@@ -237,15 +264,6 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         public static string Suicides {
             get {
                 return ResourceManager.GetString("Suicides", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to {0}: {1}.
-        /// </summary>
-        public static string TimePlayed {
-            get {
-                return ResourceManager.GetString("TimePlayed", resourceCulture);
             }
         }
         

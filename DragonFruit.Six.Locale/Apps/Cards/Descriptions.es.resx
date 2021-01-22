@@ -176,10 +176,6 @@
   <data name="Suicides" xml:space="preserve">
     <value>{0:n0} Suicidios ({1:0.0}%)</value>
   </data>
-  <data name="TimePlayed" xml:space="preserve">
-    <value>{0}: {1}</value>
-    <comment>{0} mode | {1} time played (filled in by humanizer)</comment>
-  </data>
   <data name="Wl" xml:space="preserve">
     <value>{0:0.00} G/P ({1:n0} ganadas / {2:n0} perdidas)</value>
   </data>

@@ -130,7 +130,7 @@
     <value>K/D</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>W/L</value>
+    <value>{0:n0} W/L</value>
   </data>
   <data name="Kills" xml:space="preserve">
     <value>Kills</value>
@@ -154,7 +154,7 @@
     <value>Last Match</value>
   </data>
   <data name="Losses" xml:space="preserve">
-    <value>Losses</value>
+    <value>{0:n0} Losses</value>
   </data>
   <data name="Lost" xml:space="preserve">
     <value>Lost</value>
@@ -187,7 +187,7 @@
     <value>Weapon</value>
   </data>
   <data name="Wins" xml:space="preserve">
-    <value>Wins</value>
+    <value>{0:n0} Wins</value>
   </data>
   <data name="Won" xml:space="preserve">
     <value>Won</value>

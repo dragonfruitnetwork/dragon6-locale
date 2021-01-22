@@ -19,7 +19,7 @@ namespace DragonFruit.Six.Locale {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Terminology {
@@ -250,7 +250,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Losses.
+        ///   Looks up a localized string similar to {0:n0} Losses.
         /// </summary>
         public static string Losses {
             get {
@@ -403,7 +403,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wins.
+        ///   Looks up a localized string similar to {0:n0} Wins.
         /// </summary>
         public static string Wins {
             get {
@@ -412,7 +412,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to W/L.
+        ///   Looks up a localized string similar to {0:n0} W/L.
         /// </summary>
         public static string WL {
             get {
