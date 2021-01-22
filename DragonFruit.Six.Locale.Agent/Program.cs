@@ -73,6 +73,7 @@ namespace DragonFruit.Six.Locale.Agent
 
             foreach (var locale in ProjectInfo.SupportedLocales)
             {
+                string localeOverride = null;
                 ConsoleUtils.Write($"Processing {locale} files", ConsoleColor.Cyan);
 
                 var folder = Path.Combine(targetDir, locale);
@@ -86,9 +87,10 @@ namespace DragonFruit.Six.Locale.Agent
                 // decide if the files needs renaming
                 if (ProjectInfo.LocaleMapping.ContainsKey(locale))
                 {
+                    localeOverride = ProjectInfo.LocaleMapping[locale];
                     foreach (var file in Directory.GetFiles(folder, "*.resx", SearchOption.AllDirectories))
                     {
-                        var newFileName = file.Replace($".{locale}", $".{ProjectInfo.LocaleMapping[locale]}");
+                        var newFileName = file.Replace($".{locale}", $".{localeOverride}");
                         File.Move(file, newFileName);
                     }
                 }
@@ -109,7 +111,7 @@ namespace DragonFruit.Six.Locale.Agent
                         ? Path.Combine(new[] {LocaleBase}.Concat(ProjectFiles.PathMapping[fileName]).ToArray())
                         : LocaleBase;
 
-                    File.Copy(file, Path.Combine(destination, $"{fileName}.{locale}.resx"), true);
+                    File.Copy(file, Path.Combine(destination, $"{fileName}.{localeOverride ?? locale}.resx"), true);
                 }
 
                 OperationComplete();
