@@ -131,7 +131,7 @@
         <value>Mitrailleuse légère</value>
     </data>
     <data name="Sniper" xml:space="preserve">
-        <value>Fusil de Précision</value>
+        <value>Fusil sniper</value>
     </data>
     <data name="Pistol" xml:space="preserve">
         <value>Pistolet</value>

@@ -185,7 +185,7 @@
     <value>Jogadores Recentes</value>
   </data>
   <data name="SavePlayerTip" xml:space="preserve">
-    <value>Dica: Toque duas vezes no cartão de um jogador para salvá-lo</value>
+    <value>Dica: Toque duas vezes no cartão de outros jogadores para salvá-los</value>
   </data>
   <data name="SearchingForAccount" xml:space="preserve">
     <value>Procurando {0} em {1}</value>
@@ -316,5 +316,8 @@
   </data>
   <data name="SearchPlayers" xml:space="preserve">
     <value>Procurar Jogadores</value>
+  </data>
+  <data name="ModeStats" xml:space="preserve">
+    <value>Estatísticas do Modo</value>
   </data>
 </root>

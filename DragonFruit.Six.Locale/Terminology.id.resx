@@ -129,9 +129,7 @@
   <data name="KD" xml:space="preserve">
     <value>K/D</value>
   </data>
-  <data name="WL" xml:space="preserve">
-    <value>W/L</value>
-  </data>
+  
   <data name="Kills" xml:space="preserve">
     <value>Membunuh</value>
   </data>
@@ -153,9 +151,7 @@
   <data name="LastMatch" xml:space="preserve">
     <value>Pertandingan Terakhir</value>
   </data>
-  <data name="Losses" xml:space="preserve">
-    <value>Kekalahan</value>
-  </data>
+  
   <data name="Lost" xml:space="preserve">
     <value>Kalah</value>
   </data>
@@ -186,9 +182,7 @@
   <data name="Weapon" xml:space="preserve">
     <value>Senjata</value>
   </data>
-  <data name="Wins" xml:space="preserve">
-    <value>Menang</value>
-  </data>
+  
   <data name="Won" xml:space="preserve">
     <value>Menang</value>
   </data>
@@ -209,9 +203,6 @@
   </data>
   <data name="DefenderShort" xml:space="preserve">
     <value>DEF</value>
-  </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistol</value>
   </data>
   <data name="Seasonal" xml:space="preserve">
     <value>Permusim</value>

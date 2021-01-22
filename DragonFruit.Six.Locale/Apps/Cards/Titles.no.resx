@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CasualKd" xml:space="preserve">
-    <value>Alminnelig M/D</value>
+    <value>Uformell M/D</value>
   </data>
   <data name="CasualWl" xml:space="preserve">
-    <value>Alminnelig S/T</value>
+    <value>Uformell S/T</value>
   </data>
   <data name="DownsRevives" xml:space="preserve">
     <value>Nedslag vs gjenopplivninger</value>
@@ -192,4 +192,5 @@
   <data name="SortBy" xml:space="preserve">
     <value>Sorter etter</value>
   </data>
+  
 </root>

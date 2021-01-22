@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="NoInternet" xml:space="preserve">
-    <value>Dragon6'yı kullanmak için internet bağlantısı gereklidir</value>
+    <value>Dragon6'yı kullanmak için bir internet bağlantısı gereklidir</value>
   </data>
   <data name="PlayerNotFound" xml:space="preserve">
     <value>Oyuncu {0}, {1} tarihinde bulunamadı. \n Lütfen kullanıcı adını doğru girip girmediğinizi kontrol edin (killfeed'de gösterildiği gibi) ve tekrar deneyin \n Sorun devam ederse, daha sonra tekrar deneyin</value>

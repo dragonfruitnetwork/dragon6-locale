@@ -130,7 +130,7 @@
     <value>É/M</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>V/D</value>
+    <value>{0:n0} V/D</value>
   </data>
   <data name="Kills" xml:space="preserve">
     <value>Éliminations</value>
@@ -154,7 +154,7 @@
     <value>Dernier match</value>
   </data>
   <data name="Losses" xml:space="preserve">
-    <value>Perdus</value>
+    <value>{0:n0} défaites</value>
   </data>
   <data name="Lost" xml:space="preserve">
     <value>Perdu</value>
@@ -187,7 +187,7 @@
     <value>Arme</value>
   </data>
   <data name="Wins" xml:space="preserve">
-    <value>Gagnés</value>
+    <value>{0:n0} victoires</value>
   </data>
   <data name="Won" xml:space="preserve">
     <value>Gagné</value>
@@ -210,9 +210,6 @@
   <data name="DefenderShort" xml:space="preserve">
     <value>DÉF</value>
   </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistolet</value>
-  </data>
   <data name="Seasonal" xml:space="preserve">
     <value>Saison</value>
   </data>
@@ -232,7 +229,7 @@
     <value>Assists</value>
   </data>
   <data name="Headshots" xml:space="preserve">
-    <value>Tirs dans la tête</value>
+    <value>Tirs à la tête</value>
   </data>
   <data name="Suicides" xml:space="preserve">
     <value>Suicides</value>

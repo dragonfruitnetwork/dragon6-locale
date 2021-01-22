@@ -129,9 +129,7 @@
   <data name="KD" xml:space="preserve">
     <value>Z/S</value>
   </data>
-  <data name="WL" xml:space="preserve">
-    <value>V/P</value>
-  </data>
+  
   <data name="Kills" xml:space="preserve">
     <value>Zabití</value>
   </data>
@@ -153,9 +151,7 @@
   <data name="LastMatch" xml:space="preserve">
     <value>Poslední souboj</value>
   </data>
-  <data name="Losses" xml:space="preserve">
-    <value>Ztrát</value>
-  </data>
+  
   <data name="Lost" xml:space="preserve">
     <value>Prohra</value>
   </data>
@@ -186,9 +182,7 @@
   <data name="Weapon" xml:space="preserve">
     <value>Zbraň</value>
   </data>
-  <data name="Wins" xml:space="preserve">
-    <value>Výher</value>
-  </data>
+  
   <data name="Won" xml:space="preserve">
     <value>Vyhrané</value>
   </data>
@@ -209,9 +203,6 @@
   </data>
   <data name="DefenderShort" xml:space="preserve">
     <value>DEF</value>
-  </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistole</value>
   </data>
   <data name="Seasonal" xml:space="preserve">
     <value>Sezónní</value>

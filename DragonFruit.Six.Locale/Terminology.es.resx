@@ -130,7 +130,7 @@
     <value>A/M</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>V/D</value>
+    <value>{0:n0} G/P</value>
   </data>
   <data name="Kills" xml:space="preserve">
     <value>Asesinatos</value>
@@ -154,7 +154,7 @@
     <value>Última partida</value>
   </data>
   <data name="Losses" xml:space="preserve">
-    <value>Pérdidas</value>
+    <value>{0:n0} Pérdidas</value>
   </data>
   <data name="Lost" xml:space="preserve">
     <value>Perdida</value>
@@ -187,7 +187,7 @@
     <value>Arma</value>
   </data>
   <data name="Wins" xml:space="preserve">
-    <value>Gana</value>
+    <value>{0:n0} Ganadas</value>
   </data>
   <data name="Won" xml:space="preserve">
     <value>fue ganado</value>
@@ -209,9 +209,6 @@
   </data>
   <data name="DefenderShort" xml:space="preserve">
     <value>DEF</value>
-  </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistola</value>
   </data>
   <data name="Seasonal" xml:space="preserve">
     <value>Temporada</value>

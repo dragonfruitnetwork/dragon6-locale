@@ -139,7 +139,9 @@
     <data name="Shotgun" xml:space="preserve">
         <value>Hagle</value>
     </data>
-    
+    <data name="MachinePistol" xml:space="preserve">
+        <value>Maskinpistol</value>
+    </data>
     <data name="Shield" xml:space="preserve">
         <value>Skjold</value>
     </data>

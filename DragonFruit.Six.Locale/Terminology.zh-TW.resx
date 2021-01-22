@@ -129,9 +129,7 @@
   <data name="KD" xml:space="preserve">
     <value>戰損比</value>
   </data>
-  <data name="WL" xml:space="preserve">
-    <value>勝負比</value>
-  </data>
+  
   <data name="Kills" xml:space="preserve">
     <value>擊殺數</value>
   </data>
@@ -153,9 +151,7 @@
   <data name="LastMatch" xml:space="preserve">
     <value>最近場次</value>
   </data>
-  <data name="Losses" xml:space="preserve">
-    <value>負</value>
-  </data>
+  
   <data name="Lost" xml:space="preserve">
     <value>戰敗</value>
   </data>
@@ -186,9 +182,7 @@
   <data name="Weapon" xml:space="preserve">
     <value>武器</value>
   </data>
-  <data name="Wins" xml:space="preserve">
-    <value>勝</value>
-  </data>
+  
   <data name="Won" xml:space="preserve">
     <value>戰勝</value>
   </data>
@@ -209,9 +203,6 @@
   </data>
   <data name="DefenderShort" xml:space="preserve">
     <value>防守方</value>
-  </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>手槍</value>
   </data>
   <data name="Seasonal" xml:space="preserve">
     <value>賽季</value>
