@@ -439,7 +439,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0:n0} W/L.
+        ///   Looks up a localized string similar to {0:0.00} W/L.
         /// </summary>
         public static string WL {
             get {
