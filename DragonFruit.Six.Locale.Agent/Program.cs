@@ -1,27 +1,23 @@
-﻿using System;
-using System.Diagnostics;
+﻿// Dragon6 API Copyright 2021 DragonFruit Network <inbox@dragonfruit.network>
+// Licensed under MIT. Please refer to the LICENSE file for more info
+
+using System;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
-using System.Net;
-using DragonFruit.Common.Data;
 using DragonFruit.Six.Locale.Agent.Crowdin;
 using DragonFruit.Six.Locale.Agent.Crowdin.Requests;
 using DragonFruit.Six.Locale.Agent.Project;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 
 namespace DragonFruit.Six.Locale.Agent
 {
-    class Program
+    internal static class Program
     {
-        private static readonly string LocaleBase =
-            Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "source", "repos",
-                "DragonFruit.Six.Locale", "DragonFruit.Six.Locale");
+        private static readonly string LocaleBase = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "source", "repos", "DragonFruit.Six.Locale", "DragonFruit.Six.Locale");
 
         private static readonly CrowdinApiClient Client = new CrowdinApiClient();
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             ConsoleUtils.WriteLine("Dragon6 Locale Transfer Agent v0.1\n", ConsoleColor.Magenta);
 
@@ -37,8 +33,7 @@ namespace DragonFruit.Six.Locale.Agent
 
             if (Client.Login.Length != 2)
             {
-                ConsoleUtils.WriteLine($"Expected 2 segments of the login string, but found {Client.Login.Length}",
-                    ConsoleColor.Red);
+                ConsoleUtils.WriteLine($"Expected 2 segments of the login string, but found {Client.Login.Length}", ConsoleColor.Red);
                 Environment.Exit(-1);
             }
 
@@ -88,6 +83,7 @@ namespace DragonFruit.Six.Locale.Agent
                 if (ProjectInfo.LocaleMapping.ContainsKey(locale))
                 {
                     localeOverride = ProjectInfo.LocaleMapping[locale];
+
                     foreach (var file in Directory.GetFiles(folder, "*.resx", SearchOption.AllDirectories))
                     {
                         var newFileName = file.Replace($".{locale}", $".{localeOverride}");
@@ -108,7 +104,7 @@ namespace DragonFruit.Six.Locale.Agent
                     var fileName = string.Join('.', fileNameSegments.Take(fileNameSegments.Length - 1));
 
                     var destination = ProjectFiles.PathMapping.ContainsKey(fileName)
-                        ? Path.Combine(new[] {LocaleBase}.Concat(ProjectFiles.PathMapping[fileName]).ToArray())
+                        ? Path.Combine(new[] { LocaleBase }.Concat(ProjectFiles.PathMapping[fileName]).ToArray())
                         : LocaleBase;
 
                     File.Copy(file, Path.Combine(destination, $"{fileName}.{localeOverride ?? locale}.resx"), true);

@@ -1,9 +1,10 @@
-﻿using System;
+﻿// Dragon6 API Copyright 2021 DragonFruit Network <inbox@dragonfruit.network>
+// Licensed under MIT. Please refer to the LICENSE file for more info
+
+using System;
 using System.Net.Http;
-using System.Runtime.InteropServices.ComTypes;
 using DragonFruit.Common.Data;
 using DragonFruit.Common.Data.Serializers;
-using DragonFruit.Six.Locale.Agent.Crowdin;
 using DragonFruit.Six.Locale.Agent.Crowdin.Requests;
 
 namespace DragonFruit.Six.Locale.Agent
