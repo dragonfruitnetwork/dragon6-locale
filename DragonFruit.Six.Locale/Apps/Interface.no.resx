@@ -211,7 +211,9 @@
     <value>Ikke satt</value>
     <comment>like "theme not set"</comment>
   </data>
-  
+  <data name="UpdateAssets" xml:space="preserve">
+    <value>Oppdater ressurser</value>
+  </data>
   <data name="Back" xml:space="preserve">
     <value>Tilbake</value>
   </data>
@@ -288,7 +290,9 @@
   <data name="ClearSavedComplete" xml:space="preserve">
     <value>Lagrede profiler fjernet</value>
   </data>
-  
+  <data name="UpdateAssetsComplete" xml:space="preserve">
+    <value>Ressurser oppdatert</value>
+  </data>
   <data name="PlayersCleared" xml:space="preserve">
     <value>Spillere fjernet</value>
   </data>
@@ -313,4 +317,5 @@
   <data name="SearchPlayers" xml:space="preserve">
     <value>Søk spillere</value>
   </data>
+  
 </root>

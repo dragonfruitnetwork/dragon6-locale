@@ -192,4 +192,7 @@
   <data name="SortBy" xml:space="preserve">
     <value>Ordenar Por</value>
   </data>
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>Experiência Recebida</value>
+  </data>
 </root>

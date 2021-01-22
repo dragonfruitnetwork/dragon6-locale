@@ -126,10 +126,7 @@
   <data name="Headshots" xml:space="preserve">
     <value>{0:n0} Zásah do hlavy ({1:0.0}%)</value>
   </data>
-  <data name="Highscore" xml:space="preserve">
-    <value>{0}: {1:n0} bodů</value>
-    <comment>{0} mode | {1} score</comment>
-  </data>
+  
   <data name="Kd" xml:space="preserve">
     <value>{0:0.00} Z/S ({1:n0} Zabití / {2:n0} Smrtí)</value>
   </data>
@@ -176,6 +173,7 @@
   <data name="Suicides" xml:space="preserve">
     <value>{0:n0} Sebevražd ({1:0.0}%)</value>
   </data>
+  
   <data name="Wl" xml:space="preserve">
     <value>{0:0.00} W/L ({1:n0} výher / {2:n0} ztrát)</value>
   </data>
@@ -188,4 +186,6 @@
   <data name="KillCount" xml:space="preserve">
     <value>{0:n0} Zabití</value>
   </data>
+  
+  
 </root>

@@ -148,7 +148,7 @@
     <value>Bruker utilgjengelig</value>
   </data>
   <data name="CasualSeasonalError" xml:space="preserve">
-    <value>Det oppsto en feil med å få alminnelig statistikk for denne sesongen.\nLegg merke til at eldre sesonger kanskje ikke har statistikken registrert, eller at brukeren ikke fantes før sesongen</value>
+    <value>Det oppsto en feil med å få uformell statistikk for denne sesongen.\nLegg merke til at eldre sesonger kanskje ikke har statistikken registrert, eller at brukeren ikke fantes før sesongen</value>
   </data>
   <data name="GeneralSeasonalError" xml:space="preserve">
     <value>Det oppsto en feil med å få sesongstatistikker.\nVi har endret ditt valg av sesong tilbake til den nyeste for nå.\n\rVi har gitt beskjed til DragonFruit om denne feilen og vil jobbe med å fikse det så fort som mulig.</value>

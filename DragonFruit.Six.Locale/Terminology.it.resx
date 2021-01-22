@@ -129,9 +129,7 @@
   <data name="KD" xml:space="preserve">
     <value>U/M</value>
   </data>
-  <data name="WL" xml:space="preserve">
-    <value>V/P</value>
-  </data>
+  
   <data name="Kills" xml:space="preserve">
     <value>Uccisioni</value>
   </data>
@@ -153,9 +151,7 @@
   <data name="LastMatch" xml:space="preserve">
     <value>Ultima Partita</value>
   </data>
-  <data name="Losses" xml:space="preserve">
-    <value>Perdite</value>
-  </data>
+  
   <data name="Lost" xml:space="preserve">
     <value>Sconfitta</value>
   </data>
@@ -186,9 +182,7 @@
   <data name="Weapon" xml:space="preserve">
     <value>Arma</value>
   </data>
-  <data name="Wins" xml:space="preserve">
-    <value>Vittorie</value>
-  </data>
+  
   <data name="Won" xml:space="preserve">
     <value>Vinto</value>
   </data>
@@ -209,9 +203,6 @@
   </data>
   <data name="DefenderShort" xml:space="preserve">
     <value>DEF</value>
-  </data>
-  <data name="Pistol" xml:space="preserve">
-    <value>Pistola</value>
   </data>
   <data name="Seasonal" xml:space="preserve">
     <value>Stagionale</value>

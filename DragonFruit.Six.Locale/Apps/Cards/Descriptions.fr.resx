@@ -124,17 +124,17 @@
     <value>Joué pour la première fois {0} (sur {1:n0} sessions)</value>
   </data>
   <data name="Headshots" xml:space="preserve">
-    <value>{0:n0} Tirs dans la tête ({1:0.0}%)</value>
+    <value>{0:n0} tirs à la tête ({1:0.0}%)</value>
   </data>
   <data name="Highscore" xml:space="preserve">
-    <value>{0}: {1:n0} points</value>
+    <value>{0:n0} points</value>
     <comment>{0} mode | {1} score</comment>
   </data>
   <data name="Kd" xml:space="preserve">
-    <value>{0:0.00} K/D ({1:n0} Victimes / {2:n0} Morts)</value>
+    <value>{0:0.00} É/M ({1:n0} Éliminations / {2:n0} Morts)</value>
   </data>
   <data name="KillsPerRound" xml:space="preserve">
-    <value>{0:0.00} KPR ({1:n0} Victimes / {2:n0} Tours)</value>
+    <value>{0:0.00} É/T ({1:n0} Éliminations / {2:n0} Tours)</value>
   </data>
   <data name="LastMatch" xml:space="preserve">
     <value>Dernier match {0} ({1:n0} MMR)</value>
@@ -145,7 +145,7 @@
     <comment>{0} timespan from last login (humanizer filled)</comment>
   </data>
   <data name="Melee" xml:space="preserve">
-    <value>{0:n0} Kills en mêlée ({1:0.0}%)</value>
+    <value>{0:n0} victimes en mêlée ({1:0.0}%)</value>
   </data>
   <data name="NextRank" xml:space="preserve">
     <value>{0} MMR pour {1} ({2}%)</value>
@@ -156,7 +156,7 @@
     <comment>{0} season name (e.g Steel Wave)</comment>
   </data>
   <data name="OperatorSummary" xml:space="preserve">
-    <value>{0:0.00} K/D · {1:0.00} W/L · {2}</value>
+    <value>{0:0.00} É/M · {1:0.00} V/D · {2}</value>
     <comment>{2} time played</comment>
   </data>
   <data name="Penetrations" xml:space="preserve">
@@ -174,7 +174,11 @@
     <value>{0:0.00} ({1:n0} Victoires / {2:n0} Défaites + {2:n0} Abandons)</value>
   </data>
   <data name="Suicides" xml:space="preserve">
-    <value>{0:n0} Suicides ({1:0.0}%)</value>
+    <value>{0:n0} suicides ({1:0.0}%)</value>
+  </data>
+  <data name="ModeTimePlayed" xml:space="preserve">
+    <value>{0} joué</value>
+    <comment>{0} mode | {1} time played (filled in by humanizer)</comment>
   </data>
   <data name="Wl" xml:space="preserve">
     <value>{0:0.00} V/D ({1:n0} Victoires / {2:n0} Défaites)</value>
@@ -183,9 +187,15 @@
     <value>pas encore joué</value>
   </data>
   <data name="HeadshotsCount" xml:space="preserve">
-    <value>{0:n0} Tirs à la tête</value>
+    <value>{0:n0} tirs à la tête</value>
   </data>
   <data name="KillCount" xml:space="preserve">
-    <value>{0:n0} Victimes</value>
+    <value>{0:n0} éliminations</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>{0:n0} matchs joués</value>
+  </data>
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>{0:n0} points d'expérience gagnés</value>
   </data>
 </root>
