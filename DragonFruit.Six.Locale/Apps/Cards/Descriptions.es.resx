@@ -198,4 +198,7 @@
   <data name="ExperienceGained" xml:space="preserve">
     <value>{0:n0} experiencia ganada</value>
   </data>
+  <data name="WeaponPicks" xml:space="preserve">
+    <value>{0:n0} Picos</value>
+  </data>
 </root>

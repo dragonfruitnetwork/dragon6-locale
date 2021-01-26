@@ -124,9 +124,11 @@
     <data name="AssaultRifle" xml:space="preserve">
         <value>Штурмовая винтовка</value>
     </data>
-    
+    <data name="SubmachineGun" xml:space="preserve">
+        <value>Автомат</value>
+    </data>
     <data name="LightMachineGun" xml:space="preserve">
-        <value>Лёгкий Пулемет</value>
+        <value>Ручной пулемет</value>
     </data>
     <data name="Sniper" xml:space="preserve">
         <value>Снайперская винтовка</value>
