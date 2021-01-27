@@ -151,6 +151,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Deaths.
+        /// </summary>
+        public static string DeathsCount {
+            get {
+                return ResourceManager.GetString("DeathsCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Defender.
         /// </summary>
         public static string Defender {
@@ -183,6 +192,15 @@ namespace DragonFruit.Six.Locale {
         public static string Downs {
             get {
                 return ResourceManager.GetString("Downs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Downs.
+        /// </summary>
+        public static string DownsCount {
+            get {
+                return ResourceManager.GetString("DownsCount", resourceCulture);
             }
         }
         
@@ -331,6 +349,15 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Revives.
+        /// </summary>
+        public static string RevivesCount {
+            get {
+                return ResourceManager.GetString("RevivesCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Seasonal.
         /// </summary>
         public static string Seasonal {
@@ -412,11 +439,20 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0:n0} W/L.
+        ///   Looks up a localized string similar to {0:0.00} W/L.
         /// </summary>
         public static string WL {
             get {
                 return ResourceManager.GetString("WL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to W/L.
+        /// </summary>
+        public static string WLName {
+            get {
+                return ResourceManager.GetString("WLName", resourceCulture);
             }
         }
         

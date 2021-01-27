@@ -268,6 +268,15 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Picks.
+        /// </summary>
+        public static string WeaponPicks {
+            get {
+                return ResourceManager.GetString("WeaponPicks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0:0.00} W/L ({1:n0} Wins / {2:n0} Losses).
         /// </summary>
         public static string Wl {

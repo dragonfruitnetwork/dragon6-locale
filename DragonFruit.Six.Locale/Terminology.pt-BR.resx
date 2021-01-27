@@ -240,4 +240,16 @@
   <data name="Time" xml:space="preserve">
     <value>Tempo</value>
   </data>
+  <data name="DownsCount" xml:space="preserve">
+    <value>{0:n0} Baixas</value>
+  </data>
+  <data name="RevivesCount" xml:space="preserve">
+    <value>{0:n0} Reanimações</value>
+  </data>
+  <data name="DeathsCount" xml:space="preserve">
+    <value>{0:n0} Mortes</value>
+  </data>
+  <data name="WLName" xml:space="preserve">
+    <value>V/D</value>
+  </data>
 </root>

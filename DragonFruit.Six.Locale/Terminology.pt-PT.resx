@@ -130,7 +130,7 @@
     <value>E/M</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>{0:n0} V/D</value>
+    <value>{0:0.00} V/D</value>
   </data>
   <data name="Kills" xml:space="preserve">
     <value>Eliminações</value>
@@ -239,5 +239,17 @@
   </data>
   <data name="Time" xml:space="preserve">
     <value>Tempo</value>
+  </data>
+  <data name="DownsCount" xml:space="preserve">
+    <value>{0:n0} Baixas</value>
+  </data>
+  <data name="RevivesCount" xml:space="preserve">
+    <value>{0:n0} Reanimações</value>
+  </data>
+  <data name="DeathsCount" xml:space="preserve">
+    <value>{0:n0} Mortes</value>
+  </data>
+  <data name="WLName" xml:space="preserve">
+    <value>V/D</value>
   </data>
 </root>

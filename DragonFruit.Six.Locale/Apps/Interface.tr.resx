@@ -317,5 +317,7 @@
   <data name="SearchPlayers" xml:space="preserve">
     <value>Oyuncu Ara</value>
   </data>
-  
+  <data name="ModeStats" xml:space="preserve">
+    <value>Modu İstatistikleri</value>
+  </data>
 </root>

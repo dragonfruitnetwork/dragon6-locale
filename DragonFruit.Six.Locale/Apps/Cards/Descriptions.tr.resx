@@ -126,7 +126,10 @@
   <data name="Headshots" xml:space="preserve">
     <value>{0:n0} Kafadan vurulan (% {1:0.0})</value>
   </data>
-  
+  <data name="Highscore" xml:space="preserve">
+    <value>{0:n0}: puan</value>
+    <comment>{0} mode | {1} score</comment>
+  </data>
   <data name="Kd" xml:space="preserve">
     <value>{0:0.00} Ö / Ö ({1:n0} Öldürme / {2:n0} Ölme)</value>
   </data>
@@ -186,6 +189,7 @@
   <data name="KillCount" xml:space="preserve">
     <value>{0:n0} Öldürme</value>
   </data>
+  
   
   
 </root>

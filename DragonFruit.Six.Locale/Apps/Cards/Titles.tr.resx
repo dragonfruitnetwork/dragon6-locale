@@ -192,5 +192,7 @@
   <data name="SortBy" xml:space="preserve">
     <value>Sırala</value>
   </data>
-  
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>Kazanılan Deneyim</value>
+  </data>
 </root>

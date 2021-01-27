@@ -234,4 +234,10 @@
   <data name="Time" xml:space="preserve">
     <value>Waktu</value>
   </data>
+  
+  
+  
+  <data name="WLName" xml:space="preserve">
+    <value>W/L</value>
+  </data>
 </root>

@@ -130,7 +130,7 @@
     <value>A/M</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>{0:n0} G/P</value>
+    <value>{0:0.00} V/D</value>
   </data>
   <data name="Kills" xml:space="preserve">
     <value>Asesinatos</value>
@@ -239,5 +239,17 @@
   </data>
   <data name="Time" xml:space="preserve">
     <value>Tiempo</value>
+  </data>
+  <data name="DownsCount" xml:space="preserve">
+    <value>{0:n0} Derribos</value>
+  </data>
+  <data name="RevivesCount" xml:space="preserve">
+    <value>{0:n0} Reanimaciones</value>
+  </data>
+  <data name="DeathsCount" xml:space="preserve">
+    <value>{0:n0} Muertes</value>
+  </data>
+  <data name="WLName" xml:space="preserve">
+    <value>V/D</value>
   </data>
 </root>
