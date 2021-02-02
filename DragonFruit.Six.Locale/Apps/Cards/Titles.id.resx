@@ -192,5 +192,7 @@
   <data name="SortBy" xml:space="preserve">
     <value>Urutkan berdasarkan</value>
   </data>
-  
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>Pengalaman yang didapat</value>
+  </data>
 </root>
