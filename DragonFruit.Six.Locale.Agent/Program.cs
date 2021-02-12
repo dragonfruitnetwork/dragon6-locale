@@ -13,7 +13,8 @@ namespace DragonFruit.Six.Locale.Agent
 {
     internal static class Program
     {
-        private static readonly string LocaleBase = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "source", "repos", "DragonFruit.Six.Locale", "DragonFruit.Six.Locale");
+        private static readonly string LocaleBase = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "source", "repos", "DragonFruit.Six.Locale",
+            "DragonFruit.Six.Locale");
 
         private static readonly CrowdinApiClient Client = new CrowdinApiClient();
 
@@ -69,7 +70,7 @@ namespace DragonFruit.Six.Locale.Agent
             foreach (var locale in ProjectInfo.SupportedLocales)
             {
                 string localeOverride = null;
-                ConsoleUtils.Write($"Processing {locale} files", ConsoleColor.Cyan);
+                ConsoleUtils.Write($"Processing {locale} files".PadRight(20), ConsoleColor.Cyan);
 
                 var folder = Path.Combine(targetDir, locale);
 
@@ -112,6 +113,8 @@ namespace DragonFruit.Six.Locale.Agent
 
                 OperationComplete();
             }
+
+            ConsoleUtils.WriteLine("\nFile transfer Complete", ConsoleColor.Green);
         }
 
         private static void OperationComplete() => ConsoleUtils.WriteLine(" Complete", ConsoleColor.Green);
