@@ -247,7 +247,7 @@
     <comment>{0} username</comment>
   </data>
   <data name="OperatorStats" xml:space="preserve">
-    <value>Estatísticas do(a) Agente</value>
+    <value>Estatísticas de Agentes</value>
   </data>
   <data name="RemoveUser" xml:space="preserve">
     <value>Remover {0} da sua página inicial?</value>
@@ -318,6 +318,6 @@
     <value>Procurar Jogadores</value>
   </data>
   <data name="ModeStats" xml:space="preserve">
-    <value>Estatísticas do Modo</value>
+    <value>Estatísticas de Modos</value>
   </data>
 </root>
