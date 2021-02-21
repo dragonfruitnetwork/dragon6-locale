@@ -241,7 +241,7 @@
     <value>Temps</value>
   </data>
   <data name="DownsCount" xml:space="preserve">
-    <value>{0:n0} Incapacités</value>
+    <value>{0:n0} Pertes</value>
   </data>
   <data name="RevivesCount" xml:space="preserve">
     <value>{0:n0} Réanimations</value>
