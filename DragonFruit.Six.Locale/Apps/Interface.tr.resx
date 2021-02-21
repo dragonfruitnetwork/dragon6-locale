@@ -176,7 +176,7 @@
     <comment>{0} filter mode (attacker, defender, none)</comment>
   </data>
   <data name="None" xml:space="preserve">
-    <value>Hiç biri</value>
+    <value>Hiçbiri</value>
   </data>
   <data name="PlayerStats" xml:space="preserve">
     <value>Oyuncu İstatistikleri</value>

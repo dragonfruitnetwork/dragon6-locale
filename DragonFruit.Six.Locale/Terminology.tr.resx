@@ -223,7 +223,7 @@
     <value>Seviye {0}</value>
   </data>
   <data name="Secure" xml:space="preserve">
-    <value>Güvenli</value>
+    <value>güvenli</value>
   </data>
   <data name="Assists" xml:space="preserve">
     <value>Asist</value>
