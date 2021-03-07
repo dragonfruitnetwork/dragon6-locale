@@ -317,5 +317,7 @@
   <data name="SearchPlayers" xml:space="preserve">
     <value>Vyhledat hráče</value>
   </data>
-  
+  <data name="ModeStats" xml:space="preserve">
+    <value>Statistiky režimu</value>
+  </data>
 </root>
