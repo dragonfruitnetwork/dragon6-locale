@@ -61,6 +61,15 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Blindkills.
+        /// </summary>
+        public static string Blindkills {
+            get {
+                return ResourceManager.GetString("Blindkills", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Casual K/D.
         /// </summary>
         public static string CasualKd {
@@ -120,6 +129,15 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         public static string HighestRank {
             get {
                 return ResourceManager.GetString("HighestRank", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Kills/Match.
+        /// </summary>
+        public static string KillsPerMatch {
+            get {
+                return ResourceManager.GetString("KillsPerMatch", resourceCulture);
             }
         }
         
