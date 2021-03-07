@@ -207,4 +207,7 @@
   <data name="Blindkills" xml:space="preserve">
     <value>{0:n0} Blindkills ({1:0.0}%)</value>
   </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>{0:n0} Kill Assists</value>
+  </data>
 </root>

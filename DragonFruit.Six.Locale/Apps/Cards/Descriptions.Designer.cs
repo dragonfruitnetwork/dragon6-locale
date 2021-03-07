@@ -133,6 +133,15 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0:n0} Kill Assists.
+        /// </summary>
+        public static string KillAssists {
+            get {
+                return ResourceManager.GetString("KillAssists", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0:n0} Kills.
         /// </summary>
         public static string KillCount {
