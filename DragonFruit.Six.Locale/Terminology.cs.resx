@@ -121,10 +121,10 @@
     <value>Základní</value>
   </data>
   <data name="Ranked" xml:space="preserve">
-    <value>Hodnoceno</value>
+    <value>Hodnocené</value>
   </data>
   <data name="Unranked" xml:space="preserve">
-    <value>Nehodnoceno</value>
+    <value>Nehodnocené</value>
   </data>
   <data name="KD" xml:space="preserve">
     <value>Z/S</value>
@@ -151,7 +151,9 @@
   <data name="LastMatch" xml:space="preserve">
     <value>Poslední souboj</value>
   </data>
-  
+  <data name="Losses" xml:space="preserve">
+    <value>{0:n0} Proher</value>
+  </data>
   <data name="Lost" xml:space="preserve">
     <value>Prohra</value>
   </data>
@@ -182,7 +184,9 @@
   <data name="Weapon" xml:space="preserve">
     <value>Zbraň</value>
   </data>
-  
+  <data name="Wins" xml:space="preserve">
+    <value>{0:n0} Výher</value>
+  </data>
   <data name="Won" xml:space="preserve">
     <value>Vyhrané</value>
   </data>
@@ -235,7 +239,13 @@
     <value>Čas</value>
   </data>
   
-  
-  
-  
+  <data name="RevivesCount" xml:space="preserve">
+    <value>{0:n0} oživení</value>
+  </data>
+  <data name="DeathsCount" xml:space="preserve">
+    <value>{0:n0} úmrtí</value>
+  </data>
+  <data name="WLName" xml:space="preserve">
+    <value>W/L</value>
+  </data>
 </root>

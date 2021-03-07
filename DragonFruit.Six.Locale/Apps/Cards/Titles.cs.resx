@@ -192,5 +192,7 @@
   <data name="SortBy" xml:space="preserve">
     <value>Seřadit podle</value>
   </data>
-  
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>Získané Zkušenosti</value>
+  </data>
 </root>

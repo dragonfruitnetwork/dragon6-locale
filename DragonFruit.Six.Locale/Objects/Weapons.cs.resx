@@ -142,6 +142,10 @@
     <data name="MachinePistol" xml:space="preserve">
         <value>Strojní pistole</value>
     </data>
-    
-    
+    <data name="Shield" xml:space="preserve">
+        <value>štít</value>
+    </data>
+    <data name="Launcher" xml:space="preserve">
+        <value>Spouštěč</value>
+    </data>
 </root>
