@@ -195,4 +195,16 @@
   <data name="ExperienceGained" xml:space="preserve">
     <value>Experience Gained</value>
   </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Kills/Match</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>Blindkills</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Matches Played</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Kill Assists</value>
+  </data>
 </root>

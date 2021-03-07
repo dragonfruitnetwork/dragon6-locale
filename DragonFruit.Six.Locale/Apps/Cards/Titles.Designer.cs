@@ -61,6 +61,15 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Blindkills.
+        /// </summary>
+        public static string Blindkills {
+            get {
+                return ResourceManager.GetString("Blindkills", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Casual K/D.
         /// </summary>
         public static string CasualKd {
@@ -124,6 +133,24 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Kill Assists.
+        /// </summary>
+        public static string KillAssists {
+            get {
+                return ResourceManager.GetString("KillAssists", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Kills/Match.
+        /// </summary>
+        public static string KillsPerMatch {
+            get {
+                return ResourceManager.GetString("KillsPerMatch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Kills/Round.
         /// </summary>
         public static string KillsPerRound {
@@ -138,6 +165,15 @@ namespace DragonFruit.Six.Locale.Apps.Cards {
         public static string LastMatch {
             get {
                 return ResourceManager.GetString("LastMatch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Matches Played.
+        /// </summary>
+        public static string MatchesPlayed {
+            get {
+                return ResourceManager.GetString("MatchesPlayed", resourceCulture);
             }
         }
         
