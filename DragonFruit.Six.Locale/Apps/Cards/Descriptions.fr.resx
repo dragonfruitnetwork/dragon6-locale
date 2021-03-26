@@ -201,4 +201,13 @@
   <data name="WeaponPicks" xml:space="preserve">
     <value>{0:n0} Sélections</value>
   </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>{0:0.00} Victimes/Match ({1:n0} Victimes / {2:n0} Matchs)</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>{0:n0} Tués à l'aveugle ({1:0.0}%)</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>{0:n0} Aides pour tuer</value>
+  </data>
 </root>

@@ -195,4 +195,16 @@
   <data name="ExperienceGained" xml:space="preserve">
     <value>Experiência Recebida</value>
   </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Eliminações/Partida</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>Eliminações as Cegas</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Partidas Jogadas</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Assistências de Eliminações</value>
+  </data>
 </root>

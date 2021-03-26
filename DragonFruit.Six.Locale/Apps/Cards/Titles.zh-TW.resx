@@ -192,5 +192,15 @@
   <data name="SortBy" xml:space="preserve">
     <value>排序:</value>
   </data>
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>獲得經驗值</value>
+  </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>擊殺/場數</value>
+  </data>
   
+  
+  <data name="KillAssists" xml:space="preserve">
+    <value>助攻</value>
+  </data>
 </root>

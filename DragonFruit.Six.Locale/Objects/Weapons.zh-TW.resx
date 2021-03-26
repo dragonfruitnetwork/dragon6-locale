@@ -124,9 +124,15 @@
     <data name="AssaultRifle" xml:space="preserve">
         <value>突擊步槍</value>
     </data>
-    
-    
-    
+    <data name="SubmachineGun" xml:space="preserve">
+        <value>衝鋒槍</value>
+    </data>
+    <data name="LightMachineGun" xml:space="preserve">
+        <value>輕機槍</value>
+    </data>
+    <data name="Sniper" xml:space="preserve">
+        <value>狙擊步槍</value>
+    </data>
     <data name="Pistol" xml:space="preserve">
         <value>手槍</value>
     </data>
@@ -136,6 +142,10 @@
     <data name="MachinePistol" xml:space="preserve">
         <value>自動手槍</value>
     </data>
-    
-    
+    <data name="Shield" xml:space="preserve">
+        <value>盾牌</value>
+    </data>
+    <data name="Launcher" xml:space="preserve">
+        <value>榴彈發射器</value>
+    </data>
 </root>

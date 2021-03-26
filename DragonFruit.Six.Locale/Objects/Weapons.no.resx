@@ -128,7 +128,7 @@
         <value>Maskinpistol</value>
     </data>
     <data name="LightMachineGun" xml:space="preserve">
-        <value>Lys maskingevær</value>
+        <value>Lett maskingevær</value>
     </data>
     <data name="Sniper" xml:space="preserve">
         <value>Skarpskyttergevær</value>
