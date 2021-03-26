@@ -195,4 +195,16 @@
   <data name="ExperienceGained" xml:space="preserve">
     <value>Kazanılan Deneyim</value>
   </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Leşler/Maç</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>Kör Vuruşlar</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Oynanılan Maçlar</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Asistler</value>
+  </data>
 </root>

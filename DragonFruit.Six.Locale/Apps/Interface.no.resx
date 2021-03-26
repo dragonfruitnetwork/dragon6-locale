@@ -317,5 +317,7 @@
   <data name="SearchPlayers" xml:space="preserve">
     <value>Søk spillere</value>
   </data>
-  
+  <data name="ModeStats" xml:space="preserve">
+    <value>Modusstatistikk</value>
+  </data>
 </root>

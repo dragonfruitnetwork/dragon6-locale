@@ -317,5 +317,7 @@
   <data name="SearchPlayers" xml:space="preserve">
     <value>搜尋玩家</value>
   </data>
-  
+  <data name="ModeStats" xml:space="preserve">
+    <value>模式資料</value>
+  </data>
 </root>

@@ -192,5 +192,19 @@
   <data name="SortBy" xml:space="preserve">
     <value>Sorter etter</value>
   </data>
-  
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>Erfaring fått</value>
+  </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Mord/Kamp</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>Mord i blinde</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Kamper spilt</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Mordassistanser</value>
+  </data>
 </root>

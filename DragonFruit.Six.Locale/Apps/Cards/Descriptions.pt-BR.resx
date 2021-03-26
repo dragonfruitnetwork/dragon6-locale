@@ -201,4 +201,13 @@
   <data name="WeaponPicks" xml:space="preserve">
     <value>{0:n0} Vezes selecionada</value>
   </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>{0:0.00} Eliminações/Partida ({1:n0} Eliminações / {2:n0} Partidas)</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>{0:n0} Eliminações as Cegas ({1:0.0}%)</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>{0:n0} Assistências de Eliminação</value>
+  </data>
 </root>

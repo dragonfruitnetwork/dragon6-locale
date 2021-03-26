@@ -201,4 +201,13 @@
   <data name="WeaponPicks" xml:space="preserve">
     <value>{0:n0} Picos</value>
   </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>{0:0.00} Asesinatos/Match ({1:n0} Asesinatos / {2:n0} Partidas)</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>{0:n0} Asesinatos sin vista ({1:0.0}%)</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>{0:n0} Asistencias con Asesinatos</value>
+  </data>
 </root>

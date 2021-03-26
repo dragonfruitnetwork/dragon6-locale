@@ -129,7 +129,9 @@
   <data name="KD" xml:space="preserve">
     <value>M/D</value>
   </data>
-  
+  <data name="WL" xml:space="preserve">
+    <value>{0:0.00} S/T</value>
+  </data>
   <data name="Kills" xml:space="preserve">
     <value>Mord</value>
   </data>
@@ -151,7 +153,9 @@
   <data name="LastMatch" xml:space="preserve">
     <value>Siste match</value>
   </data>
-  
+  <data name="Losses" xml:space="preserve">
+    <value>{0:n0} Tap</value>
+  </data>
   <data name="Lost" xml:space="preserve">
     <value>Tapt</value>
   </data>
@@ -182,7 +186,9 @@
   <data name="Weapon" xml:space="preserve">
     <value>Våpen</value>
   </data>
-  
+  <data name="Wins" xml:space="preserve">
+    <value>{0:n0} Seire</value>
+  </data>
   <data name="Won" xml:space="preserve">
     <value>Vunnet</value>
   </data>
@@ -234,8 +240,16 @@
   <data name="Time" xml:space="preserve">
     <value>Tid</value>
   </data>
-  
-  
-  
-  
+  <data name="DownsCount" xml:space="preserve">
+    <value>{0:n0} Nedslag</value>
+  </data>
+  <data name="RevivesCount" xml:space="preserve">
+    <value>{0:n0} Gjenopplivninger</value>
+  </data>
+  <data name="DeathsCount" xml:space="preserve">
+    <value>{0:n0} Dødsfall</value>
+  </data>
+  <data name="WLName" xml:space="preserve">
+    <value>S/T</value>
+  </data>
 </root>
