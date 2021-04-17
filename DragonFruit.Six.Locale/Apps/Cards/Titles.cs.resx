@@ -195,8 +195,16 @@
   <data name="ExperienceGained" xml:space="preserve">
     <value>Získané Zkušenosti</value>
   </data>
-  
-  
-  
-  
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Zabití/zápas</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>Slepá zabití</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Odehrané zápasy</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Asistance při zabití</value>
+  </data>
 </root>
