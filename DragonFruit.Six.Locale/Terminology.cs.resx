@@ -129,7 +129,9 @@
   <data name="KD" xml:space="preserve">
     <value>Z/S</value>
   </data>
-  
+  <data name="WL" xml:space="preserve">
+    <value>{0:0.00} W/L</value>
+  </data>
   <data name="Kills" xml:space="preserve">
     <value>Zabití</value>
   </data>
@@ -238,7 +240,9 @@
   <data name="Time" xml:space="preserve">
     <value>Čas</value>
   </data>
-  
+  <data name="DownsCount" xml:space="preserve">
+    <value>{0:n0} Downs</value>
+  </data>
   <data name="RevivesCount" xml:space="preserve">
     <value>{0:n0} oživení</value>
   </data>

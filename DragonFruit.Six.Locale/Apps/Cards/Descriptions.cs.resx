@@ -126,7 +126,10 @@
   <data name="Headshots" xml:space="preserve">
     <value>{0:n0} Zásah do hlavy ({1:0.0}%)</value>
   </data>
-  
+  <data name="Highscore" xml:space="preserve">
+    <value>{0:n0} body</value>
+    <comment>{0} mode | {1} score</comment>
+  </data>
   <data name="Kd" xml:space="preserve">
     <value>{0:0.00} Z/S ({1:n0} Zabití / {2:n0} Smrtí)</value>
   </data>
@@ -173,7 +176,10 @@
   <data name="Suicides" xml:space="preserve">
     <value>{0:n0} Sebevražd ({1:0.0}%)</value>
   </data>
-  
+  <data name="ModeTimePlayed" xml:space="preserve">
+    <value>{0} hráno</value>
+    <comment>{0} mode | {1} time played (filled in by humanizer)</comment>
+  </data>
   <data name="Wl" xml:space="preserve">
     <value>{0:0.00} W/L ({1:n0} výher / {2:n0} ztrát)</value>
   </data>
@@ -186,10 +192,22 @@
   <data name="KillCount" xml:space="preserve">
     <value>{0:n0} Zabití</value>
   </data>
-  
-  
-  
-  
-  
-  
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>{0:n0} odehrané zápasy</value>
+  </data>
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>{0:n0} Získané zkušenosti</value>
+  </data>
+  <data name="WeaponPicks" xml:space="preserve">
+    <value>{0:n0} Sebráno</value>
+  </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>{0:0.00} zabití/zápas ({1:n0} zabití / {2:n0} zápasy)</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>{0:n0} Slepé zabití ({1:0.0}%)</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>{0:n0} Asistancí při zabití</value>
+  </data>
 </root>
