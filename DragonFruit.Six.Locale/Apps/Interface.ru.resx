@@ -139,7 +139,7 @@
     <value>Поделиться</value>
   </data>
   <data name="General" xml:space="preserve">
-    <value>Общие</value>
+    <value>Общее</value>
   </data>
   <data name="Other" xml:space="preserve">
     <value>Разное</value>
@@ -148,7 +148,7 @@
     <value>Очистить</value>
   </data>
   <data name="Default" xml:space="preserve">
-    <value>Стандартно</value>
+    <value>По умолчанию</value>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Имя</value>
@@ -166,7 +166,7 @@
     <value>Удалить сохраненные профили</value>
   </data>
   <data name="DarkTheme" xml:space="preserve">
-    <value>Темная Тема</value>
+    <value>Темная тема</value>
   </data>
   <data name="DefaultPlatform" xml:space="preserve">
     <value>Платформа по умолчанию</value>
@@ -195,24 +195,24 @@
     <value>Поиск операторов</value>
   </data>
   <data name="SearchRecents" xml:space="preserve">
-    <value>Искать последних игроков</value>
+    <value>Искать недавних игроков</value>
   </data>
   <data name="SeasonChangeTip" xml:space="preserve">
-    <value>Подсказка: Нажмите на верхнюю карту, чтобы изменить сезон</value>
+    <value>Подсказка: Нажмите на верхнюю карту, чтобы изменить сезоны</value>
   </data>
   <data name="ServerSetTheme" xml:space="preserve">
-    <value>Установленная сервером тема</value>
+    <value>Тема, установленная на сервере</value>
   </data>
   <data name="SortBy" xml:space="preserve">
     <value>Сортировать по: {0}</value>
     <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
   </data>
   <data name="Unset" xml:space="preserve">
-    <value>Сброс</value>
+    <value>Не установлена</value>
     <comment>like "theme not set"</comment>
   </data>
   <data name="UpdateAssets" xml:space="preserve">
-    <value>Обновленные ассеты</value>
+    <value>Обновить ресурсы</value>
   </data>
   <data name="Back" xml:space="preserve">
     <value>Назад</value>
@@ -221,14 +221,14 @@
     <value>Понял</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ок</value>
+    <value>Хорошо</value>
   </data>
   <data name="ShareAccountString" xml:space="preserve">
-    <value>Ищи {0} статистику на Dragon6!</value>
+    <value>Проверьте статистику {0} на Dragon6!</value>
     <comment>{0} player's name</comment>
   </data>
   <data name="ShareAppString" xml:space="preserve">
-    <value>Попробуйте Dragon6 - бесплатное приложение для отслеживания статистики R6!</value>
+    <value>Попробуйте Dragon6 - бесплатный трекер статистики R6!</value>
   </data>
   <data name="Translate" xml:space="preserve">
     <value>Перевести</value>
@@ -237,7 +237,7 @@
     <value>Понял</value>
   </data>
   <data name="ConfirmRemove" xml:space="preserve">
-    <value>Подтвердите сброс</value>
+    <value>Подтвердить удаление</value>
   </data>
   <data name="ConfirmSave" xml:space="preserve">
     <value>Подтвердить сохранение</value>
@@ -262,15 +262,15 @@
     <value>При поддержке Steam</value>
   </data>
   <data name="UserRemoved" xml:space="preserve">
-    <value>{0} удалено</value>
+    <value>{0} Удалено</value>
     <comment>{0} username</comment>
   </data>
   <data name="UserSaved" xml:space="preserve">
-    <value>{0} сохранено</value>
+    <value>{0} Сохранено</value>
     <comment>{0} username</comment>
   </data>
   <data name="ViewRecents" xml:space="preserve">
-    <value>Показать недавние</value>
+    <value>Просмотреть недавних</value>
   </data>
   <data name="WeaponStats" xml:space="preserve">
     <value>Статистика оружия</value>
@@ -300,13 +300,13 @@
     <value>Сторонние библиотеки</value>
   </data>
   <data name="AppIconSource" xml:space="preserve">
-    <value>Иконки оружия от различных художников (из источника noun project)</value>
+    <value>Иконки оружия от разных художников (источник: noun project)</value>
   </data>
   <data name="LoadingData" xml:space="preserve">
     <value>Загрузка данных...</value>
   </data>
   <data name="AccountSelect" xml:space="preserve">
-    <value>Выберите Аккаунт</value>
+    <value>Выберите аккаунт</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Отменить</value>

@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Casual" xml:space="preserve">
-    <value>Рядовой</value>
+    <value>Случайный</value>
   </data>
   <data name="Ranked" xml:space="preserve">
-    <value>Упорядоченный</value>
+    <value>Рейтинговый</value>
   </data>
   <data name="Unranked" xml:space="preserve">
     <value>Без ранга</value>
   </data>
   <data name="KD" xml:space="preserve">
-    <value>У/С</value>
+    <value>K/D</value>
   </data>
   <data name="WL" xml:space="preserve">
-    <value>{0:0.00} Вт/л</value>
+    <value>{0:0.00} Победы/Поражения</value>
   </data>
   <data name="Kills" xml:space="preserve">
     <value>Убийства</value>
@@ -142,19 +142,19 @@
     <value>Покинуто</value>
   </data>
   <data name="Abandons" xml:space="preserve">
-    <value>Покинутые</value>
+    <value>Покинул</value>
   </data>
   <data name="Downs" xml:space="preserve">
-    <value>Вниз</value>
+    <value>Падения</value>
   </data>
   <data name="Highscores" xml:space="preserve">
-    <value>Рекорды</value>
+    <value>Лучшие результаты</value>
   </data>
   <data name="LastMatch" xml:space="preserve">
     <value>Последний матч</value>
   </data>
   <data name="Losses" xml:space="preserve">
-    <value>{0:n0} поражений</value>
+    <value>{0:n0} Поражений</value>
   </data>
   <data name="Lost" xml:space="preserve">
     <value>Поражение</value>
@@ -169,16 +169,16 @@
     <value>Операторы</value>
   </data>
   <data name="Overall" xml:space="preserve">
-    <value>Общие сведения</value>
+    <value>Общее</value>
   </data>
   <data name="Penetrations" xml:space="preserve">
-    <value>Убийств с холодного оружия</value>
+    <value>Пробития</value>
   </data>
   <data name="Revives" xml:space="preserve">
-    <value>Возрожден</value>
+    <value>Возрождения</value>
   </data>
   <data name="Training" xml:space="preserve">
-    <value>Охота за террористами</value>
+    <value>Террористическая охота</value>
   </data>
   <data name="Unknown" xml:space="preserve">
     <value>Неизвестно</value>
@@ -187,7 +187,7 @@
     <value>Оружие</value>
   </data>
   <data name="Wins" xml:space="preserve">
-    <value>{0:n0} побед</value>
+    <value>{0:n0} Побед</value>
   </data>
   <data name="Won" xml:space="preserve">
     <value>Выиграно</value>
@@ -202,10 +202,10 @@
     <value>АТК</value>
   </data>
   <data name="Defender" xml:space="preserve">
-    <value>Обороняющийся</value>
+    <value>Защитник</value>
   </data>
   <data name="Defenders" xml:space="preserve">
-    <value>Оборона</value>
+    <value>Защитники</value>
   </data>
   <data name="DefenderShort" xml:space="preserve">
     <value>ЗАЩ</value>
@@ -214,10 +214,10 @@
     <value>Сезонный</value>
   </data>
   <data name="Bomb" xml:space="preserve">
-    <value>Закладка бомбы</value>
+    <value>Бомба</value>
   </data>
   <data name="Hostage" xml:space="preserve">
-    <value>Освобождение заложников</value>
+    <value>Заложник</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Уровень {0}</value>
@@ -226,30 +226,30 @@
     <value>Безопасность</value>
   </data>
   <data name="Assists" xml:space="preserve">
-    <value>Помощи в убийствах</value>
+    <value>Содействия</value>
   </data>
   <data name="Headshots" xml:space="preserve">
-    <value>Убийств в голову</value>
+    <value>Выстрелы в голову</value>
   </data>
   <data name="Suicides" xml:space="preserve">
-    <value>Самоубйиств</value>
+    <value>Самоубийства</value>
   </data>
   <data name="CurrentSeason" xml:space="preserve">
     <value>Текущий сезон</value>
   </data>
   <data name="Time" xml:space="preserve">
-    <value>Времени</value>
+    <value>Время</value>
   </data>
   <data name="DownsCount" xml:space="preserve">
-    <value>{0:n0} убитых</value>
+    <value>{0:n0} Падений</value>
   </data>
   <data name="RevivesCount" xml:space="preserve">
-    <value>{0:n0} ожившие</value>
+    <value>{0:n0} Воскрешений</value>
   </data>
   <data name="DeathsCount" xml:space="preserve">
-    <value>{0:n0} смертей</value>
+    <value>{0:n0} Смертей</value>
   </data>
   <data name="WLName" xml:space="preserve">
-    <value>Вт/л</value>
+    <value>Победы/Поражения</value>
   </data>
 </root>

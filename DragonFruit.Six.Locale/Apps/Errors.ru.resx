@@ -121,14 +121,14 @@
     <value>Для соединения с Dragon6 необходимо интернет-подключение</value>
   </data>
   <data name="PlayerNotFound" xml:space="preserve">
-    <value>Игрок {0} не найден {1}. \nПожалуйста убедитесь в правильности написания имени (как указано в строке убийств) и попробуйте снова\nЕсли ошибка появляется снова, попробуйте позднее</value>
+    <value>Игрок {0} не был найден на {1}.\nПожалуйста, убедитесь, что вы правильно ввели имя пользователя (как показано в killfeed), и повторите попытку\nЕсли проблема все еще сохраняется, повторите попытку позже</value>
     <comment>{0} username | {1} platform</comment>
   </data>
   <data name="PlayerNotFoundTitle" xml:space="preserve">
     <value>Игрок не найден</value>
   </data>
   <data name="ServerError" xml:space="preserve">
-    <value>При обращении к серверу {0} произошла ошибка.\nПожалуйста убедитесь, что у вас есть полный доступ к интернету и попробуйте позже.</value>
+    <value>Что-то пошло не так при попытке запросить данные с сервера {0}.\nПожалуйста, убедитесь, что у вас есть полный доступ в Интернет, и повторите попытку позже.</value>
     <comment>{0} server source - DragonFruit/Ubisoft/etc.</comment>
   </data>
   <data name="ServerErrorTitle" xml:space="preserve">
@@ -136,13 +136,13 @@
     <comment>{0} http status code (NotFound, Forbidden, etc.)</comment>
   </data>
   <data name="UnexpectedError" xml:space="preserve">
-    <value>Случалась непредвиденная ошибка. Команда Dragon6 была уведомлена и проверит информацию чуть позже.</value>
+    <value>Произошла непредвиденная ошибка. Команда Dragon6 была уведомлена и займётся расследованием.</value>
   </data>
   <data name="UnexpectedErrorTitle" xml:space="preserve">
     <value>Непредвиденная ошибка</value>
   </data>
   <data name="UserBlockedError" xml:space="preserve">
-    <value>Статистика игрока не может быть показана (обычно из-за GDPR, но иногда и из-за нас)</value>
+    <value>Статистика этого пользователя не может быть просмотрена (обычно из-за GDPR, но иногда и из-за нас)</value>
   </data>
   <data name="UserBlockedErrorTitle" xml:space="preserve">
     <value>Игрок недоступен</value>
@@ -151,7 +151,7 @@
     <value>Произошла ошибка при получении статистики с этого сезона.\nБолее ранние сезоны могут быть не записаны, или игрок не был зарегистрирован до этого сезона</value>
   </data>
   <data name="GeneralSeasonalError" xml:space="preserve">
-    <value>Произошла ошибка при получении сезонной статистики.\nМы изменили выбор сезона для вас на новый.\n\rМы уже уведомили DragonFruit о данной ошибке и обработаем эту ошибку в ближайшее время.</value>
+    <value>При получении сезонной статистики произошла ошибка.\nМы изменили ваш выбор сезона на последний на данный момент.\n\rМы уведомили DragonFruit об этой проблеме и будем работать над ее решением в ближайшее время.</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Ошибка</value>
@@ -160,6 +160,6 @@
     <value>Сброс базы данных</value>
   </data>
   <data name="DatabaseReset" xml:space="preserve">
-    <value>Dragon6 был сброшен в связи с перебоями в базе данных. Приносим глубочайшие изменения за причинённые неудобства</value>
+    <value>Dragon6 был сброшен из-за сбоя обновления базы данных. Приносим извинения за причиненные неудобства</value>
   </data>
 </root>

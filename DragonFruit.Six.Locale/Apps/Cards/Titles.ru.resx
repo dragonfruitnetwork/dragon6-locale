@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CasualKd" xml:space="preserve">
-    <value>Обычное У/С</value>
+    <value>Случайный убийства/смерти</value>
   </data>
   <data name="CasualWl" xml:space="preserve">
-    <value>Обычное В/П</value>
+    <value>Случайный победы/поражения</value>
   </data>
   <data name="DownsRevives" xml:space="preserve">
-    <value>Упал vs Возрожден</value>
+    <value>Падения vs Возрождения</value>
   </data>
   <data name="FirstSession" xml:space="preserve">
     <value>Первая сессия</value>
@@ -133,70 +133,78 @@
     <value>Наивысший ранг</value>
   </data>
   <data name="KillsPerRound" xml:space="preserve">
-    <value>Убийств/Раунд</value>
+    <value>Убийства/Раунд</value>
   </data>
   <data name="LastMatch" xml:space="preserve">
     <value>Последний матч</value>
   </data>
   <data name="NextRankProgress" xml:space="preserve">
-    <value>Следующий прогресс ранга</value>
+    <value>Прогресс до следующего ранга</value>
   </data>
   <data name="OperatorAbility" xml:space="preserve">
     <value>Способность оператора</value>
   </data>
   <data name="OperatorKd" xml:space="preserve">
-    <value>У/С оператора</value>
+    <value>Оператор убийства/содействия</value>
   </data>
   <data name="OperatorWl" xml:space="preserve">
-    <value>В/П оператора</value>
+    <value>Оператор победы/поражения</value>
   </data>
   <data name="OverallKd" xml:space="preserve">
-    <value>Всего У/С</value>
+    <value>Общее убийства/смерти</value>
   </data>
   <data name="OverallWl" xml:space="preserve">
-    <value>Всего В/П</value>
+    <value>Общее победы/поражения</value>
   </data>
   <data name="RankedKd" xml:space="preserve">
-    <value>Ранговый У/С</value>
+    <value>Рейтинг убийства/смерти</value>
   </data>
   <data name="RankedWl" xml:space="preserve">
-    <value>Ранговый В/П</value>
+    <value>Рейтинг победы/поражения</value>
   </data>
   <data name="SeasonKd" xml:space="preserve">
-    <value>Сезонный У/С</value>
+    <value>Сезон убийства/смерти</value>
   </data>
   <data name="SeasonMmr" xml:space="preserve">
-    <value>Сезонный MMR</value>
+    <value>Сезонный рейтинг</value>
   </data>
   <data name="SeasonWl" xml:space="preserve">
-    <value>Сезонный В/П</value>
+    <value>Сезон победы/поражения</value>
   </data>
   <data name="TimePlayed" xml:space="preserve">
-    <value>Времени в игре</value>
+    <value>Время в игре</value>
   </data>
   <data name="TrainingKd" xml:space="preserve">
-    <value>У/С в Охоте за террористами</value>
+    <value>Террористическая охота убийства/смерти</value>
   </data>
   <data name="TrainingWl" xml:space="preserve">
-    <value>В/П в Охоте за террористами</value>
+    <value>Террористическая охота победы/поражения</value>
   </data>
   <data name="UnrankedKd" xml:space="preserve">
-    <value>Не ранговый У/С</value>
+    <value>Без рейтинга убийства/смерти</value>
   </data>
   <data name="UnrankedWl" xml:space="preserve">
-    <value>Не ранговый В/П</value>
+    <value>Без рейтинга победы/поражения</value>
   </data>
   <data name="FilterBy" xml:space="preserve">
-    <value>Сортировать по</value>
+    <value>Фильтровать по</value>
   </data>
   <data name="SortBy" xml:space="preserve">
     <value>Сортировать по</value>
   </data>
   <data name="ExperienceGained" xml:space="preserve">
-    <value>Опыт получен</value>
+    <value>Полученный опыт</value>
   </data>
-  
-  
-  
-  
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Убийства/Матч</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>"Слепые" убийства</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Сыграно матчей</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Помощь в убийстве</value>
+  </data>
 </root>

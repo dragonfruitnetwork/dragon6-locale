@@ -124,13 +124,13 @@
     <value>Пользователь заблокирован</value>
   </data>
   <data name="Contributor" xml:space="preserve">
-    <value>Автор Dragon6</value>
+    <value>Участник Dragon6</value>
   </data>
   <data name="Normal" xml:space="preserve">
     <value>Обычный пользователь</value>
   </data>
   <data name="Supporter" xml:space="preserve">
-    <value>Помощник Dragon6</value>
+    <value>Сторонник Dragon6</value>
   </data>
   <data name="Translator" xml:space="preserve">
     <value>Переводчик Dragon6</value>
