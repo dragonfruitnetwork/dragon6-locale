@@ -125,10 +125,10 @@
         <value>Штурмовая винтовка</value>
     </data>
     <data name="SubmachineGun" xml:space="preserve">
-        <value>Автомат</value>
+        <value>Пистолет-пулемет</value>
     </data>
     <data name="LightMachineGun" xml:space="preserve">
-        <value>Ручной пулемет</value>
+        <value>Лёгкий пулемёт</value>
     </data>
     <data name="Sniper" xml:space="preserve">
         <value>Снайперская винтовка</value>
@@ -140,7 +140,7 @@
         <value>Дробовик</value>
     </data>
     <data name="MachinePistol" xml:space="preserve">
-        <value>Автоматический пистолет</value>
+        <value>Пистолет-пулемёт</value>
     </data>
     <data name="Shield" xml:space="preserve">
         <value>Щит</value>
