@@ -124,7 +124,7 @@
     <value>Nie</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>Start</value>
+    <value>Początek</value>
   </data>
   <data name="News" xml:space="preserve">
     <value>Aktualności</value>
@@ -139,10 +139,10 @@
     <value>Udostępnij</value>
   </data>
   <data name="General" xml:space="preserve">
-    <value>Główne</value>
+    <value>Ogólne</value>
   </data>
   <data name="Other" xml:space="preserve">
-    <value>Inne</value>
+    <value>Pozostałe</value>
   </data>
   <data name="Clear" xml:space="preserve">
     <value>Wyczyść</value>
@@ -157,13 +157,13 @@
     <value>Szukaj</value>
   </data>
   <data name="Update" xml:space="preserve">
-    <value>Uaktualnij</value>
+    <value>Aktualizuj</value>
   </data>
   <data name="AboutApp" xml:space="preserve">
-    <value>O Dragon6</value>
+    <value>Informacje</value>
   </data>
   <data name="ClearSaved" xml:space="preserve">
-    <value>Wyczyść Zapisane Profile</value>
+    <value>Wyczyść zapisane profile</value>
   </data>
   <data name="DarkTheme" xml:space="preserve">
     <value>Ciemny motyw</value>
@@ -172,27 +172,27 @@
     <value>Domyślna platforma</value>
   </data>
   <data name="FilterBy" xml:space="preserve">
-    <value>Filtruj wg: {0}</value>
+    <value>Filtruj według: {0}</value>
     <comment>{0} filter mode (attacker, defender, none)</comment>
   </data>
   <data name="None" xml:space="preserve">
     <value>Żaden</value>
   </data>
   <data name="PlayerStats" xml:space="preserve">
-    <value>Statystyki graczy</value>
+    <value>Statystyki gracza</value>
   </data>
   <data name="Recents" xml:space="preserve">
     <value>Niedawno spotkani gracze</value>
   </data>
   <data name="SavePlayerTip" xml:space="preserve">
-    <value>Wskazówka: Dotknij dwukrotnie kartę gracza, aby je zapisać</value>
+    <value>Porada: Naciśnij dwukrotnie kartę gracza, aby ją zapisać</value>
   </data>
   <data name="SearchingForAccount" xml:space="preserve">
     <value>Szukam {0} na {1}</value>
     <comment>{0} username | {1} platform</comment>
   </data>
   <data name="SearchOperators" xml:space="preserve">
-    <value>Szukaj Operatorów</value>
+    <value>Szukaj operatora</value>
   </data>
   <data name="SearchRecents" xml:space="preserve">
     <value>Szukaj ostatnich graczy</value>
@@ -201,14 +201,14 @@
     <value>Wskazówka: Dotknij górnej karty, aby zmienić sezony</value>
   </data>
   <data name="ServerSetTheme" xml:space="preserve">
-    <value>Ustaw motyw serwera</value>
+    <value>Motyw serwera</value>
   </data>
   <data name="SortBy" xml:space="preserve">
-    <value>Sortuj według {0}</value>
+    <value>Sortuj według: {0}</value>
     <comment>{0} sort mode (K/D, W/L, Default, etc.)</comment>
   </data>
   <data name="Unset" xml:space="preserve">
-    <value>Odznacz</value>
+    <value>Nie ustawione</value>
     <comment>like "theme not set"</comment>
   </data>
   <data name="UpdateAssets" xml:space="preserve">
@@ -228,13 +228,13 @@
     <comment>{0} player's name</comment>
   </data>
   <data name="ShareAppString" xml:space="preserve">
-    <value>Sprawdź Dragon6 - darmowy tracker statystyk R6!</value>
+    <value>Sprawdź Dragon6 - bezpłatny rejestr statystyk R6!</value>
   </data>
   <data name="Translate" xml:space="preserve">
-    <value>Przetłumacz</value>
+    <value>Tłumaczenie</value>
   </data>
   <data name="Understood" xml:space="preserve">
-    <value>Zrozumiałem/-am</value>
+    <value>Rozumiem</value>
   </data>
   <data name="ConfirmRemove" xml:space="preserve">
     <value>Potwierdź usunięcie</value>
@@ -243,30 +243,30 @@
     <value>Potwierdź zapis</value>
   </data>
   <data name="LoadingStats" xml:space="preserve">
-    <value>Ładowanie statystyk... ({0})</value>
+    <value>Wczytywanie statystyk... ({0})</value>
     <comment>{0} username</comment>
   </data>
   <data name="OperatorStats" xml:space="preserve">
     <value>Statystyki operatora</value>
   </data>
   <data name="RemoveUser" xml:space="preserve">
-    <value>Usunąć {0} z twojej strony głównej?</value>
+    <value>Usunąć {0} z Twojej strony głównej?</value>
   </data>
   <data name="RetryConnection" xml:space="preserve">
     <value>Ponów próbę połączenia</value>
   </data>
   <data name="SaveUser" xml:space="preserve">
-    <value>Dodać {0} do twojej strony głównej?</value>
+    <value>Dodać {0} do Twojej strony głównej?</value>
   </data>
   <data name="SteamNews" xml:space="preserve">
     <value>Wspierane przez Steam</value>
   </data>
   <data name="UserRemoved" xml:space="preserve">
-    <value>{0} Usunięto</value>
+    <value>{0} usunięty</value>
     <comment>{0} username</comment>
   </data>
   <data name="UserSaved" xml:space="preserve">
-    <value>{0} zapisane</value>
+    <value>{0} zapisany</value>
     <comment>{0} username</comment>
   </data>
   <data name="ViewRecents" xml:space="preserve">
@@ -279,10 +279,10 @@
     <value>{0} (Y{1}S{2})</value>
   </data>
   <data name="ShareProfile" xml:space="preserve">
-    <value>Udostępnij Profil</value>
+    <value>Udostępnij profil</value>
   </data>
   <data name="ConfirmClear" xml:space="preserve">
-    <value>Czy na pewno chcesz wyczyścić zapisane profily?</value>
+    <value>Czy na pewno chcesz wyczyścić zapisane profile?</value>
   </data>
   <data name="ConfirmClearTitle" xml:space="preserve">
     <value>Potwierdź wyczyszczenie</value>
@@ -297,25 +297,27 @@
     <value>Wyczyszczono graczy</value>
   </data>
   <data name="AppLibraries" xml:space="preserve">
-    <value>Lista bibliotek zewnętrznych</value>
+    <value>Biblioteki stron trzecich</value>
   </data>
   <data name="AppIconSource" xml:space="preserve">
     <value>Ikony broni od różnych artystów (pochodzące z noun project)</value>
   </data>
   <data name="LoadingData" xml:space="preserve">
-    <value>Ładowanie danych...</value>
+    <value>Wczytywanie danych...</value>
   </data>
   <data name="AccountSelect" xml:space="preserve">
-    <value>Wybierz Konto</value>
+    <value>Wybierz konto</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Anuluj</value>
   </data>
   <data name="SeasonSelect" xml:space="preserve">
-    <value>Wybierz Sezon</value>
+    <value>Wybierz sezon</value>
   </data>
   <data name="SearchPlayers" xml:space="preserve">
-    <value>Szukaj Graczy</value>
+    <value>Szukaj graczy</value>
   </data>
-  
+  <data name="ModeStats" xml:space="preserve">
+    <value>Statystyki trybu</value>
+  </data>
 </root>

@@ -195,8 +195,16 @@
   <data name="ExperienceGained" xml:space="preserve">
     <value>Pengalaman yang didapat</value>
   </data>
-  
-  
-  
-  
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Bunuh/Pertandingan</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>Bunuh secara tidak sengaja</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Pertandingan Dimainkan</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Bantu Membunuh</value>
+  </data>
 </root>

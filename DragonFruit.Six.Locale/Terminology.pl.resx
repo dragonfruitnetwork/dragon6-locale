@@ -129,7 +129,9 @@
   <data name="KD" xml:space="preserve">
     <value>Z/Ś</value>
   </data>
-  
+  <data name="WL" xml:space="preserve">
+    <value>{0:0.00} W/P</value>
+  </data>
   <data name="Kills" xml:space="preserve">
     <value>Zabójstwa</value>
   </data>
@@ -151,7 +153,9 @@
   <data name="LastMatch" xml:space="preserve">
     <value>Ostatni mecz</value>
   </data>
-  
+  <data name="Losses" xml:space="preserve">
+    <value>{0:n0} porażek</value>
+  </data>
   <data name="Lost" xml:space="preserve">
     <value>Przegrany</value>
   </data>
@@ -182,7 +186,9 @@
   <data name="Weapon" xml:space="preserve">
     <value>Broń</value>
   </data>
-  
+  <data name="Wins" xml:space="preserve">
+    <value>{0:n0} zwycięstw</value>
+  </data>
   <data name="Won" xml:space="preserve">
     <value>Wygrana</value>
   </data>
@@ -229,13 +235,21 @@
     <value>Samobójstwa</value>
   </data>
   <data name="CurrentSeason" xml:space="preserve">
-    <value>Obecny sezon</value>
+    <value>Bieżący sezon</value>
   </data>
   <data name="Time" xml:space="preserve">
     <value>Czas</value>
   </data>
-  
-  
-  
-  
+  <data name="DownsCount" xml:space="preserve">
+    <value>{0:n0} powaleń</value>
+  </data>
+  <data name="RevivesCount" xml:space="preserve">
+    <value>{0:n0} reanimacji</value>
+  </data>
+  <data name="DeathsCount" xml:space="preserve">
+    <value>{0:n0} zgonów</value>
+  </data>
+  <data name="WLName" xml:space="preserve">
+    <value>W/P</value>
+  </data>
 </root>

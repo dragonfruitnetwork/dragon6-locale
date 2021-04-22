@@ -140,12 +140,12 @@
         <value>Strzelba</value>
     </data>
     <data name="MachinePistol" xml:space="preserve">
-        <value>Pistolet Maszynowy</value>
+        <value>Pistolet maszynowy</value>
     </data>
     <data name="Shield" xml:space="preserve">
         <value>Tarcza</value>
     </data>
     <data name="Launcher" xml:space="preserve">
-        <value>Launcher</value>
+        <value>Granatnik</value>
     </data>
 </root>
