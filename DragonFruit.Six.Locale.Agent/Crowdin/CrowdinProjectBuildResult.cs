@@ -9,15 +9,15 @@ namespace DragonFruit.Six.Locale.Agent.Crowdin
     [XmlRoot(ElementName = "success")]
     public class CrowdinProjectBuildResult
     {
+        [XmlIgnore]
+        public BuildStatus Status { get; set; }
+
         [XmlAttribute(AttributeName = "status")]
         private string StatusName
         {
             get => Status.ToString().ToLowerInvariant();
-            set => Enum.Parse<BuildStatus>(value, true);
+            set => Status = Enum.Parse<BuildStatus>(value, true);
         }
-
-        [XmlIgnore]
-        public BuildStatus Status { get; set; }
     }
 
     public enum BuildStatus
