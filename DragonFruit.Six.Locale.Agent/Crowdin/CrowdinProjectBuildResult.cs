@@ -13,7 +13,7 @@ namespace DragonFruit.Six.Locale.Agent.Crowdin
         private string StatusName
         {
             get => Status.ToString().ToLowerInvariant();
-            set => Enum.Parse<BuildStatus>(value, true);
+            set => Status = Enum.Parse<BuildStatus>(value, true);
         }
 
         [XmlIgnore]
