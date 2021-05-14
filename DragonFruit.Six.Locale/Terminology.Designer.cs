@@ -367,7 +367,7 @@ namespace DragonFruit.Six.Locale {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Secure.
+        ///   Looks up a localized string similar to Secure Area.
         /// </summary>
         public static string Secure {
             get {
