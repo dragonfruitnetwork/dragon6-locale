@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace DragonFruit.Six.Locale.Agent.Project
 {
-    public class ProjectFiles
+    internal static class ProjectFiles
     {
         public static IReadOnlyDictionary<string, string[]> PathMapping = new Dictionary<string, string[]>
         {
