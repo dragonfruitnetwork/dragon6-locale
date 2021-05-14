@@ -218,6 +218,8 @@
   </data>
   <data name="Secure" xml:space="preserve">
     <value>Messa in sicurezza</value>
+    <comment>Secure Area (game mode)
+</comment>
   </data>
   <data name="Assists" xml:space="preserve">
     <value>Assist</value>
