@@ -121,7 +121,7 @@
     <value>Perlu koneksi internet untuk menggunakan Dragon6</value>
   </data>
   <data name="PlayerNotFound" xml:space="preserve">
-    <value>Player {0} was not found on {1}.\nPlease check you entered the username correctly (as shown in the killfeed) and try again\nIf the issue still persists, try again later</value>
+    <value>Pemain {0} tidak ditemukan di {1}.\nSilahkan cek username yang telah dimasukan secara benar (seperti dicontoh) dan coba lagi\nJika masih terdapat isu ini, coba lagi nanti</value>
     <comment>{0} username | {1} platform</comment>
   </data>
   <data name="PlayerNotFoundTitle" xml:space="preserve">

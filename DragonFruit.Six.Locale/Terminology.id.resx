@@ -224,6 +224,8 @@
   </data>
   <data name="Secure" xml:space="preserve">
     <value>Mengamankan</value>
+    <comment>Secure Area (game mode)
+</comment>
   </data>
   <data name="Assists" xml:space="preserve">
     <value>Bantuan</value>

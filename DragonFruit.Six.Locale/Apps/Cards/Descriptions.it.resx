@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DownsRevives" xml:space="preserve">
-    <value>{0:n0} Down / {1:n0} Rianima</value>
+    <value>{0:n0} A terra / {1:n0} Rianima</value>
   </data>
   <data name="FirstSession" xml:space="preserve">
     <value>Giocato per la prima volta {0} (in {1:n0} sessioni)</value>
@@ -126,7 +126,10 @@
   <data name="Headshots" xml:space="preserve">
     <value>{0:n0} Colpi alla testa ({1:0.0}%)</value>
   </data>
-  
+  <data name="Highscore" xml:space="preserve">
+    <value>Punteggio: {0:n0}</value>
+    <comment>{0} mode | {1} score</comment>
+  </data>
   <data name="Kd" xml:space="preserve">
     <value>{0:0.00} U/M ({1:n0} Uccisioni / {2:n0} Morti)</value>
   </data>
@@ -157,7 +160,7 @@
     <comment>{2} time played</comment>
   </data>
   <data name="Penetrations" xml:space="preserve">
-    <value>{0:n0} Uccisioni durante infiltrazione ({1:0.0}%)</value>
+    <value>{0:n0} Uccisioni penetranti ({1:0.0}%)</value>
   </data>
   <data name="SeasonMmr" xml:space="preserve">
     <value>{0:n0} ± {1:n0} MMR ({2})</value>
@@ -173,7 +176,10 @@
   <data name="Suicides" xml:space="preserve">
     <value>{0:n0} Suicidi ({1:0.0}%)</value>
   </data>
-  
+  <data name="ModeTimePlayed" xml:space="preserve">
+    <value>Tempo di gioco: {0}</value>
+    <comment>{0} mode | {1} time played (filled in by humanizer)</comment>
+  </data>
   <data name="Wl" xml:space="preserve">
     <value>{0:0.00} V/S ({1:n0} Vittorie / {2:n0} Sconfitte)</value>
   </data>
@@ -186,10 +192,22 @@
   <data name="KillCount" xml:space="preserve">
     <value>{0:n0} Uccisioni</value>
   </data>
-  
-  
-  
-  
-  
-  
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>{0:n0} Partite giocate</value>
+  </data>
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>{0:n0} Esperienza acquisita</value>
+  </data>
+  <data name="WeaponPicks" xml:space="preserve">
+    <value>Usato {0:n0} volte</value>
+  </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>{0:0.00} Uccisioni/Partita ({1:n0} uccisioni in {2:n0} partite)</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>{0:n0} Uccisioni alla cieca ({1:0.0}%)</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>{0:n0} Assist Uccisioni</value>
+  </data>
 </root>
