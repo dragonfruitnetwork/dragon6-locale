@@ -198,8 +198,12 @@
   <data name="KillsPerMatch" xml:space="preserve">
     <value>擊殺/場數</value>
   </data>
-  
-  
+  <data name="Blindkills" xml:space="preserve">
+    <value>致盲擊殺</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>遊玩場次</value>
+  </data>
   <data name="KillAssists" xml:space="preserve">
     <value>助攻</value>
   </data>

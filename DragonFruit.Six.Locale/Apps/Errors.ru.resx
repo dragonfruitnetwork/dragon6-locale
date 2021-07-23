@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="NoInternet" xml:space="preserve">
-    <value>Для соединения с Dragon6 необходимо интернет-подключение</value>
+    <value>Для использования Dragon6 требуется подключение к Интернету</value>
   </data>
   <data name="PlayerNotFound" xml:space="preserve">
     <value>Игрок {0} не был найден на {1}.\nПожалуйста, убедитесь, что вы правильно ввели имя пользователя (как показано в killfeed), и повторите попытку\nЕсли проблема все еще сохраняется, повторите попытку позже</value>

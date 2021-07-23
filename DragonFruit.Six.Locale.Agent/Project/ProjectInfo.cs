@@ -22,7 +22,7 @@ namespace DragonFruit.Six.Locale.Agent.Project
             "pt-BR",
             "ru",
             "tr",
-            "zh-TW" // traditional chinese
+            "zh-TW" // chinese (taiwan)
         };
 
         public static IReadOnlyDictionary<string, string> LocaleMapping = new Dictionary<string, string>

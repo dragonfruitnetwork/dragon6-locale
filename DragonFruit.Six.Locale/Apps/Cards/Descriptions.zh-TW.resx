@@ -192,10 +192,22 @@
   <data name="KillCount" xml:space="preserve">
     <value>擊殺數 {0:n0}</value>
   </data>
-  
-  
-  
-  
-  
-  
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>{0:n0} 遊玩場次</value>
+  </data>
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>{0:n0} 獲得經驗值</value>
+  </data>
+  <data name="WeaponPicks" xml:space="preserve">
+    <value>{0:n0} 使用次數</value>
+  </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>戰損比{0:0.00} ({1:n0}擊殺 / {2:n0}場次)</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>{0:n0} 致盲擊殺 ({1:0.0}%)</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>{0:n0} 擊殺助攻</value>
+  </data>
 </root>

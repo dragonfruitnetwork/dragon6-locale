@@ -223,9 +223,7 @@
     <value>Nível {0}</value>
   </data>
   <data name="Secure" xml:space="preserve">
-    <value>Proteger</value>
-    <comment>Secure Area (game mode)
-</comment>
+    <value>Proteger Área</value>
   </data>
   <data name="Assists" xml:space="preserve">
     <value>Assistências</value>

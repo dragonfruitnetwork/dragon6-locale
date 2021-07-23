@@ -224,8 +224,6 @@
   </data>
   <data name="Secure" xml:space="preserve">
     <value>Zabezpieczanie Terenu</value>
-    <comment>Secure Area (game mode)
-</comment>
   </data>
   <data name="Assists" xml:space="preserve">
     <value>Asysty przy zabójstwach</value>
