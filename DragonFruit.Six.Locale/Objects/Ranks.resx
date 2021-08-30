@@ -87,8 +87,14 @@
     <data name="Plat1" xml:space="preserve">
         <value>Platinum 1</value>
     </data>
-    <data name="Diamond" xml:space="preserve">
-        <value>Diamond</value>
+    <data name="Diamond3" xml:space="preserve">
+        <value>Diamond 3</value>
+    </data>
+    <data name="Diamond2" xml:space="preserve">
+        <value>Diamond 2</value>
+    </data>
+    <data name="Diamond1" xml:space="preserve">
+        <value>Diamond 1</value>
     </data>
     <data name="Champion" xml:space="preserve">
         <value>Champion</value>

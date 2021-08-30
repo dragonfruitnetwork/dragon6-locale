@@ -90,9 +90,6 @@
   <data name="Plat1" xml:space="preserve">
     <value>白金 1 級</value>
   </data>
-  <data name="Diamond" xml:space="preserve">
-    <value>鑽石</value>
-  </data>
   <data name="Champion" xml:space="preserve">
     <value>冠軍</value>
   </data>

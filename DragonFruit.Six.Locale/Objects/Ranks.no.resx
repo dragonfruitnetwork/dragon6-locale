@@ -90,9 +90,6 @@
   <data name="Plat1" xml:space="preserve">
     <value>Platina 1</value>
   </data>
-  <data name="Diamond" xml:space="preserve">
-    <value>Diamant</value>
-  </data>
   <data name="Champion" xml:space="preserve">
     <value>Mester</value>
   </data>
