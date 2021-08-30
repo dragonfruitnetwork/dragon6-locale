@@ -160,6 +160,15 @@ namespace DragonFruit.Six.Locale.Objects {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Diamond.
+        /// </summary>
+        public static string Diamond {
+            get {
+                return ResourceManager.GetString("Diamond", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Diamond 1.
         /// </summary>
         public static string Diamond1 {

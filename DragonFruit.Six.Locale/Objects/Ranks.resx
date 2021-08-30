@@ -99,4 +99,7 @@
     <data name="Champion" xml:space="preserve">
         <value>Champion</value>
     </data>
+    <data name="Diamond" xml:space="preserve">
+        <value>Diamond</value>
+    </data>
 </root>
