@@ -192,9 +192,19 @@
   <data name="SortBy" xml:space="preserve">
     <value>Sortuj według</value>
   </data>
-  
-  
-  
-  
-  
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>Doświadczenie zdobyte</value>
+  </data>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Zabójstwa/mecz</value>
+  </data>
+  <data name="Blindkills" xml:space="preserve">
+    <value>Zabójstwa ślepe</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Rozegrane Mecze</value>
+  </data>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Zabij Asysty</value>
+  </data>
 </root>

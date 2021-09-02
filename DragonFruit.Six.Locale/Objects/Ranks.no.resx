@@ -1,96 +1,104 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:element name="root" msdata:IsDataSet="true">
+    <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+        <xsd:element name="root" msdata:IsDataSet="true">
             
         </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>1.3</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="Unranked" xml:space="preserve">
-    <value>Urangert</value>
-    <comment>Unranked
-</comment>
-  </data>
-  <data name="Copper5" xml:space="preserve">
-    <value>Kobber 5</value>
-  </data>
-  <data name="Copper4" xml:space="preserve">
-    <value>Kobber 4</value>
-  </data>
-  <data name="Copper3" xml:space="preserve">
-    <value>Kobber 3</value>
-  </data>
-  <data name="Copper2" xml:space="preserve">
-    <value>Kobber 2</value>
-  </data>
-  <data name="Copper1" xml:space="preserve">
-    <value>Kobber 1</value>
-  </data>
-  <data name="Bronze5" xml:space="preserve">
-    <value>Bronse 5</value>
-    <comment>Bronze5
-</comment>
-  </data>
-  <data name="Bronze4" xml:space="preserve">
-    <value>Bronse 4</value>
-  </data>
-  <data name="Bronze3" xml:space="preserve">
-    <value>Bronse 3</value>
-  </data>
-  <data name="Bronze2" xml:space="preserve">
-    <value>Bronse 2</value>
-  </data>
-  <data name="Bronze1" xml:space="preserve">
-    <value>Bronse 1</value>
-  </data>
-  <data name="Silver5" xml:space="preserve">
-    <value>Sølv 5</value>
-  </data>
-  <data name="Silver4" xml:space="preserve">
-    <value>Sølv 4</value>
-  </data>
-  <data name="Silver3" xml:space="preserve">
-    <value>Sølv 3</value>
-  </data>
-  <data name="Silver2" xml:space="preserve">
-    <value>Sølv 2</value>
-  </data>
-  <data name="Silver1" xml:space="preserve">
-    <value>Sølv 1</value>
-  </data>
-  <data name="Gold4" xml:space="preserve">
-    <value>Gull 4</value>
-  </data>
-  <data name="Gold3" xml:space="preserve">
-    <value>Gull 3</value>
-  </data>
-  <data name="Gold2" xml:space="preserve">
-    <value>Gull 2</value>
-  </data>
-  <data name="Gold1" xml:space="preserve">
-    <value>Gull 1</value>
-  </data>
-  <data name="Plat3" xml:space="preserve">
-    <value>Platina 3</value>
-  </data>
-  <data name="Plat2" xml:space="preserve">
-    <value>Platina 2</value>
-  </data>
-  <data name="Plat1" xml:space="preserve">
-    <value>Platina 1</value>
-  </data>
-  <data name="Champion" xml:space="preserve">
-    <value>Mester</value>
-  </data>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Unranked" xml:space="preserve">
+        <value>Urangert</value>
+    </data>
+    <data name="Copper5" xml:space="preserve">
+        <value>Kobber 5</value>
+    </data>
+    <data name="Copper4" xml:space="preserve">
+        <value>Kobber 4</value>
+    </data>
+    <data name="Copper3" xml:space="preserve">
+        <value>Kobber 3</value>
+    </data>
+    <data name="Copper2" xml:space="preserve">
+        <value>Kobber 2</value>
+    </data>
+    <data name="Copper1" xml:space="preserve">
+        <value>Kobber 1</value>
+    </data>
+    <data name="Bronze5" xml:space="preserve">
+        <value>Bronse 5</value>
+    </data>
+    <data name="Bronze4" xml:space="preserve">
+        <value>Bronse 4</value>
+    </data>
+    <data name="Bronze3" xml:space="preserve">
+        <value>Bronse 3</value>
+    </data>
+    <data name="Bronze2" xml:space="preserve">
+        <value>Bronse 2</value>
+    </data>
+    <data name="Bronze1" xml:space="preserve">
+        <value>Bronse 1</value>
+    </data>
+    <data name="Silver5" xml:space="preserve">
+        <value>Sølv 5</value>
+    </data>
+    <data name="Silver4" xml:space="preserve">
+        <value>Sølv 4</value>
+    </data>
+    <data name="Silver3" xml:space="preserve">
+        <value>Sølv 3</value>
+    </data>
+    <data name="Silver2" xml:space="preserve">
+        <value>Sølv 2</value>
+    </data>
+    <data name="Silver1" xml:space="preserve">
+        <value>Sølv 1</value>
+    </data>
+    <data name="Gold4" xml:space="preserve">
+        <value>Gull 4</value>
+    </data>
+    <data name="Gold3" xml:space="preserve">
+        <value>Gull 3</value>
+    </data>
+    <data name="Gold2" xml:space="preserve">
+        <value>Gull 2</value>
+    </data>
+    <data name="Gold1" xml:space="preserve">
+        <value>Gull 1</value>
+    </data>
+    <data name="Plat3" xml:space="preserve">
+        <value>Platina 3</value>
+    </data>
+    <data name="Plat2" xml:space="preserve">
+        <value>Platina 2</value>
+    </data>
+    <data name="Plat1" xml:space="preserve">
+        <value>Platina 1</value>
+    </data>
+    <data name="Diamond3" xml:space="preserve">
+        <value>Diamant 3</value>
+    </data>
+    <data name="Diamond2" xml:space="preserve">
+        <value>Diamant 2</value>
+    </data>
+    <data name="Diamond1" xml:space="preserve">
+        <value>Diamant 1</value>
+    </data>
+    <data name="Champion" xml:space="preserve">
+        <value>Mester</value>
+    </data>
+    <data name="Diamond" xml:space="preserve">
+        <value>Diamant</value>
+    </data>
 </root>
