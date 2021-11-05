@@ -117,139 +117,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Casual" xml:space="preserve">
-    <value>Casuale</value>
+  <data name="CasualKd" xml:space="preserve">
+    <value>Звичайний відлік</value>
   </data>
-  <data name="Ranked" xml:space="preserve">
-    <value>Classificato</value>
+  <data name="CasualWl" xml:space="preserve">
+    <value>Звичайні Перемоги\Програші</value>
   </data>
-  <data name="Unranked" xml:space="preserve">
-    <value>Non classificato</value>
+  <data name="DownsRevives" xml:space="preserve">
+    <value>Падіння проти відроджень</value>
   </data>
-  <data name="KD" xml:space="preserve">
-    <value>U/M</value>
+  <data name="FirstSession" xml:space="preserve">
+    <value>Перша сесія</value>
   </data>
-  <data name="WL" xml:space="preserve">
-    <value>{0:0.00} V/S</value>
+  <data name="HighestRank" xml:space="preserve">
+    <value>Найвищий ранг</value>
   </data>
-  <data name="Kills" xml:space="preserve">
-    <value>Uccisioni</value>
-  </data>
-  <data name="Deaths" xml:space="preserve">
-    <value>Morti</value>
-  </data>
-  <data name="Abandoned" xml:space="preserve">
-    <value>Abbandonato</value>
-  </data>
-  <data name="Abandons" xml:space="preserve">
-    <value>Abbandoni</value>
-  </data>
-  <data name="Downs" xml:space="preserve">
-    <value>Giù</value>
-  </data>
-  <data name="Highscores" xml:space="preserve">
-    <value>Record</value>
+  <data name="KillsPerRound" xml:space="preserve">
+    <value>Убивств/Раунд</value>
   </data>
   <data name="LastMatch" xml:space="preserve">
-    <value>Ultima Partita</value>
+    <value>Останній бій</value>
   </data>
-  <data name="Losses" xml:space="preserve">
-    <value>{0:n0} Sconfitte</value>
+  <data name="NextRankProgress" xml:space="preserve">
+    <value>Прогрес наступного рангу</value>
   </data>
-  <data name="Lost" xml:space="preserve">
-    <value>Sconfitta</value>
+  <data name="OperatorAbility" xml:space="preserve">
+    <value>Здатність оператора</value>
   </data>
-  <data name="Melee" xml:space="preserve">
-    <value>Mischia</value>
+  <data name="OperatorKd" xml:space="preserve">
+    <value>Оператор доступний через</value>
   </data>
-  <data name="Operator" xml:space="preserve">
-    <value>Operatore</value>
+  <data name="OperatorWl" xml:space="preserve">
+    <value>Оператора Виграш\Програш</value>
   </data>
-  <data name="Operators" xml:space="preserve">
-    <value>Operatori</value>
+  <data name="OverallKd" xml:space="preserve">
+    <value>Всього Вбивств\Смертей</value>
   </data>
-  <data name="Overall" xml:space="preserve">
-    <value>Globale</value>
+  <data name="OverallWl" xml:space="preserve">
+    <value>Всього Вбивств\Смертей</value>
   </data>
-  <data name="Penetrations" xml:space="preserve">
-    <value>Penetrazioni</value>
+  <data name="RankedKd" xml:space="preserve">
+    <value>Рейтингові Вбивства/Смерті</value>
   </data>
-  <data name="Revives" xml:space="preserve">
-    <value>Resurrezioni</value>
+  <data name="RankedWl" xml:space="preserve">
+    <value>Рейтингові Вбивства/Смерті</value>
   </data>
-  <data name="Training" xml:space="preserve">
-    <value>Caccia al Terrorista</value>
+  <data name="SeasonKd" xml:space="preserve">
+    <value>Сезонні Вбивства\Смерті</value>
   </data>
-  <data name="Unknown" xml:space="preserve">
-    <value>Sconosciuto</value>
+  <data name="SeasonMmr" xml:space="preserve">
+    <value>Сезонний MMR</value>
   </data>
-  <data name="Weapon" xml:space="preserve">
-    <value>Arma</value>
+  <data name="SeasonWl" xml:space="preserve">
+    <value>Сезонні Перемоги\Програші</value>
   </data>
-  <data name="Wins" xml:space="preserve">
-    <value>{0:n0} Vittorie</value>
+  <data name="TimePlayed" xml:space="preserve">
+    <value>Часу зіграно</value>
   </data>
-  <data name="Won" xml:space="preserve">
-    <value>Vinto</value>
+  <data name="TrainingKd" xml:space="preserve">
+    <value>Полювання на терористів Вбивств\Смертей</value>
   </data>
-  <data name="Attacker" xml:space="preserve">
-    <value>Aggressore</value>
+  <data name="TrainingWl" xml:space="preserve">
+    <value>Полювання на терористів Перемог\Програшів</value>
   </data>
-  <data name="Attackers" xml:space="preserve">
-    <value>Aggressori</value>
+  <data name="UnrankedKd" xml:space="preserve">
+    <value>Не рейтингові Вбивства/Смерті</value>
   </data>
-  <data name="AttackerShort" xml:space="preserve">
-    <value>ATK</value>
+  <data name="UnrankedWl" xml:space="preserve">
+    <value>Не рейтингові Перемоги/Програші</value>
   </data>
-  <data name="Defender" xml:space="preserve">
-    <value>Difensore</value>
+  <data name="FilterBy" xml:space="preserve">
+    <value>Фільтрувати за</value>
   </data>
-  <data name="Defenders" xml:space="preserve">
-    <value>Difensori</value>
+  <data name="SortBy" xml:space="preserve">
+    <value>Сортувати за</value>
   </data>
-  <data name="DefenderShort" xml:space="preserve">
-    <value>DEF</value>
+  <data name="ExperienceGained" xml:space="preserve">
+    <value>Отримано досвіду</value>
   </data>
-  <data name="Seasonal" xml:space="preserve">
-    <value>Stagionale</value>
+  <data name="KillsPerMatch" xml:space="preserve">
+    <value>Вбивств/Матч</value>
   </data>
-  <data name="Bomb" xml:space="preserve">
-    <value>Bomba</value>
+  <data name="Blindkills" xml:space="preserve">
+    <value>Сліпі вбивства</value>
   </data>
-  <data name="Hostage" xml:space="preserve">
-    <value>Ostaggio</value>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Кількість зіграних матчів</value>
   </data>
-  <data name="Level" xml:space="preserve">
-    <value>Livello {0}</value>
-  </data>
-  <data name="Secure" xml:space="preserve">
-    <value>Messa in sicurezza</value>
-  </data>
-  <data name="Assists" xml:space="preserve">
-    <value>Assist</value>
-  </data>
-  <data name="Headshots" xml:space="preserve">
-    <value>Colpi alla Testa</value>
-  </data>
-  <data name="Suicides" xml:space="preserve">
-    <value>Suicidi</value>
-  </data>
-  <data name="CurrentSeason" xml:space="preserve">
-    <value>Stagione Corrente</value>
-  </data>
-  <data name="Time" xml:space="preserve">
-    <value>Orario</value>
-  </data>
-  <data name="DownsCount" xml:space="preserve">
-    <value>{0:n0} A terra</value>
-  </data>
-  <data name="RevivesCount" xml:space="preserve">
-    <value>{0:n0} Resurrezioni</value>
-  </data>
-  <data name="DeathsCount" xml:space="preserve">
-    <value>{0:n0} Morti</value>
-  </data>
-  <data name="WLName" xml:space="preserve">
-    <value>V/S</value>
+  <data name="KillAssists" xml:space="preserve">
+    <value>Допомог у вбивстві</value>
   </data>
 </root>

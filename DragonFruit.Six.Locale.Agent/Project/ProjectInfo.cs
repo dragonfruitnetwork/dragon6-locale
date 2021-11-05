@@ -22,6 +22,7 @@ namespace DragonFruit.Six.Locale.Agent.Project
             "pt-BR",
             "ru",
             "tr",
+            "uk",
             "zh-TW" // chinese (taiwan)
         };
 

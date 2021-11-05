@@ -9,12 +9,11 @@ using DragonFruit.Six.Locale.Agent.Crowdin.Requests;
 
 namespace DragonFruit.Six.Locale.Agent
 {
-    internal class CrowdinApiClient : ApiClient
+    internal class CrowdinApiClient : ApiClient<ApiXmlSerializer>
     {
         public CrowdinApiClient()
         {
             UserAgent = "Dragon6";
-            Serializer = new ApiXmlSerializer();
         }
 
         public string[] Login { get; set; }

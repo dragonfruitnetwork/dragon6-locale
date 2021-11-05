@@ -160,7 +160,7 @@
     <value>Mağlup</value>
   </data>
   <data name="Melee" xml:space="preserve">
-    <value>Yakın Mesafe</value>
+    <value>Yakın Dövüş</value>
   </data>
   <data name="Operator" xml:space="preserve">
     <value>Operatör</value>
@@ -226,10 +226,10 @@
     <value>güvenli</value>
   </data>
   <data name="Assists" xml:space="preserve">
-    <value>Asist</value>
+    <value>Asistler</value>
   </data>
   <data name="Headshots" xml:space="preserve">
-    <value>Kafadan vuruşlar</value>
+    <value>Kafa Vuruşları</value>
   </data>
   <data name="Suicides" xml:space="preserve">
     <value>İntiharlar</value>
